@@ -1,0 +1,3 @@
+# Obsidian\*
+
+[Obsidian](https://obsidian.md) is a powerful new tool for taking notes and organizing knowledge. I would be surprised if any of you use it already, but that is the point. I want you to begin to use this software in order to ...

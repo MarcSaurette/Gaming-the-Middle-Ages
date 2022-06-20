@@ -46,7 +46,7 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 
 ### Do
 
-By September 20th, students will need to take their introduction (initially made on Teams) and turn it into a proper [profile](../course-info/syllabus/coursework/reflections/profile.md) on [cuPortfolio](../course-info/digital-tools/cuportfolio.md). It does not need to be sophisticated or super special (though I would appreciate if it was). This assignment is meant to get you used to the platform, which can take a bit of time getting used to.&#x20;
+By September 20th, students will need to take their introduction (initially made on Teams) and turn it into a proper [profile](../course-info/syllabus/coursework/reflections/profile.md) on [cuPortfolio](broken-reference). It does not need to be sophisticated or super special (though I would appreciate if it was). This assignment is meant to get you used to the platform, which can take a bit of time getting used to.&#x20;
 
 By September 20th, I will release the rules of an orientation Scavenger hunt, designed for your to earn XP in your assigned houses.&#x20;
 

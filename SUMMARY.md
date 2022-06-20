@@ -1,16 +1,16 @@
 # Table of contents
 
 * [FYSM 1405A: Gaming the Middle Ages](README.md)
-* [How to join the online class](how-to-join-the-online-class.md)
-* [Pandemic Learning](pandemic-learning/README.md)
-  * [Learning as a Mental Exercise](pandemic-learning/learning-as-a-mental-exercise.md)
+* [How to join class](how-to-join-the-online-class.md)
+* [Learning as a Mental Exercise](learning-as-a-mental-exercise.md)
+* [Experimenting with Learning](pandemic-learning.md)
 
 ## Course Information <a href="#course-info" id="course-info"></a>
 
 * [Syllabus](course-info/syllabus/README.md)
   * [What is a seminar?](course-info/syllabus/untitled.md)
   * [Your Professor, Marc](course-info/syllabus/your-professor.md)
-  * [Learning Outcomes](course-info/syllabus/learning-outcomes.md)
+  * [Learning Outcomes\*](course-info/syllabus/learning-outcomes.md)
   * [How much time do I spend...](course-info/syllabus/how-much-time-do-i-spend....md)
   * [Communication](course-info/syllabus/communication/README.md)
     * [Digital Classroom](course-info/syllabus/communication/digital-classroom.md)
@@ -37,31 +37,17 @@
   * [Assessment](course-info/syllabus/assessment-1/README.md)
     * [Why no grades?](course-info/syllabus/assessment-1/why-no-grades.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
-* [Schedule](course-info/schedule.md)
+* [Schedule\*](course-info/schedule.md)
 * [Digital Tools](course-info/digital-tools/README.md)
+  * [Obsidian\*](course-info/digital-tools/obsidian.md)
   * [Office](course-info/digital-tools/office.md)
   * [Teams](course-info/digital-tools/teams.md)
   * [Perusall](course-info/digital-tools/perusall.md)
   * [Hypothes.is](course-info/digital-tools/hypothes.is.md)
   * [Zotero](course-info/digital-tools/zotero.md)
   * [Trello](course-info/digital-tools/trello.md)
-  * [CuLearn](course-info/digital-tools/culearn.md)
-  * [CuPortfolio](course-info/digital-tools/cuportfolio.md)
 * [Game-Based Learning](course-info/game-based-learning/README.md)
-  * [Quest for the Middle Ages](course-info/game-based-learning/quest-for-the-middle-ages.md)
   * [Game Design](course-info/game-based-learning/game-design.md)
-
-## Investiture Controversy
-
-* [Investiture Controversy Game](investiture-controversy/untitled/README.md)
-  * [Timeline](investiture-controversy/untitled/timeline.md)
-  * [Writing](investiture-controversy/untitled/writing/README.md)
-    * [RTTP Writing Rubric](investiture-controversy/untitled/writing/untitled.md)
-  * [Speaking](investiture-controversy/untitled/speaking/README.md)
-    * [Participation Rubric](investiture-controversy/untitled/speaking/untitled.md)
-    * [RTTP Speaking Rubric](investiture-controversy/untitled/speaking/untitled-1.md)
-  * [Assessment](investiture-controversy/untitled/assessment.md)
-  * [Dicing](investiture-controversy/untitled/untitled.md)
 
 ## Prologue
 

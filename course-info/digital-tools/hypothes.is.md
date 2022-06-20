@@ -8,15 +8,15 @@ description: In progress
 
 ### Quick start:
 
-Click[ this link](https://hypothes.is/groups/X7eRqmgQ/fysm1405d-making-the-ma) to join the class hypothes.is group and register for an account.&#x20;
+Click[ this link](https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages) to join the class hypothes.is group and register for an account.&#x20;
 
 ### Installing Hypothes.is
 
-We will use hypothes.is _via_ a plug-in on your Chrome Browser or a Bookmarklet on other browsers.
+We will use hypothes.is _via_ a plug-in for Chrome or a Bookmarklet on other browsers.
 
-1.If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. The hypothes.is extension used to only works for Chrome, but now they give you other options. Chrome is still the most stable...
+1. If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. The hypothes.is extension used to only works for Chrome, but now they give you other options. Chrome is still the most stable...
 
-2\. Navigate to the hypothes.is website ([https://web.hypothes.is](https://web.hypothes.is/)) and press the "Get Started" button in the top right corner.&#x20;
+2\.  Navigate to the hypothes.is website ([https://web.hypothes.is](https://web.hypothes.is/)) and press the "Get Started" button in the top right corner.&#x20;
 
 ![](../../.gitbook/assets/Screen%20Shot%202020-06-16%20at%202.03.38%20PM.png)
 
@@ -66,4 +66,4 @@ We will use hypothes.is _via_ a plug-in on your Chrome Browser or a Bookmarklet 
 
 15\. For more of a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
 
-Join us here: [https://hypothes.is/groups/X7eRqmgQ/fysm1405d-making-the-ma](https://hypothes.is/groups/X7eRqmgQ/fysm1405d-making-the-ma)
+Join us here: [https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages](https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages)

@@ -2,7 +2,7 @@
 
 ### The short answer
 
-Almost all communication should happen via the [Teams](../../digital-tools/teams.md) platform. We can message privately, post general messages to channels, we can meet in an audio or videoconference as a whole or in small groups/ one-on-one.
+Almost all communication outside the classroom should happen via the [Teams](../../digital-tools/teams.md) platform. We can message privately, post general messages to channels, we can meet in an audio or videoconference as a whole or in small groups/ one-on-one.
 
 {% hint style="info" %}
 Only rarely should you email me (the professor) because it'll likely get caught in an email backlog.&#x20;
@@ -11,12 +11,6 @@ Only rarely should you email me (the professor) because it'll likely get caught 
 ### The long answer
 
 Communicating with one another is the key to a successful online class.&#x20;
-
-Given the distance-learning component of this course, we will all need to be pro-active and intentional with our communications and interactions. This is particularly important not only since the course will be distance-learning, but also because we will have to use multiple different software platforms to interact.
-
-{% hint style="info" %}
-If you want to communicate with one another outside of class, I have created a Slack channel which you can join. I will not read messages there, I won't monitor it and am not responsible for any content that might be shared there. I have created it purely to allow for you have a private venue. Join the [Slack team here](https://join.slack.com/t/themakingofth-9xj7609/shared\_invite/zt-gz9ve08l-uXsMeht\_jzHzAOByEDL8Ng).&#x20;
-{% endhint %}
 
 Although it probably will feel a bit overstructured, please read the following carefully. Knowing all of the avenues and opportunities for contact and communication – and maximizing the opportunities you have – will be crucial to making sure you have the best learning experience possible in this course.
 

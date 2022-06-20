@@ -10,7 +10,7 @@ _**Teams**_ is one of the many "enterprise tools"  you will be using (i.e. digit
 You can also install no software at all and just use Teams through a browser – I really don't recommend this. It is not a great option since you have to sign in again and again and again forever. Generally the platform via browsers allows you you do less with more hassle. Also, if you are a Mac/ iPhone user, Teams does not work with Safari (e.g. at all, just blocks it...).&#x20;
 {% endhint %}
 
-1. So, you've likely already installed MS Office 365. You might think you don't need to install Teams separately but you do. Getting your Office licence working doesn't mean it works for Teams. Sigh, microsoft.&#x20;
+1. So, you've likely already installed [MS Office 365](office.md). You might think you don't need to install Teams separately but you do. Getting your Office licence working doesn't mean it works for Teams. Sigh, microsoft.&#x20;
 2. Now, Carleton ITS has instructions on how to install Teams. You can see if you can follow along with their instructions, [here](https://carleton.ca/its/teams/download-app/). You fall into the category of "unmanaged PC" or Mac.&#x20;
 3. If you don't want to click to that page, install Teams our way. You can download mobile or desktop versions for most operating systems at the Canadian Microsoft site: [https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app)&#x20;
    1. Direct link for Apple's iOS ([App Store](https://itunes.apple.com/app/id1113153706))
@@ -45,7 +45,7 @@ BUT if this is your first time signing into Teams, you will likely encounter som
 
 ![](../../.gitbook/assets/Screen%20Shot%202020-06-11%20at%209.43.44%20AM%20copy.png)
 
-So this is a bit confusing, because your Carleton IT admins have enabled Microsoft Teams for Carleton students. So what you need to do is click on that button, "Sign Up for Teams". It might take you to another page where you enter the same "cmail" Carleton email address you did before, and follow their instructions. Then, the Microsoft website should then send you back to the Carleton email authentication page (above step 8) to finalize everything.&#x20;
+So this is a bit confusing, because your Carleton IT admins _have_ enabled Microsoft Teams for Carleton students. So what you need to do is click on that button, "Sign Up for Teams". It might take you to another page where you enter the same "cmail" Carleton email address you did before, and follow their instructions. Then, the Microsoft website should then send you back to the Carleton email authentication page (above step 8) to finalize everything.&#x20;
 
 Or it might just keep sending you back to this message recursively. I would love to write this section up with screen shots for you, but I can't ... because I already did this stage before I realized I would need to explain this to other people. So try two things:
 
@@ -62,14 +62,12 @@ Or it might just keep sending you back to this message recursively. I would love
 
 ### Using Teams
 
-If you haven't used it before (and I haven't before May, 2020) Teams will take a bit of getting used to understand how it works best.&#x20;
-
-Watch a video about what it is. Microsoft adds lots of touching music and feel good images to make you think that it will solve all your problems. It won't but, they do give you a bit of a sense on how to use Teams.&#x20;
+If you haven't used it before, Teams will take a bit of getting used to understand how it works best. But this is one of the standard telecommunication packages now for the world outside of university, so it isn't lost labour to work on this.&#x20;
 
 Download a PDF "[Quick Start Guide](https://edudownloads.azureedge.net/msdownloads/MicrosoftTeamsforEducation\_QuickGuide\_EN-US.pdf)" to understand how Teams works.&#x20;
 
 Go to the next page for more information about how to use Teams for this class.&#x20;
 
 {% hint style="danger" %}
-Microsoft is pushing Teams in 2020 as their videoconference/ teaching solution because of the deperate need of schools, universities and government to quickly adopt a distance-learning "solution". It keeps getting updated and new functionalities appear frequently, so what it can do/ how we can use it might change over the course of our class. &#x20;
+Microsoft  has been pushing Teams as their videoconference/ teaching solution because of the deperate need of schools, universities and government to quickly adopt a distance-learning "solution" over the pandemic. It keeps getting updated and new functionalities appear frequently, so what it can do/ how we can use it might change over the course of our class. &#x20;
 {% endhint %}
