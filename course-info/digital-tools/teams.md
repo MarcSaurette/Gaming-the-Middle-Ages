@@ -4,6 +4,10 @@
 
 _**Teams**_ is one of the many "enterprise tools"  you will be using (i.e. digital tools/ apps that businesses use to manage projects and keep in communication). We're adapting it to the educational environment to take advantage the relative ease of communication that it provides. Ideally, it will be a digital hub connecting different parts of the course. I hope that Teams makes it easy for you to get in contact with the professors, teaching assistant(s) and your fellow students. It also works on computers, mobile devices and most browsers so you can keep in contact with the class through the form of connection you want (mobile app, desktop software, email, texts...).&#x20;
 
+{% hint style="info" %}
+<mark style="color:red;">Our</mark> [<mark style="color:red;">team</mark>](https://teams.microsoft.com/l/team/19%3aNNNpE7JePEjNyqxeXhNKWT\_XtEwA1EOei1z6Xj4ECoQ1%40thread.tacv2/conversations?groupId=6e3e34d5-9bd9-4989-8fa8-6347146e4eb8\&tenantId=6ad91895-de06-485e-bc51-fce126cc8530) <mark style="color:red;">can be joined via the app with the code</mark> <mark style="color:red;"></mark><mark style="color:red;">**96djmq7**</mark> <mark style="color:red;"></mark><mark style="color:red;">(but this only works if you are correctly signed into teams with your correct Carleton ID).</mark>&#x20;
+{% endhint %}
+
 ### Installing Microsoft Teams on a Desktop
 
 {% hint style="danger" %}
@@ -40,6 +44,8 @@ You can also install no software at all and just use Teams through a browser –
 ![](../../.gitbook/assets/Screen%20Shot%202020-06-10%20at%2011.08.40%20AM.png)
 
 ![](../../.gitbook/assets/Screen%20Shot%202020-06-10%20at%2011.09.10%20AM.png)
+
+So, if this works. Huzzah!! You can join our [team](https://teams.microsoft.com/l/team/19%3aNNNpE7JePEjNyqxeXhNKWT\_XtEwA1EOei1z6Xj4ECoQ1%40thread.tacv2/conversations?groupId=6e3e34d5-9bd9-4989-8fa8-6347146e4eb8\&tenantId=6ad91895-de06-485e-bc51-fce126cc8530) via the app with the code **96djmq7** (but this only works if you are correctly signed into teams with your correct Carleton ID). Or maybe I've already added you, so that it appears automatically!
 
 BUT if this is your first time signing into Teams, you will likely encounter some roadblocks before getting to this stage. After you enter the CORRECT Carleton email in step 7 (above), Microsoft might not recognize you. And you might encounter something that looks like this window, which says, "You're missing out! Ask your admin to enable Microsoft Teams for Carleton University":
 

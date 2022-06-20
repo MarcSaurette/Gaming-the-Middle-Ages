@@ -1,4 +1,4 @@
-# Schedule
+# Schedule\*
 
 {% hint style="danger" %}
 I'll post an overview schedule for the course here. Obviously, this is still in progress.&#x20;
@@ -39,11 +39,11 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 ### Prologue (weeks 1-3)
 
-#### I. [Orientation](../prologue/welcome.md) (September 9)
+#### I. [Orientation](../pregame/welcome.md) (September 9)
 
-#### II. [When is the Middle Ages?](../prologue/when-is-the-middle-ages.md)  (September 14/16)
+#### II. [When is the Middle Ages?](../pregame/when-is-the-middle-ages.md)  (September 14/16)
 
-#### III. [Where is the Middle Ages?](../prologue/where-is-the-middle-ages.md)  (September 21/23)
+#### III. [Where is the Middle Ages?](../pregame/where-is-the-middle-ages.md)  (September 21/23)
 
 ### Fundamentals (weeks 4-6)
 
@@ -51,25 +51,25 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 #### V. [Research](../fundamentals/research.md) (October 5/7)
 
-#### VI. [Intermission](../fundamentals/intermission.md)  (October 14)
+#### VI. [Intermission](broken-reference)  (October 14)
 
 ### The Rise of the Medieval (weeks 7-13)
 
-#### VII. [The Myth of the Dark Ages](../history-of-history/the-myth-of-the-dark-ages.md) (October 19/21)
+#### VII. [The Myth of the Dark Ages](broken-reference) (October 19/21)
 
-#### VIII. [Romanticism, Gothicism and the Novelization of the Middle Ages](../history-of-history/nationalist-appropriations.md) (November 2/4)
+#### VIII. [Romanticism, Gothicism and the Novelization of the Middle Ages](broken-reference) (November 2/4)
 
-#### IX. [Gothic Revival Architecture as National Style](../history-of-history/nationalist-appropriations.md) (November 9/11)
+#### IX. [Gothic Revival Architecture as National Style](broken-reference) (November 9/11)
 
-#### X. [Nationalism and Medieval Studies in the Academy](../history-of-history/nationalism-and-medieval-studies-in-the-academy.md) (November 16/18)
+#### X. [Nationalism and Medieval Studies in the Academy](broken-reference) (November 16/18)
 
-#### XI. [Nationalism and the Medieval Film](../history-of-history/nationalism-and-the-medieval-film.md) (November 23/25)
+#### XI. [Nationalism and the Medieval Film](broken-reference) (November 23/25)
 
-#### XII. [The Middle Ages in the Media](../history-of-history/the-middle-ages-in-the-media.md) (November 30/December 2)
+#### XII. [The Middle Ages in the Media](broken-reference) (November 30/December 2)
 
-#### XIII. [The Middle Ages in Games](../history-of-history/the-middle-ages-in-games.md) (December 7/9)
+#### XIII. [The Middle Ages in Games](broken-reference) (December 7/9)
 
-#### XIIIb. [The Finale](../epilogue/the-finale.md) (December 11)
+#### XIIIb. [The Finale](broken-reference) (December 11)
 
 ## Term II - Evidence of the Middle Ages
 

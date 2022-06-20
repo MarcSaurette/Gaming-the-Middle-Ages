@@ -1,10 +1,10 @@
-# Coursework
+# Coursework\*
 
 When learning in person, professors and students meet in class for lectures and to discuss readings, debate etc. Thus, some learning happens together at the same time, and some other learning happens on the student's own time (e.g. writing papers, doing readings etc.). When a course is online, this is also the case. We will have some time together (on [MS Teams](../../digital-tools/teams.md)), and sometimes learning happens "asynchronously" (i.e. on our own time).&#x20;
 
 Usually when I teach this course, I divide work into oral and written work. Oral work usually consists of "participation" i.e. being in class, asking questions, showing you've learned from doing the readings, etc (an abbreviation of _et cetera_, Latin for "and other things"). But participation, since we're taking this online, will be based on "conversations"/ discussions in the [Teams](../../digital-tools/teams.md) platform – it might be oral or it might be written. Over the course of the first term, you will complete the following work – designed so that you build on skills you will have acquired earlier in the year.&#x20;
 
-The [orientation scavenger hunt](quests.md#the-seeking), the  [weekly writing pieces](reflections/) and [exercises](assignments/) are necessary and required. That is to say, they all must be complete for the student to pass the course. Other coursework (such as the [individual quests](quests.md#individual-quests)) are optional.
+The [orientation scavenger hunt](broken-reference), the  [weekly writing pieces](reflections/) and [exercises](assignments/) are necessary and required. That is to say, they all must be complete for the student to pass the course. Other coursework (such as the [individual quests](broken-reference)) are optional.
 
 {% tabs %}
 {% tab title="Participation" %}
