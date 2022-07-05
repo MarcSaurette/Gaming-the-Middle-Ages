@@ -6,7 +6,7 @@ By the end of the first week (by Sunday, October 11th), what should you **know**
 
 1. You will know the basics about the formation of Medieval Studies as a discipline
 2. You will learn about the basics of conducting scholarly research using Library resources
-3. You will practice using [hypothes.is ](../course-info/digital-tools/hypothes.is.md)to comment on a website (wikipedia)
+3. You will practice using [hypothes.is ](../course-info/digital-tools/hypothes.is/)to comment on a website (wikipedia)
 
 ### Overview:
 

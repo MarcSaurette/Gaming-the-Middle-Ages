@@ -1,4 +1,4 @@
-# Where is the Middle Ages?
+# Where is the Middle Ages?\*
 
 ### Goals for this week (September 21/23, 2020)
 
@@ -22,7 +22,7 @@ This week we will move from examing the Middle Ages as a temporal phenomenon (a 
 
 On Monday, September 21st, the professor will speak about the traditional geographic definition of the "Medieval World" and how this has changed in the last decades. Students will be asked to consider their own inherited ideas about the Middle Ages to see where and why they place borders.&#x20;
 
-On Wednesday, September 23rd, the professor will lead students through the process of reading and annotating a scholarly article (and how to do so quickly). He will also demonstrate how to use the [hypothes.is](../course-info/digital-tools/hypothes.is.md) social annotation tool and the bibliographic software, [Zotero](../course-info/digital-tools/zotero.md). You might want to have registered and installed this software in time for this class, but this is optional.&#x20;
+On Wednesday, September 23rd, the professor will lead students through the process of reading and annotating a scholarly article (and how to do so quickly). He will also demonstrate how to use the [hypothes.is](../course-info/digital-tools/hypothes.is/) social annotation tool and the bibliographic software, [Zotero](../course-info/digital-tools/zotero.md). You might want to have registered and installed this software in time for this class, but this is optional.&#x20;
 
 ### Read/Watch/Listen
 
@@ -58,7 +58,7 @@ This week you will receive feedback on the Profiles you created on cuPortfolio l
 
 If students want to do more to ensure success, what materials and resources (e.g. reading, video, audio simulations, games) do you recommend?
 
-* Students can make sure they are logged into [hypothes.is](../course-info/digital-tools/hypothes.is.md) and [zotero](../course-info/digital-tools/zotero.md).&#x20;
+* Students can make sure they are logged into [hypothes.is](../course-info/digital-tools/hypothes.is/) and [zotero](../course-info/digital-tools/zotero.md).&#x20;
 * if they have any further questions about the class, meet with the professor during online office hours on Wednesday mornings from 11h00-12h00.  I'll be online and you can call me through Teams directly for a voice or videochat.&#x20;
 
 ****

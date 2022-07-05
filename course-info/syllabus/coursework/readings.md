@@ -1,6 +1,6 @@
-# Readings
+# Readings\*
 
-I am trying something new this year. Instead of having the bookstore order physical books to campus (which I am not sure if you are going to be nearby), we will instead use digital books which we will read and annotate together via [Perusall](../../digital-tools/perusall.md).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. We will also being using another annotation tool, [Hypothes.is](../../digital-tools/hypothes.is.md) to annotate webpages and other online resources.&#x20;
+I am trying something new this year. Instead of having the bookstore order physical books to campus (which I am not sure if you are going to be nearby), we will instead use digital books which we will read and annotate together via [Perusall](../../digital-tools/perusall.md).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. We will also being using another annotation tool, [Hypothes.is](../../digital-tools/hypothes.is/) to annotate webpages and other online resources.&#x20;
 
 You will not need to purchase any textbooks for this class.&#x20;
 
