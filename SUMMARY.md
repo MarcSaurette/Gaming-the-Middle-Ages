@@ -6,9 +6,9 @@
 ## Course Information <a href="#course-info" id="course-info"></a>
 
 * [Syllabus\*](course-info/syllabus/README.md)
-  * [What is a seminar?](course-info/syllabus/untitled/README.md)
-    * [Experimenting with Learning](course-info/syllabus/untitled/pandemic-learning.md)
-    * [Learning as a Mental Exercise](course-info/syllabus/untitled/learning-as-a-mental-exercise.md)
+  * [What is a seminar?](course-info/syllabus/untitled.md)
+    * [Experimenting with Learning](pandemic-learning.md)
+    * [Learning as a Mental Exercise](learning-as-a-mental-exercise.md)
   * [Your Professor, Marc](course-info/syllabus/your-professor.md)
   * [Learning Outcomes\*](course-info/syllabus/learning-outcomes.md)
   * [How much time do I spend...](course-info/syllabus/how-much-time-do-i-spend....md)
@@ -54,10 +54,10 @@
 
 ## Medievalist Toolkit <a href="#medtoolkit" id="medtoolkit"></a>
 
-* [When is the Middle Ages?\*](medtoolkit/when-is-the-middle-ages.md)
-* [Where is the Middle Ages?\*](medtoolkit/where-is-the-middle-ages.md)
-* [Evidence](medtoolkit/evidence.md)
-* [Research](medtoolkit/research.md)
+* [When is the Middle Ages?\*](pregame/when-is-the-middle-ages.md)
+* [Where is the Middle Ages?\*](pregame/where-is-the-middle-ages.md)
+* [Evidence](fundamentals/evidence.md)
+* [Research](fundamentals/research.md)
 
 ## Historical Game Studies Toolkit <a href="#hgstoolkit" id="hgstoolkit"></a>
 

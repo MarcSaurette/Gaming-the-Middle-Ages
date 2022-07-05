@@ -41,15 +41,15 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 #### I. [Orientation](../pregame/welcome.md) (September 9)
 
-#### II. [When is the Middle Ages?](../medtoolkit/when-is-the-middle-ages.md)  (September 14/16)
+#### II. [When is the Middle Ages?](../pregame/when-is-the-middle-ages.md)  (September 14/16)
 
-#### III. [Where is the Middle Ages?](../medtoolkit/where-is-the-middle-ages.md)  (September 21/23)
+#### III. [Where is the Middle Ages?](../pregame/where-is-the-middle-ages.md)  (September 21/23)
 
 ### Fundamentals (weeks 4-6)
 
-#### IV. [Evidence](../medtoolkit/evidence.md) (September 28/30)
+#### IV. [Evidence](../fundamentals/evidence.md) (September 28/30)
 
-#### V. [Research](../medtoolkit/research.md) (October 5/7)
+#### V. [Research](../fundamentals/research.md) (October 5/7)
 
 #### VI. [Intermission](broken-reference)  (October 14)
 
