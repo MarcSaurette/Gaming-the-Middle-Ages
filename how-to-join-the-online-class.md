@@ -1,6 +1,6 @@
 # How to join class
 
-Our classes are scheduled take place on Mondays and Wednesdays from 11h30until 13h00. As of June, our class will be located in room 215 of Paterson Hall. Carleton has a tendency to change these without warning...
+Our classes are scheduled take place on Mondays and Wednesdays from 11h30until 13h00. As of June, our class will be located in **room 215 of Paterson Hall**. Carleton has a tendency to change these without warning...
 
 We will also be using a number of online resources to help with communication, file sharing and explaining learning activities.&#x20;
 
