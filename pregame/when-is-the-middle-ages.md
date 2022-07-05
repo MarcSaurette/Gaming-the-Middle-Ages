@@ -1,4 +1,4 @@
-# When is the Middle Ages?\*
+# When is the Middle Ages?
 
 ### Goals for this week (September 14/16, 2020)
 

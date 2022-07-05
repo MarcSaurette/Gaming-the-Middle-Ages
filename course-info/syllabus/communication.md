@@ -22,7 +22,7 @@ Information about the process to request an extension/accommodation for reasons 
 
 1. The static website on [gitbook.com](https://marc-saurette.gitbook.io/gaming-the-middle-ages/) will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc.&#x20;
 2. Our "Gaming the Middle Ages" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run. It will be a hub with links to the digital tools and readings we will be using in the course.  Note: you must be logged in to your Carleton cmail account to access [Teams](../digital-tools/teams.md).&#x20;
-3. Our Brightspace coursepage will only be used with some learning activities developed together with other first-year seminars in history.&#x20;
+3. Our Brightspace coursepage will only be used for some learning activities/ student success skills developed for use in first-year seminars.
 
 {% hint style="info" %}
 ·Since we will often announce and reiterate a variety of important logistical information live in class (not all of which will be necessarily announced elsewhere), you need to attend class consistently, and check with colleagues about whether you missed any logistical information if you were not able to attend a class.
@@ -48,7 +48,7 @@ There will be a variety of official channels through which you can connect with 
 * MS Teams chat/ videoconference functions before, during and after class
 * Small group breakouts in class
 * Self-scheduled group meetings you can organize via Teams
-* outside of class [Slack channel](https://join.slack.com/t/themakingofth-9xj7609/shared\_invite/zt-gz9ve08l-uXsMeht\_jzHzAOByEDL8Ng)
+* outside of class Discord
 
 #### **Live Contact with Professor**
 

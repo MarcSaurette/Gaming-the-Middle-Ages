@@ -1,4 +1,4 @@
-# Where is the Middle Ages?\*
+# Where is the Middle Ages?
 
 ### Goals for this week (September 21/23, 2020)
 
