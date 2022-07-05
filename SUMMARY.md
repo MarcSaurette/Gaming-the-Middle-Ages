@@ -14,7 +14,7 @@
   * [How much time do I spend...](course-info/syllabus/how-much-time-do-i-spend....md)
   * [Communication](course-info/syllabus/communication.md)
   * [Coursework\*](course-info/syllabus/coursework/README.md)
-    * [Participation\*](course-info/syllabus/coursework/participation.md)
+    * [Participation](course-info/syllabus/coursework/participation.md)
     * [Readings\*](course-info/syllabus/coursework/readings.md)
     * [Exercises\*](course-info/syllabus/coursework/assignments/README.md)
       * [1. Introduce Yourself\*](course-info/syllabus/coursework/assignments/1.-introduce-yourself.md)
