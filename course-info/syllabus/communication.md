@@ -48,7 +48,7 @@ There will be a variety of official channels through which you can connect with 
 * MS Teams chat/ videoconference functions before, during and after class
 * Small group breakouts in class
 * Self-scheduled group meetings you can organize via Teams
-* outside of class Discord
+* outside of class [Discord](../digital-tools/discord.md)
 
 #### **Live Contact with Professor**
 
