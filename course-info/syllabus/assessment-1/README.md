@@ -39,11 +39,11 @@ Every point values below are doubled if I assess it to be done exceptionally. Th
 
 Generally, each week you will come to class, read something, write something, and do an exercise (which may start in class and need to be completed outside of class). So each week you should typically gain 50 points (or roughly 600 over the course of the first term).&#x20;
 
-| XP Gained      | Task                                                               |
-| -------------- | ------------------------------------------------------------------ |
-| 20             | For each piece of written work assignment                          |
-| 20             | For each exercise completed on time                                |
-| 1 / annotation | For reading and annotating the assigned readings each week on time |
-| up to 10       | Attending and participating in class                               |
-| 25             | Attending optional events                                          |
+| XP Gained      | Task                                                                                            |
+| -------------- | ----------------------------------------------------------------------------------------------- |
+| 20             | [For each piece of written work assignment](../coursework/reflections/)                         |
+| 20             | [For each exercise completed on time](../coursework/assignments/)                               |
+| 1 / annotation | [For reading and annotating the assigned readings each week on time](../coursework/readings.md) |
+| up to 10       | [Attending and participating in class](../coursework/participation.md)                          |
+| 25             | [Attending optional events](../../optional-learning-activities.md)                              |
 
