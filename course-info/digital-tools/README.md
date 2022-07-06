@@ -23,5 +23,5 @@ Other software will be free to you because of arrangements between vendors and C
 3. [Hypothes.is](hypothes.is/): A tool for annotating the web/ pdfs. We'll use it together with Obsidian for taking effective notes on primary and secondary sources.&#x20;
 4. [Github](github.md). Github provides a free public repository for your work. It has tremendous collaborative potential, but we will only scratch the surface of its utility this year. In future history courses, you will likely make further use of this resource.&#x20;
 5. [Trello](trello.md). It makes sense to have a tool for planning out assignments – especially for group projects. We likely won't use it until Winter term.&#x20;
-6. [Zotero](zotero/): an incredibly useful tool to  download, organize and keep track of web and bibliographic resources you use and find during your research. It can export bibliographies directly into a Word document (which is much less painful than doing each by hand...)  We will not use it extensively, but it is useful.
+6. [Zotero](zotero.md): an incredibly useful tool to  download, organize and keep track of web and bibliographic resources you use and find during your research. It can export bibliographies directly into a Word document (which is much less painful than doing each by hand...)  We will not use it extensively, but it is useful.
 

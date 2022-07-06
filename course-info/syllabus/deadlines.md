@@ -2,11 +2,13 @@
 
 In years past, I begin the year outlining to each class the dire consequences that arise from not handing something in at the assigned time (e.g. first maledictions, then drastic cuts to marks on a _per diem_ basis). This year, we're going to try something different. I'm going to trust you and so we're working off the honour system.&#x20;
 
-Since we're not really having marks for each assignment, I can't threaten draconian time-based cuts (nor do I want to) and generally in my experience students only rarely hand things in late  and then only if necessary. Please let me know (in advance) if there are good reasons for why you can't get something in one time, and we can try to find possible solutions (see below, [Extensions](deadlines.md#extensions-and-accommodations)).
+Please let me know (in advance) if there are good reasons for why you can't get something in one time, and we can try to find possible solutions (see below, [Extensions](deadlines.md#extensions-and-accommodations)).
 
 ### Academic Reputation
 
-Instead we are going to establish a system of academic honour or **Reputation** for the first term. Everyone starts with 10 reputation points.You can gain reputation points by helping your classmates and can lose them by being late (loss of 1point for an assignment being late, more for academic integrity issues). If you fall below a 5 in reputation, you will suffer the consequences in the Academy - you will face greater difficulties in solving clues, eliciting information and trying to influence your group in the game.&#x20;
+Instead we are going to establish a system of academic honour or **Reputation** for the first term. Everyone starts with 10 reputation points. You can gain reputation points by helping your classmates and can lose them by being late (loss of 1 point for an assignment being late, more for academic integrity issues).
+
+
 
 ### Important Dates for Term I
 

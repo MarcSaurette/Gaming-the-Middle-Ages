@@ -45,7 +45,7 @@
   * [Github](course-info/digital-tools/github.md)
   * [Discord](course-info/digital-tools/discord.md)
   * [Brightspace\*](course-info/digital-tools/brightspace.md)
-  * [Zotero](course-info/digital-tools/zotero/README.md)
+  * [Zotero](course-info/digital-tools/zotero.md)
     * [Using Zotero with Obsidian\*](course-info/digital-tools/zotero/using-zotero-with-obsidian.md)
   * [Trello](course-info/digital-tools/trello.md)
 * [Game-Based Learning](course-info/game-based-learning/README.md)

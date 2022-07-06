@@ -1,6 +1,6 @@
 # How much time do I spend...
 
-I certainly understand that students all have committments beside this class – work, friends, family all require your attention. Whether realistic or not, professors generally see university students as "full timers" (i.e. spending 45 hr/week on classtime). This might or might not describe what you can realistically devote each week, but it is nontheless what professors expect students to do in order to do well in their classes.&#x20;
+I certainly understand that students all have commitments beside this class – work, friends, family all require your attention. Whether realistic or not, professors generally see university students as "full timers" (i.e. spending 45 hr/week on university). This might or might not describe what you can realistically devote each week, but it is nontheless what professors expect students to do in order to do well in their classes.&#x20;
 
 ### How much time should I spend on this class?
 
@@ -16,7 +16,7 @@ In university, we consider students as largely independent learners. We thus ima
 
 Keep in mind this is time averaged over the term. Some weeks you may spend less time reading for class, and more time writing an assignment. Depending on how well you plan ahead, you might be working much more than 2-4 hours some weeks on an assignment (i.e. if you're not working steadily over the course of the term, you will have some very long work weeks).&#x20;
 
-### I might also need to spend additional time on:
+### You might also need to spend additional time on:
 
 * talking to the professor. You will at times want or need more explanation on an assignment, readings or task they you don't understand. Talking with the professor is the best option for this - usually meetings last about a 1/2 hour to address a relatively straightfoward topic.&#x20;
 * talking to classmates. You might need to spend some time co-ordinating with students about assignments or group work. Or you might want to just talk to them...
