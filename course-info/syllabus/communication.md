@@ -28,6 +28,10 @@ Information about the process to request an extension/accommodation for reasons 
 ·Since we will often announce and reiterate a variety of important logistical information live in class (not all of which will be necessarily announced elsewhere), you need to attend class consistently, and check with colleagues about whether you missed any logistical information if you were not able to attend a class.
 {% endhint %}
 
+#### **Feedback**
+
+Student will get feedback from the professor on an individualized google sheet (url to be distributed in the first few weeks of class) which will allow students to track classwork and deadlines, as well as get ongoing commentary about completed work from the professor.
+
 #### **Live Contact**
 
 We strongly believe that live interaction with your fellow students and the professor is one of the most efficient, effective and valuable parts of the learning experience of any university course.&#x20;
