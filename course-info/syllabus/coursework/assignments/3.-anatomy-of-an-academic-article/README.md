@@ -15,7 +15,7 @@ I have posted this article on Persuall for us to annotate easily. We could also 
 1. Make sure you've created a hypothes.is account and installed the extension (instructions [here](../../../../digital-tools/hypothes.is/#installing-hypothes-is))
 2. Navigate to [https://academic.oup.com/past/article/238/suppl\_13/1/5230769](https://academic.oup.com/past/article/238/suppl\_13/1/5230769)
 3. Make sure you're using a browswer with the hypothes.is extension turned on, you're signed in and your group is set to "FYSM1405D Making the MA".&#x20;
-4. Make sure you've [installed](../../../../digital-tools/zotero.md) and turned on Zotero. Add this article to your Zotero library by clicking on the extension icon on your browser. You can add notes about the article to the "Notes" section of Zotero associated with the article (to have for future use).
+4. Make sure you've [installed](../../../../digital-tools/zotero/) and turned on Zotero. Add this article to your Zotero library by clicking on the extension icon on your browser. You can add notes about the article to the "Notes" section of Zotero associated with the article (to have for future use).
 5. Start annotating.
 
 {% hint style="info" %}

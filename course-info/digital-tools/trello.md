@@ -1,3 +1,7 @@
+---
+description: '[This is a tool we''ll likely only use in the second term]'
+---
+
 # Trello
 
 ### What is Trello?

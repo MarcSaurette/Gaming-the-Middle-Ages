@@ -1,13 +1,13 @@
-# Learning Outcomes\*
+# Learning Outcomes
 
 ### What am I going to learn?
 
-We want you to learn how to _read_, how to _write_, how to _research_ and most importantly how to _think_ like a historian. With a focus on the Middle Ages, this course will generally answer the questions, "What is History?" and "What is the purpose of History?". To that we add the question, "what is a game" and what do they teach us about how we view the past?
+We want you to learn how to _read_, how to _write_, how to _interpret,_ how to _research_ and most importantly how to _think_ like a historian. With a focus on the Middle Ages, this course will generally answer the questions, "What is History?" and "What is the purpose of History?". To that we add the question, "What is a game" and what do they teach us about how we view the Middle Ages?
 
 As your professor, I want to be clear about what you will learn (or what I want you to learn if all goes well) by the end of the year. I think **a lot** about what I want my students to learn so that they (i.e. you) can make progress in becoming a historian.&#x20;
 
 {% hint style="info" %}
-&#x20;When you're applying to a new university program, or trying to get a scholarship, or looking for a job, people will want to know what skills you have and how you can demonstrate them. Being able to refer to concrete examples helps. When you can say, "I can work and organize in digital teams" and can also point to your work in this class with enterprise tools (such as Teams or Planner), you can show (not just say) your expertise...
+&#x20;When you're applying to a new university program (e.g. grad school or law school), or trying to get a scholarship, or looking for a job, people will want to know what skills you have and how you can demonstrate them. Being able to refer to concrete examples helps. When you can say, "I can work and collaborate in digital teams" and can also point to your work in this class with enterprise tools (such as Teams or Trello), you can show (not just say) your expertise...
 {% endhint %}
 
 ### What are the Learning Outcomes for this Class?
@@ -17,14 +17,23 @@ Generally...
 1. You will learn about how to navigate Carleton university and its resources
 2. You will learn how to be a university student, including key study skills, etiquette for interacting with your fellow students and the professor ...
 
-Specifically ....
+In terms of content, you will:
 
-1. You will learn how to read and interpret medieval evidence and learn the advantages and difficulties of working with them.&#x20;
-2. You will learn the limitations of evidence (and thus our knowledge) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and that you will not always have a clear answer.&#x20;
-3. You will learn terminology (i.e. the language used by professional historians) and different ways (i.e. methodologies) to describe the medieval past.&#x20;
-4. You will learn about about how people in the past and today represent the Middle Ages. A key part of thinking critically about the past (which is what methodologies can help you do) is understanding how modern myths about the time period arose and why they are reproduced uncritically in modern culture.&#x20;
-5. You will learn how to work independently and as a group, using digital "enterprise" tools to plan and execute written assignments. You will learn ways to manage your time and your work flow, with apps like [toggl](https://www.toggl.com/features/) or [tasks](https://tasks.office.com).
-6. By working in a digital environment, you can begin to craft a digital identity which reflects a professional you – its a good way to make the University-You rise up the google rankings (to hide those embarrassing posts on someone's tumblr feed...). &#x20;
+1. learn how to read and interpret medieval evidence and learn the advantages and difficulties of working with them.&#x20;
+2. come to understand the limitations of evidence (and thus our knowledge) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and that you will not always have a clear answer.&#x20;
+3. uncover fundamental myths and understand key histories of the medieval world, including how it is defined by ideas of geography, politics, religion, gender (etc.) You will learn about about how people in the past and today represent the Middle Ages. A key part of thinking critically about the past (which is what methodologies can help you do) is understanding how modern myths about the time period arose and why they are reproduced uncritically in modern culture.&#x20;
+4. gain perspectives and understanding about the history of medieval and modern games (both analog and digital)&#x20;
+5. learn the terminology, types and principles of games through hands-on play, observation and analysis&#x20;
+6. have an opportunity to explore underlying concepts, technologies, and languages of contemporary games and gain an understanding of available game resources not only from the viewpoint of a game player but also from that of a game maker.
+
+In terms of skills:
+
+1. You will learn how to closely read and analyze sources with different historical methodologies.
+2. You will learn how to take notes (class notes and research notes), synthesize them and use them to develop conclusions.
+3. You will learn study skills and habits to help you achieve academic succes in this class and others.
+4. You will learn digital tools for working on projects that will help you in this and future classes.
+5. You will learn the basics of game design and have an opportunity to create a game by the end of the year.&#x20;
+6. You will learn how to work independently and as a group, using digital "enterprise" tools to plan and execute written assignments. You will learn ways to manage your time and your work flow, with apps like [toggl](https://www.toggl.com/features/) or [tasks](https://tasks.office.com).
 
 {% hint style="info" %}
 Learning outcomes are usually practical things, such as (imagine this said in a grumpy professor voice), "Learning enterprise tools allow you to succeed in the world after graduation". But one of the most important things to do in this class is to get to know your fellow students!&#x20;

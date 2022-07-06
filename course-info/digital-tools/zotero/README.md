@@ -13,8 +13,8 @@ Zotero can take a bit of time to get used to, but if you regularly use it, Zoter
 1. You will need to register for a free account [here](https://www.zotero.org/user/register).
 2. You will need to download the free software [here](https://www.zotero.org/download/) and install the software on your computer. Zotero works best if you also install the plugin on your internet browser, to enable you to add content to your repository with a single click.
 3. If you have problems installing it, consult the Zotero website [here](https://www.zotero.org/support/installation).&#x20;
-4. You could join the Zotero group for the class, which allows us to organize content as a group. The group can be found [here](https://www.zotero.org/groups/4632968/gaming\_the\_middle\_ages), but I need to invite everyone.
-5. But probably you are just going to use it on your own.&#x20;
+4. You could join the Zotero group for the class, which allows us to organize content as a group. The group can be found [here](https://www.zotero.org/groups/4632968/gaming\_the\_middle\_ages), but I need to invite everyone, which I will do when it seems useful for us to start to use (likely mid Fall term).
+5. Zotero is something that you can use at many different levels of increasing complexity. I'll show  you the basics and how to use it with Obsidian (optional).
 
 {% hint style="info" %}
 UCLA libraries has a [well-written tutorial](https://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/) about how to install and use Zotero effectively. I strongly suggest you check it out first.&#x20;

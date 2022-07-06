@@ -16,6 +16,6 @@ Maybe imagine yourself as a new initiate at a venerable school, "The Academy" in
 
 Or just play games each week to deepen you sense of history and your awareness of how games work to represent the Middle Ages.&#x20;
 
-![An alternate Ottawa, with "The Academy" near its centre.](<../../.gitbook/assets/The Academy - Ottawa.png>)
+![An alternate medieval-esque Ottawa.](<../../.gitbook/assets/The Academy - Ottawa.png>)
 
-![The Academy, depicted with modern scientifico-aesthetic accuracy. ](<../../.gitbook/assets/The Academy (with numbers and legend).pdf>)
+![An alternate medievalesque Carleton - aka The Academy, depicted with modern scientifico-aesthetic accuracy. ](<../../.gitbook/assets/The Academy (with numbers and legend).pdf>)

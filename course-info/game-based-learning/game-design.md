@@ -7,7 +7,7 @@ Historians attempt to take very complex historical situtations and view them thr
 No one is expected to have any experience in game-design, but rather we will work together to accomplish our work. It is the process, far more than the product which is important for our learning.
 
 1. I will distribute a game-design modules, laying out possible kinds of games, topics, best practices and a reading program on the historical topic (including primary and secondary sources). After choosing a topic, students will be responsible as a group for researching the field, discerning the current state of research and then developing the rules of a game (and its look) from this prepatory work.&#x20;
-2. We will devote Wednesdays of the second term to brainstorming, collaboration and game development.
+2. We will devote Wednesdays of the second term to brainstorming, collaboration and game development. This will get us working with tools like Carleton's printing press or 3D printers.
 3. At the end of the year we will endeavour to release an online version of it or to produce a physical prototype (depending on what kind of game is produced).&#x20;
 
 Fundamental to this project is that we will have to work together - conducting individual research in the service of a larger project. This is intended to prepare you for the collaborative process which is fundamental to tomorrow's academic work.&#x20;
