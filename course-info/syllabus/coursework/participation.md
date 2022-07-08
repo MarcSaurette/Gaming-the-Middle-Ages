@@ -1,6 +1,4 @@
-# Participation
-
-The biggest worry past first year students have about speaking in class at the beginning of term is that "they don't know what to say". _Of course they don't!_ Speaking in class is a process; it requires that we try different ways of interacting and over time students learn how and why academics talk to each other in specific ways to allow for open, evidence based debate. The classroom is a laboratory for us to experiment with speach, it is not something that you are expected to have mastered before you arrive.&#x20;
+# Participation\*
 
 Participation is very important for this class since one of its main learning objectives is to improve students’ ability to verbalize their thoughts and assesments, as well as logically discuss/ debate. Nothing can be evidence unless it is placed in a logical argument, and class is meant to let you practice this faculty.&#x20;
 
