@@ -10,7 +10,7 @@ In the second term, together as a class we will decide whether to retain a non-g
 
 ### Titles and Honorifics to be Earned
 
-From 0-600 XP, you are considered a normal run of the mill Acolyte.&#x20;
+From 0-200  200-500 XP, you are considered a normal run of the mill Acolyte.&#x20;
 
 | Experience Points† | Titles and Honours                                                     |
 | ------------------ | ---------------------------------------------------------------------- |
