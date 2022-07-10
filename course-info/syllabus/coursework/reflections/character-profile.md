@@ -16,10 +16,12 @@ Also, I've created an overly-detailed guide on how to go about creating a Mediev
 The goal of your character is for you to create an identity (perhaps much like yourself, or perhaps not at all like you), which will allow you to imagine how someone might begin down the path of exploring the discipline of history/ medieval studies. What makes someone study the Middle Ages? What kind of experiences or background would help you to excel?&#x20;
 {% endhint %}
 
-Your character profile should include a description of:
+#### Contents
 
-* their name
-* the character's background (is there something about their background which drives them to study the past? are they good or have an affinity for evil?)
+Your  profile should include:
+
+* your name
+* your backstory (is there something about your background which drives you to study the past? or games?)
 * describe your character's appearance – what they look like, how they dress (be as imaginative as you want. Are they human or not?
 * their chosen field of study and possible future directions (i.e. would they want to study architecture? or medieval manuscripts? Or court records?) What are their academic hopes and dreams?
 * have a space to list skills to be developed in class in the future. This in essence will be a place where you list skills you have "earned" over the course of the class.&#x20;
