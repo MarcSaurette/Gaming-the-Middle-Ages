@@ -1,26 +1,16 @@
-# 1. Character Profile\*
+# 1. Profile\*
 
 {% hint style="info" %}
 The professor's sample "character" profile [can be consulted here](https://docs.google.com/spreadsheets/d/1BTav0xNTGFqYl175jV3GUcnK36Jb9HE\_xdcQqRlq\_xc/edit?usp=sharing).
 
-A template to be copied by students can be consulted here. &#x20;
+An individualized template for each student will be provided directly to them in the first week of class.
 {% endhint %}
 
-I want to start the year with a bit of a playful exercise. I want you to describe yourself (i.e. you the student a real person) as the character of a role-playing game (RPG). Imagine yourself as a new student at _a School for the Medievalist Arts_.&#x20;
+I want to start the year with a bit of a playful exercise. I want you to describe yourself (i.e. you the student a real person) as the character of a role-playing game (RPG). Imagine yourself as a new student at a _School for the Medievalist Arts_. Your goal will be to describe yourself using a character sheet – trying to creatively imagine your (real) self as a conglomeration of skills, principles, character traits and the such as you might in a game. I'll provide a template and you are free to play with it to make it work for you. You will identify what skills you want to  develop – training in domains of knowledges along with your classmates to solve historical mysteries.&#x20;
 
-Your goal will be to describe yourself in the manner of an&#x20;
+I will distribute a profile template (via google sheets) to everyone. It will consist of several pages - only some of which need to be filled out, some of which will be used in the future for the professor to give feedback.&#x20;
 
-&#x20;After you have arrived and got oriented, you will identify what skills you want to  develop – training in domains of knowledges along with your classmates to solve mysteries, duel with opponnts and (hopefully) to uncover the shadowy forces of darkness.
-
-Given the current worldwide pandemic and that most (all?) of you will be distant from campus, I thought a bit of time spent in a school –even if only in your imagination– might be welcome. I think this has the potential to be enjoyable, but I fear it also could just be cringeworthy. It’s up to you to decide how much you want to get into this fiction, or if we should just abandon it at some point.
-
-“The Academy” is a fictional conceit –a narrative structure– to give direction to your learning and your academic work for the class. In the first week of class, students will receive with an initial rulebook which will explain the thinking that underlies “the game” and will offer some background on the imaginary world you will inhabit. Further information, clues and quests will be distributed as the year goes on, which –as you complete them– should allow you to uncover the mystery we have concocted. These quests have a fun but serious purpose – teaching you how Medieval Studies came to be, how to think about how we study the Middle Ages and who at Carleton can help you in your personal search for the Middle Ages.&#x20;
-
-At the beginning of the term you will 1) write up a character for the game and 2) begin a scavenger hunt to earn points towards leveling up at the Academy.&#x20;
-
-Please find below fillable pdf character sheets that you might want to use to present your character to your fellow classmates (but you don't need to). Feel free to design your own on paper and post a scan to cuPortfolio, create a cuPortfolio version, or post the filled out template there. You can see mine [here](https://cuportfolio.carleton.ca/view/view.php?t=MpHJTKXdS4jzqZyLO3h7) (you might need to sign into cuPortfolio first).&#x20;
-
-Also, I've created an overly-detailed guide on how to create a Medievalist character ([posted on Teams](https://teams.microsoft.com/l/file/D880313A-D8D4-4648-AD77-2862440FDC02?tenantId=6ad91895-de06-485e-bc51-fce126cc8530\&fileType=pdf\&objectUrl=https%3A%2F%2Fcmailcarletonca.sharepoint.com%2Fsites%2FTheMakingoftheMiddleAges%2FShared%20Documents%2FQuest%20for%20the%20Middle%20Ages%2FQuest%20for%20the%20Middle%20Ages%20-%20Basic%20Rules%202.0%20-%20Sept%202020.pdf\&baseUrl=https%3A%2F%2Fcmailcarletonca.sharepoint.com%2Fsites%2FTheMakingoftheMiddleAges\&serviceName=teams\&threadId=19:9da4334b1e974aba99aeffa79987a865@thread.tacv2\&groupId=2000157d-2098-47ef-b47d-341fc17c0e3a)). This started off as a joke but then I kept going... In a nod to the fantasy genre, the guide (some of which you've read in the orientation guide) describes Medievalists as if engaging in a battle between good and evil (which perhaps we are...) and outlines potential skills to learn, knowledge domains to specialize in, weapons to wield etc. If you have an affinity for Role-Playing Games it will look familiar-ish to you. You can also throw it out the window if you want and just make up a character from scratch without reading it at all ....
+Also, I've created an overly-detailed guide on how to go about creating a Medievalist character (\*\*\*\***link here**\*\*\*\*). This started off as a lark but then I kept going... In a nod to the fantasy genre, the guide describes Medievalists as if engaging in a battle between good and evil (which perhaps we are...) and outlines potential skills to learn, knowledge domains to specialize in, intellectual weapons to wield etc. If you have an affinity for Role-Playing Games it will look familiar-ish to you.&#x20;
 
 {% hint style="info" %}
 The goal of your character is for you to create an identity (perhaps much like yourself, or perhaps not at all like you), which will allow you to imagine how someone might begin down the path of exploring the discipline of history/ medieval studies. What makes someone study the Middle Ages? What kind of experiences or background would help you to excel?&#x20;

@@ -25,7 +25,7 @@
         * [The Research Process](course-info/syllabus/coursework/assignments/3.-anatomy-of-an-academic-article/the-research-process.md)
         * [Understanding the structure of a journal article](course-info/syllabus/coursework/assignments/3.-anatomy-of-an-academic-article/understanding-the-structure-of-a-journal-article.md)
     * [Writing\*](course-info/syllabus/coursework/reflections/README.md)
-      * [1. Character Profile\*](course-info/syllabus/coursework/reflections/character-profile.md)
+      * [1. Profile\*](course-info/syllabus/coursework/reflections/character-profile.md)
       * [2. Obsidian Notes\*](course-info/syllabus/coursework/reflections/2.-obsidian-notes/README.md)
         * [What do I think about the Middle Ages?](course-info/syllabus/coursework/reflections/2.-obsidian-notes/what-do-i-think-about-the-middle-ages.md)
     * [Game Design Project\*](course-info/syllabus/coursework/game-design-project.md)
