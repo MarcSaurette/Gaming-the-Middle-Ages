@@ -20,7 +20,7 @@ The first thing to do in this class is put together a profile to introduce yours
 {% tab title="Notes" %}
 The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar or the expectations are unclear. I'll try to make the expectations clear and over time the expected norms of writing will become familiar to you. Above all I just want you to get used to writing without worrying to much about being perfect at it.&#x20;
 
-We are using the tool [Obsidian](../../digital-tools/obsidian.md) to help you practice different kinds of writing - citing works properly, turning the texts of experts into your own words, and then processing these ideas.&#x20;
+We are using the tool [Obsidian](../../digital-tools/obsidian/) to help you practice different kinds of writing - citing works properly, turning the texts of experts into your own words, and then processing these ideas.&#x20;
 {% endtab %}
 
 {% tab title="Exercises" %}
@@ -41,7 +41,7 @@ In the second term, the class will work on a [group project ](game-design-projec
 ### **Each week you will:**&#x20;
 
 * prepare for class by completing the assigned readings and making annotations on the texts (primary sources, secondary sources, images, websites) with [Hypothes.is](../../digital-tools/hypothes.is/).
-* attend a seminars, where I will either lecture, or lead a discussion  and answer questions, or run an exercise
+* attend seminars, where I will either lecture, or lead a discussion  and answer questions, or run an exercise
 * complete weekly exercises intended to practice foundational skills of History/ Medieval Studies/Historical Game Studies
-* write notes for the class and your gameplay with [Obsidian](../../digital-tools/obsidian.md)
+* write notes for the class and your gameplay with [Obsidian](../../digital-tools/obsidian/)
 * play games and think about them

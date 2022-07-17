@@ -48,8 +48,8 @@ This week, you are asked to complete a few tasks, as explained on the following 
 [teams.md](../course-info/digital-tools/teams.md)
 {% endcontent-ref %}
 
-{% content-ref url="../course-info/digital-tools/obsidian.md" %}
-[obsidian.md](../course-info/digital-tools/obsidian.md)
+{% content-ref url="../course-info/digital-tools/obsidian/" %}
+[obsidian](../course-info/digital-tools/obsidian/)
 {% endcontent-ref %}
 
 {% content-ref url="../course-info/syllabus/coursework/assignments/1.-introduce-yourself.md" %}
