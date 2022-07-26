@@ -1,6 +1,6 @@
 # How much time do I spend...
 
-I certainly understand that students all have commitments beside this class – work, friends, family all require your attention. Whether realistic or not, professors generally see university students as "full timers" (i.e. spending 45 hr/week on university). This might or might not describe what you can realistically devote each week, but it is nontheless what professors expect students to do in order to do well in their classes.&#x20;
+I certainly understand that students all have commitments beside this class – work, friends, family all require your attention. Whether realistic or not, professors generally see university students as "full timers" (i.e. spending 45 hr/week on university). This might or might not describe what you can realistically devote each week, but it is nonetheless what professors expect students to do in order to do well in their classes.&#x20;
 
 ### How much time should I spend on this class?
 
@@ -8,19 +8,19 @@ Expect to put in about 9-12 hrs per week for this class alone.
 
 * Our class is officially allotted 3hrs/ week of instructional time. This will be divided between lectures and time for practical and/or group exercises that we will work on together during class time (Mondays & Wednesdays).
 
-In university, we consider students as largely independent learners. We thus imagine classroom meetings as a jumping off point for students to keep going. Self-directed study is what really allows students familiarize themselves with the content of the lectures. Most courses expect that you spend 2-3 hours/ week for each hour of classroom instruction (so, in our case, expect to work about 6-9 hours per week reading, writing and thinking).&#x20;
+In university, we consider students as largely independent learners. We thus imagine classroom meetings as a jumping off point for students to keep going. **Self-directed study** is what really allows students familiarize themselves with the content of the lectures. Most courses expect that you spend 2-3 hours/ week for each hour of classroom instruction (so, in our case, expect to work about 6-9 hours per week reading, writing and thinking).&#x20;
 
-* reading for class (1-2 hours)
-* thinking and writing for class (1-2 hours)&#x20;
+* reading and annotating readings for class (1-2 hours)
+* thinking and revising notes for class (1-2 hours)&#x20;
 * researching and writing assignments (2-4 hours)
 
 Keep in mind this is time averaged over the term. Some weeks you may spend less time reading for class, and more time writing an assignment. Depending on how well you plan ahead, you might be working much more than 2-4 hours some weeks on an assignment (i.e. if you're not working steadily over the course of the term, you will have some very long work weeks).&#x20;
 
 ### You might also need to spend additional time on:
 
-* talking to the professor. You will at times want or need more explanation on an assignment, readings or task they you don't understand. Talking with the professor is the best option for this - usually meetings last about a 1/2 hour to address a relatively straightfoward topic.&#x20;
+* talking to the professor. You will at times want or need more explanation on an assignment, readings or task they you don't understand. Talking with the professor is the best option for this - usually meetings last about a 1/2 hour to address a relatively straightfoward topic. This is usually the **quickest way** to move forward - sometimes something that seems very obscure to a student is very obvious to a professor.
 * talking to classmates. You might need to spend some time co-ordinating with students about assignments or group work. Or you might want to just talk to them...
-* going down research rabbit holes. Whether a student or professor, historians can get distracted by super-interesting but totally irrelevent research. Among professional historians it is not uncommon for someone to spend a day working on one footnote (I don't recommend this!). You might discover you become fascinated by medieval brewing techniques while researching something on Benedictine monks.&#x20;
+* going down research rabbit holes. Whether a student or professor, historians can get distracted by super-interesting but totally irrelevent research. Among professional historians it is not uncommon for someone to spend a day working on one footnote (I don't recommend this!). You might discover you become fascinated by medieval brewing techniques while researching something on Benedictine monks. While research rabbit holes might not be immediately practical, they usually lead to interesting thoughts that might be very productive later. Try to document things in Obsidian so you can come back to them in the future.&#x20;
 
 If you want to track your time:
 

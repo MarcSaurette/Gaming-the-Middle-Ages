@@ -8,7 +8,7 @@
 * [Syllabus\*](course-info/syllabus/README.md)
   * [What is a seminar?](course-info/syllabus/untitled.md)
     * [Experimenting with Learning](pandemic-learning.md)
-    * [Learning as a Mental Exercise](learning-as-a-mental-exercise.md)
+    * [Learning as Mental Exercise](learning-as-a-mental-exercise.md)
   * [Your Professor, Marc](course-info/syllabus/your-professor.md)
   * [Learning Outcomes](course-info/syllabus/learning-outcomes.md)
   * [How much time do I spend...](course-info/syllabus/how-much-time-do-i-spend....md)
