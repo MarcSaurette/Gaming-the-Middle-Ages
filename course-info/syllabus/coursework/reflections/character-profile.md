@@ -13,7 +13,7 @@ I will distribute a profile template (via google sheets) to everyone. It will co
 Also, I've created an overly-detailed guide on how to go about creating a Medievalist character (\*\*\*\***link here**\*\*\*\*). This started off as a lark but then I kept going... In a nod to the fantasy genre, the guide describes Medievalists as if engaging in a battle between good and evil (which perhaps we are...) and outlines potential skills to learn, knowledge domains to specialize in, intellectual weapons to wield etc. If you have an affinity for Role-Playing Games it will look familiar-ish to you.&#x20;
 
 {% hint style="info" %}
-The goal of your character is for you to create an identity (perhaps much like yourself, or perhaps not at all like you), which will allow you to imagine how someone might begin down the path of exploring the discipline of history/ medieval studies. What makes someone study the Middle Ages? What kind of experiences or background would help you to excel?&#x20;
+The goal of your profile is to imagine yourself as if you were a character - how would a player quantify your skills and abilities, how would they describe your background and preparation for university, and what special knowledge, ideas, and creativity help define you. And also think about how you want to develop - if you want to level up, what skills would you seek to master next?
 {% endhint %}
 
 #### Contents
@@ -21,33 +21,21 @@ The goal of your character is for you to create an identity (perhaps much like y
 Your  profile should include:
 
 * your name
-* your backstory (is there something about your background which drives you to study the past? or games?)
-* describe your character's appearance – what they look like, how they dress (be as imaginative as you want. Are they human or not?
-* their chosen field of study and possible future directions (i.e. would they want to study architecture? or medieval manuscripts? Or court records?) What are their academic hopes and dreams?
-* have a space to list skills to be developed in class in the future. This in essence will be a place where you list skills you have "earned" over the course of the class.&#x20;
-* have a space for "weapon proficiencies" (this will be where you list different academic tricks you have been able to use in your writing, arguments and discussions)
+* your backstory (is there something about your biography which drives you to study the past? or games?)
+* describe your  appearance – what you look like, how you dress (feel free to be as imaginative/creative as you want. I modelled my description on the works of 19th century medievalist and horror author, M.R. James.&#x20;
+* what chosen field of study and possible future directions would you want to study: architecture? or medieval manuscripts? Or court records?) What are your academic hopes and dreams?
+* have a space to list skills to be developed in class in the future. This in essence will be a place where you think about skills you have "earned" over the course of the class.&#x20;
 * have a place for academic reputation (you all start with 10 - the highest until you demonstrate yourself to be unworthy)
-* any possessions you might have on your person (which could be used in the future)
-* a space for a journal (i.e. a cuPortfolio journal). In future weeks you will be writing other things for class, and they will form a journal of sorts for the first term.&#x20;
+* any possessions and devices you might have on your person (this is useful so that I know what OS most people will be using...)
 
-### Questions to ask during your character creation:
+### Alternate projects
 
-Who is your acolyte? Give a name and a brief description of your acolyte’s physical appearance and personality. Is s/he/they tall? Handsome? Charming? Blonde? Brilliant? Kinda dumb?&#x20;
+Maybe you have a hatred for RPGs, maybe you love to write short fiction and want to star yourself as a protagonist, maybe you paint, maybe you prefer a confession video profile?
 
-How is your character able to attend the prestigious Academy? Is s/he/they royalty? A charity case? The son of a rich crime lord? A child prodigy? It’s up to you to decide how your acolyte pays their tuition.&#x20;
+If you don't want to do the faux-RPG profile, let me know and we can agree in advance on a creative and fun alternative that you can complete. The key goal of this assignment is to present yourself in a playful fashion - but less you classmates get a sense of who you are from them.&#x20;
 
-Why were you chosen to be a member of the Academy? What legendary act of intelligence, bravery, chivalry, skill, heart or daring did you perform to be given the title of Acolyte of the Academy?&#x20;
 
-What is your acolyte’s drive or ultimate goal? Does s/he/they desire ancient and obscure knowledge? Or want to find true love? Become the heir to their family’s empire? Be the first to adventure into the unknown? This will be the thing your acolyte strives for throughout the game.&#x20;
 
-Lastly, draw/find a picture of your acolyte. This will help both you and your fellow students get a better idea of who your character is and why he was chosen to be a member of the Academy.&#x20;
-
-**After character creation has happened:**
-
-Based on what you see of your fellow acolytes: please answer the following for two other acolytes:
-
-* What do you propose is their greatest strength?&#x20;
-* &#x20;What might you suspect is their greatest weakness?
 * Do you have an arch-rival or ardent appreciation of another student?&#x20;
   * Roll a six sided die (or visit the [google digital one](https://www.google.com/search?q=dice+roller))
     * §  1-2 = you have an archrival
@@ -55,11 +43,3 @@ Based on what you see of your fellow acolytes: please answer the following for t
     * §  5-6 = you’re pretty neutral about the others
   * If you have an archrival or object of admiration, choose a character (based on what you’ve read) or roll a 1d20 ([google digital one](https://www.google.com/search?q=dice+roller)). Numbers are randomly preassigned to all members of the class.
   * let the professor know name/ the number so he can incorporate this into the storyline (and let you know what your number corresponds to).
-
-{% file src="../../../../.gitbook/assets/QMA-CS-1.pdf" %}
-Character Sheet Template (page 1)
-{% endfile %}
-
-{% file src="../../../../.gitbook/assets/QMA-CS-2.pdf" %}
-Character Sheet Template (page 2)
-{% endfile %}

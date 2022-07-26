@@ -1,17 +1,17 @@
-# Readings\*
+# Readings
 
-I am trying something new this year. Instead of having the bookstore order physical books to campus (which I am not sure if you are going to be nearby), we will instead use digital books which we will read and annotate together via [Hypothes.is](../../digital-tools/hypothes.is/). Hypothes.is allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year.
+I am trying something new this year. Instead of having the bookstore order physical books to campus (which I am not sure if you are going to be nearby), we will instead use digital files which we will read and annotate together via [Hypothes.is](../../digital-tools/hypothes.is/). Hypothes.is allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year.
 
-You will not need to purchase any textbooks for this class.&#x20;
+You will therefore not need to purchase any textbooks for this class.&#x20;
 
 ### What is Social Annotation?
 
 Social annotation takes the usually solitary act of reading and allows students to do it in community with one another. By using digital tools to highlight, comment, or otherwise annotate a text, students “do the reading,” but do so in conversation with their peers.
 
 {% hint style="info" %}
-How do you annotate? You can identity and post the following:
+What could you annotate? You can identity and post the following:
 
-**a Question**: Write a discussion question based on any one of the readings assigned. As you read assigned materials, note where questions come to mind about the ideas, timeline, methods or conclusions. This can be a simple, "What is X the author is talking about" or (much better) a thoughtful question that invites analysis, synthesis, or evaluation of the material, or makes connections between the readings/ previous discussion. A really good question is one that tries to link the source being read with another text or idea you've come across before.
+**a Question**: Write a discussion question based on any a section of the readings assigned. As you read assigned materials, note where questions come to mind about the ideas, timeline, methods or conclusions. This can be a simple, "What is X the author is talking about" or (much better) a thoughtful question that invites analysis, synthesis, or evaluation of the material, or makes connections between the readings/ previous discussion. A really good question is one that tries to link the source being read with another text or idea you've come across before.
 
 **a Quotation**: Identify a quotation from the reading material. Find something that is especially pertinent –in your opinion– to the main points of the readings. Then rewrite the quotation in your own words. Your selection should be neither too short (1 line) nor too long (10-12 lines).
 
@@ -20,13 +20,13 @@ How do you annotate? You can identity and post the following:
 **an Answer**: As you're reading for class, read through other students' questions on hypothes.is and try to answer one or at least enter into dialogue with it.&#x20;
 {% endhint %}
 
-Social annotation is an age-old process that is very medieval. What is different is speed. It would take centuries for texts to accrue a surrounding commentary, but we can do it online in real time in a very short span of time. Commentary (medieval or modern) can link to other media, can define key terms, provide further details or contradict the main text. We are, in essence, crowdsourcing (you being the crowd) the readings to allow you to deepen and expand your knowledge.&#x20;
+Social annotation is an age-old process that is very medieval. What is different is speed. It would take centuries for texts to accrue a commentary surrounding a text, but we can do it online in real time in a very short span of time. Commentary (medieval or modern) can link to other media, can define key terms, provide further details or contradict the main text. We are, in essence, crowdsourcing (you being the crowd) the readings to allow you to deepen and expand your knowledge.&#x20;
 
 ![](../../../.gitbook/assets/e-codices\_fmb-cb-0031\_002r\_medium.jpg)
 
 The above image is of a twelfth-century commentary (or **Glossa**) on the Biblical _Song of Songs_ (aka, _Canticles_, _Cantica Canticorum_). The text in dark brown is the biblical text. The much more copious lighter brown ink is the commentary, definitions and explanations of the meaning. What does this say about how we interact with texts even now?
 
-By the later Middle Ages, an official commentary of the Bible had arisen called the **Glossa Ordinario**, which laid out what the "Big Thinkers" had said about various parts of the Bible. They did not always agree and so the comments would make clear to those reading the Bible what areas of disagreement might exist.&#x20;
+By the later Middle Ages, an official commentary of the Bible had arisen called the **Glossa Ordinario**, which laid out what the "Big Thinkers" had become the consensus of smart people about various parts of the Bible. They did not always agree and so the comments would make clear to those reading the Bible what areas of disagreement might exist.&#x20;
 
 We will use it that same way in class. We can use your annotation and commentary to highlight areas of confusion and disagreement and explore debates (amongst yourselves and in the field). You can use annotations to ask questions or answer them for your fellow students. They key is that we can do it together.&#x20;
 
