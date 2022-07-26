@@ -45,7 +45,7 @@
   * [Hypothes.is](course-info/digital-tools/hypothes.is/README.md)
     * [Using Hypothes.is for annotations\*](course-info/digital-tools/hypothes.is/using-hypothes.is-for-annotations.md)
     * [Using Hypothes.is with Obsidian\*](course-info/digital-tools/hypothes.is/using-hypothes.is-with-obsidian.md)
-  * [Github](course-info/digital-tools/github.md)
+  * [Github\*](course-info/digital-tools/github.md)
   * [Google Apps](course-info/digital-tools/google-apps.md)
   * [Discord](course-info/digital-tools/discord.md)
   * [Brightspace\*](course-info/digital-tools/brightspace.md)
