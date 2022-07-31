@@ -3,14 +3,12 @@
 {% hint style="danger" %}
 We will introduce these tools gradually over the course of the semester. You don't need to rush to get signed into all of them right away.&#x20;
 
-&#x20;If you are using computers in class please put them into 'do not disturb" modes so you are not distracted by outside issues.&#x20;
+It is normal for you to use your phones for taking notes and other sundry scholarly tasks. I am old fashioned, however, and I interpret (rightly or wrongly) students on phones as not being scholarly, being distracted and being focussed on something other than class material. Please avoid being on phones in the classroom. If you are using computers in class please put them into 'do not disturb" modes so you are not distracted by outside issues.&#x20;
 {% endhint %}
 
 We will be using a host of digital tools in this class -  intended to help everyone learn and work effectively online. I'll talk about these below, but first a caveat (i.e. warning). The course will require a computer of some sort - not often in class, but we will be using digital tools and materials generally.
 
-You will likely lose track of one/some of your usernames and passwords. **Write them all down somewhere** so you can refer back to them. Maybe on paper?! Do not trust your computer to remember them for you.
-
-{% hint style="warning" %}
+{% hint style="info" %}
 Many of these tools work best using a computer. So if you are using a tablet or smaller mobile device (which limit, for example, extensions that you can install on your browsers), you may find it more difficult to complete your assignments. If you do not have a computer, therefore, you might wish to find someone who will lend you their computer regularly or you might wish to borrow one of the [laptops available from MacOdrum Library](https://library.carleton.ca/services/laptops) (they are still lending despite the pandemic).&#x20;
 
 We are using tools that should not cost you anything. If any ask you for money, don't pay. Check with the instructions/ with Dr. Saurette to make sure you're using them correctly. Most of the software is distributed freely or is open access. The trade-off of low cost is that some work might be necessary for you to make it work on your system (for example, Zotero's plugin for Safari, the default browser on MacOS computers, is very buggy and Zotero works much better using Chrome).&#x20;

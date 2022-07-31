@@ -19,6 +19,7 @@
     * [Writing\*](course-info/syllabus/coursework/reflections/README.md)
       * [1. Profile\*](course-info/syllabus/coursework/reflections/character-profile.md)
       * [2. Obsidian Notes\*](course-info/syllabus/coursework/reflections/2.-obsidian-notes/README.md)
+        * [Classnotes](course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md)
         * [What do I think about the Middle Ages?](course-info/syllabus/coursework/reflections/2.-obsidian-notes/what-do-i-think-about-the-middle-ages.md)
     * [Exercises\*](course-info/syllabus/coursework/assignments/README.md)
       * [1. Introduce Yourself\*](course-info/syllabus/coursework/assignments/1.-introduce-yourself.md)
