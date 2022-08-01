@@ -34,12 +34,3 @@ Maybe you have a hatred for RPGs, maybe you love to write short fiction and want
 
 If you don't want to do the faux-RPG profile, let me know and we can agree in advance on a creative and fun alternative that you can complete. The key goal of this assignment is to present yourself in a playful fashion - but less you classmates get a sense of who you are from them.&#x20;
 
-
-
-* Do you have an arch-rival or ardent appreciation of another student?&#x20;
-  * Roll a six sided die (or visit the [google digital one](https://www.google.com/search?q=dice+roller))
-    * §  1-2 = you have an archrival
-    * §  3-4 = you find yourself admiring another
-    * §  5-6 = you’re pretty neutral about the others
-  * If you have an archrival or object of admiration, choose a character (based on what you’ve read) or roll a 1d20 ([google digital one](https://www.google.com/search?q=dice+roller)). Numbers are randomly preassigned to all members of the class.
-  * let the professor know name/ the number so he can incorporate this into the storyline (and let you know what your number corresponds to).
