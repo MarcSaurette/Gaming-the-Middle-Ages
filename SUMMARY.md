@@ -22,7 +22,7 @@
         * [Classnotes](course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md)
         * [What do I think about the Middle Ages?](course-info/syllabus/coursework/reflections/2.-obsidian-notes/what-do-i-think-about-the-middle-ages.md)
     * [Exercises\*](course-info/syllabus/coursework/assignments/README.md)
-      * [1. Introduce Yourself\*](course-info/syllabus/coursework/assignments/1.-introduce-yourself.md)
+      * [1. Obsidian and note taking](course-info/syllabus/coursework/assignments/1.-obsidian-and-note-taking.md)
       * [2. Anatomy of a Primary Source\*](course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/README.md)
         * [The Problem of Primary Sources](course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/the-problem-of-primary-sources.md)
         * [Cluny's Foundation Charter](course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/clunys-foundation-charter.md)

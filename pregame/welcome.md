@@ -38,6 +38,6 @@ This week, you are asked to complete a few tasks, as explained on the following 
 [obsidian](../course-info/digital-tools/obsidian/)
 {% endcontent-ref %}
 
-{% content-ref url="../course-info/syllabus/coursework/assignments/1.-introduce-yourself.md" %}
-[1.-introduce-yourself.md](../course-info/syllabus/coursework/assignments/1.-introduce-yourself.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
