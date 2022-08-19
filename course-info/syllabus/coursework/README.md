@@ -36,7 +36,7 @@ A "[proces letter](process-letters.md)" is a term we use to describe an end-of-t
 {% endtab %}
 {% endtabs %}
 
-In the second term, the class will work on a [group project ](game-design-project.md)that we will work on each week in order to develop a new historically- inspired game.&#x20;
+In the second term, the class will work on a [group project ](reflections/game-design-project.md)that we will work on each week in order to develop a new historically- inspired game.&#x20;
 
 ### **Each week you will:**&#x20;
 
