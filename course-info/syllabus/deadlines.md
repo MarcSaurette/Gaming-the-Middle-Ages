@@ -4,11 +4,15 @@ In years past, I begin the year outlining to each class the dire consequences th
 
 I realize you will be asked to make choices about how to allot your time this year. You need to choose between school work and life outside of university. You will also need to decide between classes you spend your time on. For our class to work, you need to be just as careful to get work done on time without me laying on penalities, as you might in other classes where they will penalize you.&#x20;
 
+In second term, students will be working together in small groups on different game design projects. When working together, it is paramount that every student pulls their weight and gets work done on time - or else the whole project could fall apart.&#x20;
+
 Please let me know (in advance) if there are good reasons for why you can't get something in one time, and we can try to find possible solutions (see below, [Extensions](deadlines.md#extensions-and-accommodations)).
 
 ### Academic Reputation
 
 Instead we are going to establish a system of academic honour or **Reputation** for the first term. Everyone starts with 10 reputation points. You can gain reputation points by helping your classmates and can lose them by being late (loss of 1 point for an assignment being late, more for academic integrity issues).
+
+If a student fall below a certain level of reputation, it means they need to meet with the professor in person to check in and reestablish a pathway forward to full academic reputation...
 
 ### Important Dates for Term I
 
