@@ -1,8 +1,8 @@
-# Coursework\*
+# Coursework
 
-When learning in person, professors and students meet in class for lectures and to discuss readings, debate etc. Thus, some learning happens together at the same time, and some other learning happens on the student's own time (e.g. writing papers, doing readings etc.).&#x20;
+In-person classes are based on the foundation of professors and students meeting in class for lectures and to discuss readings, debate etc. And while some learning happens together at the same time much learning happens on the student's own time (e.g. writing papers, doing readings etc.).&#x20;
 
-I divide work into oral and written work. Oral work usually consists of spoken presentations and "participation" i.e. being in class, asking questions, showing you've learned from doing the readings, etc (an abbreviation of _et cetera_, Latin for "and other things"). But participation can also be based on "conversations"/ discussions on the [Teams](../../digital-tools/teams.md) platform outside of class time – it might be oral or it might be written. This makes it hard to quantify participation, so you will at different times during the year be responsible for describing and evaluating your own participation.
+In the classroom, students will be expected at times to make spoken presentations and to participate in each class – i.e. being in class, asking questions, showing you've learned from doing the readings, etc (an abbreviation of _et cetera_, Latin for "and other things"). Usually the written work is designed to complement or to prepare for the work done in class.&#x20;
 
 All written work must be completed for a student to pass the course.&#x20;
 
@@ -14,7 +14,7 @@ I will take attendence and at the end of each class, will request that you assig
 {% endtab %}
 
 {% tab title="Profile" %}
-The first thing to do in this class is put together a profile to introduce yourself to your fellow students and the professor. I am going to suggest that you make a profile in the vein of an RPG character sheet, but you can also do something else which is creative - like a prose description, verse or a video...
+The first thing to do in this class is put together a profile to introduce yourself to your fellow students and the professor. I am going to suggest that you make a [profile](reflections/character-profile.md) in the vein of an RPG character sheet, but you can also do something else which is creative - like a prose description, verse or a video...
 {% endtab %}
 
 {% tab title="Notes" %}
@@ -24,7 +24,7 @@ We are using [Obsidian](../../digital-tools/obsidian/) to help you practice diff
 {% endtab %}
 
 {% tab title="Exercises" %}
-Each week (usually during the Wednesday class), we will complete short exercises to introduce you to different tools in the Historical Games Studies/ Medievalist toolkit. This might be me demonstating how to use cuPortfolio or Hypothes.is or getting you to complete a multi-stage library search on your own.&#x20;
+Each week (usually during the Wednesday class), we will complete exercises to introduce you to different tools in the Historical Games Studies/ Medievalist toolkit. This might be me demonstating how to use Hypothes.is or getting you to complete a multi-stage library search on your own.&#x20;
 {% endtab %}
 
 {% tab title="Feedback" %}
@@ -36,12 +36,12 @@ A "[proces letter](process-letters.md)" is a term we use to describe an end-of-t
 {% endtab %}
 {% endtabs %}
 
-In the second term, the class will work on a [group project ](reflections/game-design-project.md)that we will work on each week in order to develop a new historically- inspired game.&#x20;
+In the second term, the class will work on a [group project ](game-design-project.md)that we will work on each week in order to develop a new historically- inspired game.&#x20;
 
 ### **Each week you will:**&#x20;
 
 * prepare for class by completing the assigned readings and making annotations on the texts (primary sources, secondary sources, images, websites) with [Hypothes.is](../../digital-tools/hypothes.is/).
-* attend seminars, where I will either lecture, or lead a discussion  and answer questions, or run an exercise
-* complete weekly exercises intended to practice foundational skills of History/ Medieval Studies/Historical Game Studies
+* attend seminars, where I will lecture or lead a discussion  and answer questions, or run an exercise
+* complete weekly exercises (usually begun in class) intended to practice foundational skills of History/ Medieval Studies/Historical Game Studies
 * write notes for the class and your gameplay with [Obsidian](../../digital-tools/obsidian/)
-* play games and think about them and then write about them
+* play games and think about them and then [write about them](reflections/3.-game-journal.md).

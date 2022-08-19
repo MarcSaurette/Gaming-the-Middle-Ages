@@ -1,4 +1,4 @@
-# Game Design Project\*
+# 4. Game Design Project\*
 
 In the second term, we will create games of our own intended to educate (and entertain) other History/Medieval Studies students.&#x20;
 
