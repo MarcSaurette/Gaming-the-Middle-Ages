@@ -23,10 +23,6 @@ From 0-200  200-500 XP, you are considered a normal run of the mill Acolyte.&#x2
 | 200                | Acolyte                                                                |
 | 0                  | Novice \[name here]                                                    |
 
-† I haven't really used this system before so I might need to adjust these numbers if I've set them too high.
-
-In addition to earning the right to be addressed with different honorifics, once individuals or the whole class reach different XP totals, new challenges (maybe rewards?) will be unlocked.&#x20;
-
 ### How to Earn XP
 
 All students start out the class with 0 XP. As you complete classwork, assignments, students will rise up and begin to differentiate themselves from one another. Each student is reponsible for updating their experience sheet when work has been completed to keep a running tally.&#x20;

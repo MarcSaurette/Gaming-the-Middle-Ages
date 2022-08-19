@@ -35,7 +35,7 @@
     * [Process Letters](course-info/syllabus/coursework/process-letters.md)
   * [Assessment\*](course-info/syllabus/assessment-1/README.md)
     * [Why no grades?](course-info/syllabus/assessment-1/why-no-grades.md)
-  * [Deadlines\*](course-info/syllabus/deadlines.md)
+  * [Deadlines](course-info/syllabus/deadlines.md)
 * [Schedule\*](course-info/schedule/README.md)
   * [Detailed Schedule](course-info/schedule/detailed-schedule.md)
 * [Optional Learning Activities\*](course-info/optional-learning-activities.md)
