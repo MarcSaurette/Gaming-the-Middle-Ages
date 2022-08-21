@@ -20,6 +20,7 @@
       * [1. Profile\*](course-info/syllabus/coursework/reflections/character-profile.md)
       * [2. Obsidian Notes\*](course-info/syllabus/coursework/reflections/2.-obsidian-notes/README.md)
         * [Classnotes](course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md)
+        * [Reading Notes](course-info/syllabus/coursework/reflections/2.-obsidian-notes/reading-notes.md)
       * [3. Game Journal\*](course-info/syllabus/coursework/reflections/3.-game-journal.md)
       * [4. Game Design Project\*](course-info/syllabus/coursework/game-design-project.md)
     * [Exercises](course-info/syllabus/coursework/assignments/README.md)
