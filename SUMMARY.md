@@ -5,7 +5,7 @@
 
 ## Course Information <a href="#course-info" id="course-info"></a>
 
-* [Syllabus\*](course-info/syllabus/README.md)
+* [Syllabus](course-info/syllabus/README.md)
   * [What is a seminar?](course-info/syllabus/untitled.md)
     * [Experimenting with Learning](pandemic-learning.md)
     * [Learning as Mental Exercise](learning-as-a-mental-exercise.md)
@@ -37,7 +37,7 @@
     * [Why no grades?](course-info/syllabus/assessment-1/why-no-grades.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
 * [Schedule\*](course-info/schedule/README.md)
-  * [Detailed Schedule](course-info/schedule/detailed-schedule.md)
+  * [Detailed Schedule\*](course-info/schedule/detailed-schedule.md)
 * [Optional Learning Activities\*](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
@@ -49,9 +49,8 @@
     * [Using Hypothes.is for annotations\*](course-info/digital-tools/hypothes.is/using-hypothes.is-for-annotations.md)
     * [Using Hypothes.is with Obsidian\*](course-info/digital-tools/hypothes.is/using-hypothes.is-with-obsidian.md)
   * [Github\*](course-info/digital-tools/github.md)
-  * [Google Apps](course-info/digital-tools/google-apps.md)
-  * [Discord](course-info/digital-tools/discord.md)
-  * [Brightspace\*](course-info/digital-tools/brightspace.md)
+  * [Google Apps\*](course-info/digital-tools/google-apps.md)
+  * [Brightspace](course-info/digital-tools/brightspace.md)
   * [Zotero](course-info/digital-tools/zotero.md)
     * [Using Zotero with Obsidian\*](course-info/digital-tools/zotero/using-zotero-with-obsidian.md)
   * [Trello](course-info/digital-tools/trello.md)

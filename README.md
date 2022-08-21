@@ -19,7 +19,7 @@ You do not need to have any experience with games or gaming culture. Arguably ga
 
 ### Format
 
-This is a full course (two term) course with three hours of in-person class time, from 11h30 to 13h00 on Mondays and Wednesdays. We will often use Mondays for discussing readings and concepts where I take the lead; Wednesdays will require your active participation as we try stuff out.
+This is a full (two term) course with three hours of in-person class time, from 11h30 to 13h00 on Mondays and Wednesdays. We will often use Mondays for lecturing, discussing readings and concepts where I take the lead; Wednesdays will require your active participation as we try stuff out.
 
 ### Course materials
 

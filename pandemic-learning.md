@@ -4,13 +4,13 @@
 First year university is an especially difficult transition. This year might be harder than typical depending on what your experience have been learning during the pandemic and what might happen this year. Pandemics tend to have waves and I have little control over how the university will react to new changes. So, please, if you need some help (in class, in life) please reach out to me so I can do whatever I can or put you in contact with people who can help.&#x20;
 {% endhint %}
 
-Teaching and learning this year is an experiment. I will be teaching with software ([Obsidian](course-info/digital-tools/obsidian/)) which I haven't used before (with students at least) and am teaching this course on games for the first time. You will be learning in a medium and a format quite different from high school.  You will be asked to do assignments which are totally unfamiliar to you. You will be using software for this class which is likely different from your others. I likely will have expectations and forms of etiquette which differ from those of other professors. Thus we should all try to be extra patient and understanding when things don't go as smoothly as we'd like.
+Teaching and learning this year will be an experiment. I will be teaching with software ([Obsidian](course-info/digital-tools/obsidian/)) which I haven't used before (with students at least) and am teaching this course on games for the first time. You will be learning in a medium and a format quite different from high school. You will be asked to do assignments which are totally unfamiliar to you. You will be using software for this class which is likely new or at least used in new ways. I likely will have expectations and forms of etiquette which differ from those of other professors. Thus we should all try to be extra patient and understanding when things don't go as smoothly as we'd like.
 
 We don't know how things are going to look in October, let alone January, so please understand if schedules get derailed, our discussions get irescheduled and learning doesn't happen exactly as hoped for. Experiments in learning can pay off if we accept the risks.
 
 ### Things to Keep in Mind
 
-To succeed in this seminar, it may require a different kind energy and discipline from you than a traditional lecture course. I am going to ask you to learn differently than is typical, but with the hope that _this process will make it easier for you in the long term_.
+To succeed in this seminar, it may require a different kind energy and discipline from you than a traditional lecture course. I am going to ask you to learn differently than is typical, but with the knowledge that _this process will make it easier for you in the long term and you will be smarter for it._&#x20;
 
 **Willingness to experiment**: Half of this course will be making and playing games. You need to be willing to try new things and not to worry too much about getting things exactly right. Trying and failing to do something can often teach more than getting it perfectly right the first time. Students need to embrace the idea that class is an experiment in learning.&#x20;
 
