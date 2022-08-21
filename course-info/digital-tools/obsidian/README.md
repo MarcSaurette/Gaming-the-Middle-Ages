@@ -4,5 +4,5 @@
 
 
 
-
+Resources: [https://www.obsidianroundup.org/resources/](https://www.obsidianroundup.org/resources/)
 

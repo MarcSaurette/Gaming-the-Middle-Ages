@@ -36,6 +36,6 @@ As usual, I'll be online 15 mins before the start of class on Wednesdays to help
 
 ### Do
 
-Submit a journal entry, detailing your idea of [What the Middle Ages were](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/what-do-i-think-about-the-middle-ages.md) by October 11th?
+Submit a journal entry, detailing your idea of [What the Middle Ages were](broken-reference) by October 11th?
 
 Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night (each week) to let me know if you have any questions and (this week) to provide a link to your _What are the Middle Ages_ journal entry?.

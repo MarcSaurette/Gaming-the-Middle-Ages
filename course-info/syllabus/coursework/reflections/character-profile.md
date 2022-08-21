@@ -1,12 +1,12 @@
 # 1. Profile\*
 
 {% hint style="info" %}
-The professor's sample "character" profile [can be consulted here](https://docs.google.com/spreadsheets/d/1BTav0xNTGFqYl175jV3GUcnK36Jb9HE\_xdcQqRlq\_xc/edit?usp=sharing).
+The professor's in progress sample "character" profile [can be consulted here](https://docs.google.com/spreadsheets/d/1BTav0xNTGFqYl175jV3GUcnK36Jb9HE\_xdcQqRlq\_xc/edit?usp=sharing).
 
 An individualized template for each student will be provided directly to them in the first week of class.
 {% endhint %}
 
-I want to start the year with a bit of a playful exercise. I want you to describe yourself (i.e. you the student a real person) as the character of a role-playing game (RPG). Imagine yourself as a new student at a _School for the Medievalist Arts_. Your goal will be to describe yourself using a character sheet – trying to creatively imagine your (real) self as a conglomeration of skills, principles, character traits and the such as you might in a game. I'll provide a template and you are free to play with it to make it work for you. You will identify what skills you want to  develop – training in domains of knowledges along with your classmates to solve historical mysteries.&#x20;
+I want to start the year with a bit of a playful exercise. I want you to describe yourself (i.e. you the student a real person) as the character of a role-playing game (RPG). Imagine yourself as a new university student studying _medieval studies_. Your goal will be to describe yourself using a character sheet – trying to creatively imagine your (real) self as a conglomeration of skills, principles, character traits and the such as you might in a game. I'll provide a template and you are free to play with it to make it work for you. You will identify what skills you want to  develop – training in domains of knowledges along with your classmates to solve historical mysteries.&#x20;
 
 I will distribute a profile template (via google sheets) to everyone. It will consist of several pages - only some of which need to be filled out, some of which will be used in the future for the professor to give feedback.&#x20;
 
