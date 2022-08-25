@@ -33,7 +33,7 @@
         * [Understanding the structure of a journal article](course-info/syllabus/coursework/assignments/3.-anatomy-of-an-academic-article/understanding-the-structure-of-a-journal-article.md)
     * [Peer Feedback](course-info/syllabus/coursework/peer-feedback.md)
     * [Process Letters](course-info/syllabus/coursework/process-letters.md)
-  * [Assessment\*](course-info/syllabus/assessment-1/README.md)
+  * [Assessment](course-info/syllabus/assessment-1/README.md)
     * [Why no grades?](course-info/syllabus/assessment-1/why-no-grades.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
 * [Schedule\*](course-info/schedule/README.md)

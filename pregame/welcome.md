@@ -7,6 +7,7 @@ By the end of the first week (by Sunday, September 11th), what should you **know
 1. You'll get to know a bit about your professor and your fellow classmates
 2. You will know what the course is all about and how we're going to run it
 3. You will figure out how to use some tools necessary for learning online
+4. You will work through an interactive [text version of the syllabus](https://carletonhistory.itch.io/fysm14052022tutorial-level) by Monday, September 12th.&#x20;
 
 ### Overview:
 
