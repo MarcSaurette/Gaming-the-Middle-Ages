@@ -1,4 +1,4 @@
-# Orientation\*
+# Orientation
 
 ### Goals for this week (September 7, 2022)
 
@@ -6,8 +6,8 @@ By the end of the first week (by Sunday, September 11th), what should you **know
 
 1. You'll get to know a bit about your professor and your fellow classmates
 2. You will know what the course is all about and how we're going to run it
-3. You will figure out how to use some tools necessary for learning online
-4. You will work through an interactive [text version of the syllabus](https://carletonhistory.itch.io/fysm14052022tutorial-level) by Monday, September 12th.&#x20;
+3. You will figure out how to use some tools necessary for class
+4. You will need to work through an interactive [text version of the syllabus](https://carletonhistory.itch.io/fysm14052022tutorial-level) before class on Monday, September 12th.&#x20;
 
 ### Overview:
 
@@ -17,7 +17,7 @@ The class provides a transition back to school. We'll discuss the syllabus and g
 2. Read the syllabus and [schedule](../course-info/schedule/) on Gitbook (i.e. this place). Identify any questions you have and write them down.&#x20;
 3. Use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
 4. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year.
-5. Complete the [tutorial level](tutorial-level.md) to let me know more about you. \*\*\*
+5. Complete the [tutorial level](tutorial-level.md) to let me know more about you.
 
 ### Read/Watch/Listen
 
@@ -29,7 +29,7 @@ The class provides a transition back to school. We'll discuss the syllabus and g
 
 ### Practice
 
-This week, you are asked to complete a few tasks, as explained on the following pages:&#x20;
+This week, you are asked to complete download, install, set up or sign up for the following:&#x20;
 
 {% content-ref url="../course-info/digital-tools/teams.md" %}
 [teams.md](../course-info/digital-tools/teams.md)
@@ -39,6 +39,6 @@ This week, you are asked to complete a few tasks, as explained on the following 
 [obsidian](../course-info/digital-tools/obsidian/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../course-info/digital-tools/hypothes.is/" %}
+[hypothes.is](../course-info/digital-tools/hypothes.is/)
 {% endcontent-ref %}

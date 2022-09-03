@@ -36,9 +36,9 @@
   * [Assessment](course-info/syllabus/assessment-1/README.md)
     * [Why no grades?](course-info/syllabus/assessment-1/why-no-grades.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
-* [Schedule\*](course-info/schedule/README.md)
+* [Schedule](course-info/schedule/README.md)
   * [Detailed Schedule\*](course-info/schedule/detailed-schedule.md)
-* [Optional Learning Activities\*](course-info/optional-learning-activities.md)
+* [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
   * [Teams](course-info/digital-tools/teams.md)
@@ -59,16 +59,9 @@
 
 ## Pregame
 
-* [Orientation\*](pregame/welcome.md)
-* [Tutorial Level\*](pregame/tutorial-level.md)
-
-## Medievalist Toolkit <a href="#medtoolkit" id="medtoolkit"></a>
-
-* [When is the Middle Ages?\*](pregame/when-is-the-middle-ages.md)
-* [Where is the Middle Ages?\*](pregame/where-is-the-middle-ages.md)
-* [Evidence](fundamentals/evidence.md)
-* [Research](fundamentals/research.md)
+* [Orientation](pregame/welcome.md)
+* [Tutorial Level](pregame/tutorial-level.md)
 
 ## Historical Game Studies Toolkit <a href="#hgstoolkit" id="hgstoolkit"></a>
 
-* [Page 1](hgstoolkit/page-1.md)
+* [Coming soon...](hgstoolkit/coming-soon....md)

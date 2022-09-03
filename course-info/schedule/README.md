@@ -1,4 +1,4 @@
-# Schedule\*
+# Schedule
 
 {% hint style="danger" %}
 I'll post an overview schedule for the course here. Obviously, this is still in progress.&#x20;
@@ -38,16 +38,16 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 | 13      | December 5     | 7      | **Independent work**                                      |
 | 13_bis_ | December 9     |        | Finale                                                    |
 
-#### Winter Term
+#### Winter Term (TBD)
 
 | Week | Mondays         | Wed    | Topic                                   |
 | ---- | --------------- | ------ | --------------------------------------- |
 | 1    | January 9       | 11     | Historical Game Design: an introduction |
-| 2    | January 16      | 18     | Storytelling & History                  |
+| 2    | January 16      | 18     | Specific topics TBD                     |
 | 3    | January 23      | 25     |                                         |
 | 4    | January 30      | Feb 1  |                                         |
 | 5    | February 6      | 8      |                                         |
-| 6    | February 13     | 15     | Timeline                                |
+| 6    | February 13     | 15     |                                         |
 |      | **February 20** | **22** | **Winter Reading Week**                 |
 | 7    | February 27     | Mar 1  |                                         |
 | 8    | March 6         | 8      |                                         |

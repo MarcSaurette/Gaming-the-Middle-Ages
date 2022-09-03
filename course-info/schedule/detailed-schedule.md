@@ -4,7 +4,13 @@
 
 #### 1.1 Orientation
 
-Tutorial Level: [https://carletonhistory.itch.io/fysm14052022tutorial-level](https://carletonhistory.itch.io/fysm14052022tutorial-level)
+{% content-ref url="../../pregame/welcome.md" %}
+[welcome.md](../../pregame/welcome.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../pregame/tutorial-level.md" %}
+[tutorial-level.md](../../pregame/tutorial-level.md)
+{% endcontent-ref %}
 
 #### 2.1 What is History?
 
