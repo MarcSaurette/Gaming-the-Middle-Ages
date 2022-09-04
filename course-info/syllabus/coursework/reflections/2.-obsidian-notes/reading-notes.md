@@ -1,8 +1,6 @@
 # Reading Notes
 
-In the first few weeks of class, we will practice reading academic works and then take notes with them.&#x20;
-
-Building on the smart note system, students will be asked to not simply&#x20;
+This year we will practice reading academic works and creating effective and useful notes from them. Building up your own smart note system requires that students work up foundational building blocks (references to works read) and notes that build off of them (literature and permanent notes). For history, texts form the foundational building blocks of our ideas - reading written history and then recording our thoughts on evidence (no matter if evidence takes the form of texts, images, material culture etc.)
 
 ### What is the point of writing up notes on your readings?
 
