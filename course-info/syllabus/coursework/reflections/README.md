@@ -4,8 +4,8 @@ In the first term, the students will be expected to write short pieces each week
 
 Some of the first written work you will work on:
 
-1. &#x20;[Profile](character-profile.md)
-2. Different kinds of [notes](obsidian-notes/) to practice the _smartnote_ method.
-3. A [game journal ](game-journal.md)detailing your analysis of the game _Crusader Kings III_.&#x20;
+1. &#x20;[Profile](overflow-written-work/character-profile.md)
+2. Different kinds of [notes](2.-obsidian-notes/) to practice the _smartnote_ method.
+3. A [game journal ](3.-game-journal.md)detailing your analysis of the game _Crusader Kings III_.&#x20;
 
 In the Winter term, we will be working on a multi-stage [game design project](../game-design-project.md).&#x20;

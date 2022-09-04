@@ -14,7 +14,7 @@ I will take attendence and at the end of each class, will request that you assig
 {% endtab %}
 
 {% tab title="Profile" %}
-The first thing to do in this class is put together a profile to introduce yourself to your fellow students and the professor. I am going to suggest that you make a [profile](reflections/character-profile.md) in the vein of an RPG character sheet, but you can also do something else which is creative - like a prose description, verse or a video...
+The first thing to do in this class is put together a profile to introduce yourself to your fellow students and the professor. I am going to suggest that you make a [profile](reflections/overflow-written-work/character-profile.md) in the vein of an RPG character sheet, but you can also do something else which is creative - like a prose description, verse or a video...
 {% endtab %}
 
 {% tab title="Notes" %}
@@ -44,4 +44,4 @@ In the second term, the class will work on a [group project ](game-design-projec
 * attend seminars, where I will lecture or lead a discussion  and answer questions, or run an exercise
 * complete weekly exercises (usually begun in class) intended to practice foundational skills of History/ Medieval Studies/Historical Game Studies
 * write notes for the class and your gameplay with [Obsidian](../../digital-tools/obsidian/)
-* play games and think about them and then [write about them](reflections/game-journal.md).
+* play games and think about them and then [write about them](reflections/3.-game-journal.md).

@@ -1,4 +1,8 @@
-# 1. Profile\*
+# Profile\*
+
+{% hint style="danger" %}
+Decided not to go foreward with this idea. Maybe next term.&#x20;
+{% endhint %}
 
 {% hint style="info" %}
 The professor's in progress sample "character" profile [can be consulted here](https://docs.google.com/spreadsheets/d/1BTav0xNTGFqYl175jV3GUcnK36Jb9HE\_xdcQqRlq\_xc/edit?usp=sharing).

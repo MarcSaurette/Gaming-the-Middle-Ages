@@ -1,4 +1,4 @@
-# 2. Obsidian Notes\*
+# Obsidian Notes\*
 
 All of you take notes - for school, for life, we need to record things so we can remember them and make sense of them. In this course, I am hoping to teach you a specific way of taking/making notes that will give you the tools for academic and intellectual success.&#x20;
 
