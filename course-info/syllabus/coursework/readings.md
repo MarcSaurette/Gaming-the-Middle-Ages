@@ -4,6 +4,8 @@ I am trying something new this year. Instead of having the bookstore order physi
 
 You will therefore not need to purchase any textbooks for this class.&#x20;
 
+Some readings will be posted to a folder, "Required readings" or "Supplemental Readings" (if not required) on Teams (in the general channel), but usually readings will be online, and linked to in the detailed class description for each week.&#x20;
+
 ### What is Social Annotation?
 
 Social annotation takes the usually solitary act of reading and allows students to do it in community with one another. By using digital tools to highlight, comment, or otherwise annotate a text, students “do the reading,” but do so in conversation with their peers.

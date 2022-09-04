@@ -1,6 +1,6 @@
-# 4. Game Design Project\*
+# Game Design Project\*
 
-In the second term, we will create games of our own, intended to educate (and entertain) other History/Medieval Studies students.&#x20;
+In the **second term**, we will create games of our own, intended to educate (and entertain) other History/Medieval Studies students.&#x20;
 
 {% hint style="info" %}
 Historians attempt to take very complex historical situations and view them through different interpretive lenses. They see "rules" to how history works. In creating games, we will seek to identify key defining features of the medieval past and distill them into game mechanics.

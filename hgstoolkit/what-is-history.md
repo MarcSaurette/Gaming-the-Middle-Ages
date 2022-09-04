@@ -8,7 +8,7 @@ By the end of the second week, what should you **know**, be able to **do** and *
 2. You will practice reading academic writing and will learn strategies for engaging productively with ideas in text – turning them into your own words/ thoughts. We will discuss the concept and practices of making "[smart notes](https://www.soenkeahrens.de/en/takesmartnotes)".&#x20;
 3. We will go over using Teams, Obsidian and Hypothesis - three digital tools key for this course.
 4. We will practice making notes on [Obsidian](../course-info/digital-tools/obsidian/) and learn to import annotations from hypothes.is. Students will write and upload a literature-note to Teams showing they have successfully done so.&#x20;
-5. Students must sign up to submit [classnotes](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md) twice a term by September 14th. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing).
+5. Students must sign up to submit [classnotes](../course-info/syllabus/coursework/reflections/obsidian-notes/classnotes.md) twice a term by September 14th. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing).
 
 {% hint style="info" %}
 If you have a laptop/portable device that you will be using this term, bring it to class so that you can work with it on Wednesday (September 14th).
