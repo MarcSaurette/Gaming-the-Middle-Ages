@@ -21,7 +21,11 @@ The class provides a transition back to school. We'll discuss the syllabus and g
 
 ### Read/Watch/Listen
 
-Read the syllabus section of this course guide and also the sections on Digital Tools.&#x20;
+1\. Read the syllabus section of this course guide and also the sections on Digital Tools.&#x20;
+
+
+
+
 
 ### Practice
 
