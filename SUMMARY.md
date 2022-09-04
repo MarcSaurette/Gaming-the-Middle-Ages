@@ -48,8 +48,8 @@
   * [Hypothes.is](course-info/digital-tools/hypothes.is/README.md)
     * [Using Hypothes.is for annotations\*](course-info/digital-tools/hypothes.is/using-hypothes.is-for-annotations.md)
     * [Using Hypothes.is with Obsidian\*](course-info/digital-tools/hypothes.is/using-hypothes.is-with-obsidian.md)
-  * [Github\*](course-info/digital-tools/github.md)
-  * [Google Apps\*](course-info/digital-tools/google-apps.md)
+  * [Github](course-info/digital-tools/github.md)
+  * [Google Apps](course-info/digital-tools/google-apps.md)
   * [Brightspace](course-info/digital-tools/brightspace.md)
   * [Zotero](course-info/digital-tools/zotero.md)
     * [Using Zotero with Obsidian\*](course-info/digital-tools/zotero/using-zotero-with-obsidian.md)
@@ -64,4 +64,4 @@
 
 ## Historical Game Studies Toolkit <a href="#hgstoolkit" id="hgstoolkit"></a>
 
-* [Coming soon...](hgstoolkit/coming-soon....md)
+* [What is History?\*](hgstoolkit/what-is-history.md)
