@@ -1,4 +1,4 @@
-# Assessment\*
+# Assessment
 
 Most first-year classes in History are full year (two semester) courses. We do this so that students who arrive at university have time to settle into class and get accustomed to the expectations of university. The First-Year Seminar program is designed specifically to address this, focusing not only on disciplinary content (i.e. teaching you facts about the past) but also teaching skills fundamental for academic success.&#x20;
 
@@ -30,15 +30,15 @@ All students start out the class with 0 XP. As you complete classwork, assignmen
 {% hint style="info" %}
 The professor also may assign bonus XP at his discretion in recognition of a student's unexpected effort or activity.&#x20;
 
-Every point values below are doubled if I assess it to be done exceptionally. Thus, if someone produces a piece of writing that succeeds above my expectations, I will double the typical XP value as recognition of your accomplishment (e.g. a Profile done exceptionally earns you 2x no. XP).&#x20;
+Every point values below are doubled if I assess it to be done exceptionally. Thus, if someone produces a piece of writing that succeeds above my expectations, I will double the typical XP value as recognition of your accomplishment (e.g. a classnote done exceptionally earns you 2x 20).&#x20;
 {% endhint %}
 
 Generally, each week you will come to class, read something, write something, and do an exercise (which may start in class and need to be completed outside of class). So each week you should typically gain 50 points (or roughly 600 over the course of the first term).&#x20;
 
 | XP Gained      | Task                                                                                            |
 | -------------- | ----------------------------------------------------------------------------------------------- |
-| 20             | [For each piece of written work assignment](../coursework/reflections/)                         |
-| 20             | [For each exercise completed on time](../coursework/assignments/)                               |
+| 20             | [For each piece of written work ](../coursework/reflections/)submitted                          |
+| 20             | For each exercise (without written work) completed (e.g. tutorial level)                        |
 | 1 / annotation | [For reading and annotating the assigned readings each week on time](../coursework/readings.md) |
 | up to 10       | [Attending and participating in class](../coursework/participation.md)                          |
 | 25             | [Attending optional events](../../optional-learning-activities.md)                              |
