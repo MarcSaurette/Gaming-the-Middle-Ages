@@ -18,8 +18,8 @@ If a student fall below a certain level of reputation, it means they need to mee
 
 | **Assignment**                                                       | **Date due**                                       |
 | -------------------------------------------------------------------- | -------------------------------------------------- |
-| [Profile](coursework/reflections/character-profile.md)               | 10pm Tuesday of week 3 (September 20th)            |
-| [Game Journal](coursework/reflections/3.-game-journal.md)            | Irregularly, due 10pm Sundays                      |
+| [Game Journal](coursework/reflections/3.-game-journal.md)            | Sections due irregularly, due 10pm Sundays         |
+| Final Game Journal  + Obsidian Vault                                 | 4pm, Friday of Week 13 (December 9th)              |
 | [Exercises](coursework/assignments.md)                               | Generally 10am the Sunday after each week of class |
 | [Classnotes](coursework/reflections/2.-obsidian-notes/classnotes.md) | Twice a term, 10pm Sundays                         |
 | [Process Letter](coursework/process-letters.md)                      | 4pm Friday of week 13 (December 9th)               |

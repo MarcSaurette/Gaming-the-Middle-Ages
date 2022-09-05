@@ -14,7 +14,7 @@ I will take attendence and at the end of each class, will request that you assig
 {% endtab %}
 
 {% tab title="Profile" %}
-The first thing to do in this class is put together a profile to introduce yourself to your fellow students and the professor. I am going to suggest that you make a [profile](reflections/character-profile.md) in the vein of an RPG character sheet, but you can also do something else which is creative - like a prose description, verse or a video...
+The first thing to do in this class is put together a profile to introduce yourself to your fellow students and the professor. I am going to suggest that you make a [profile](reflections/not-assigned-written-work/character-profile.md) in the vein of an RPG character sheet, but you can also do something else which is creative - like a prose description, verse or a video...
 {% endtab %}
 
 {% tab title="Notes" %}
