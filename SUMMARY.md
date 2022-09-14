@@ -38,8 +38,8 @@
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
   * [Teams](course-info/digital-tools/teams.md)
-  * [Obsidian\*](course-info/digital-tools/obsidian/README.md)
-    * [Installing Obsidian\*](course-info/digital-tools/obsidian/installing-obsidian.md)
+  * [Obsidian](course-info/digital-tools/obsidian/README.md)
+    * [Installing Obsidian](course-info/digital-tools/obsidian/installing-obsidian.md)
     * [Using Obsidian\*](course-info/digital-tools/obsidian/using-obsidian.md)
   * [Hypothes.is](course-info/digital-tools/hypothes.is/README.md)
     * [Using Hypothes.is for annotations\*](course-info/digital-tools/hypothes.is/using-hypothes.is-for-annotations.md)
@@ -58,6 +58,8 @@
 * [Orientation](pregame/welcome.md)
 * [Tutorial Level](pregame/tutorial-level.md)
 
-## Historical Game Studies Toolkit <a href="#hgstoolkit" id="hgstoolkit"></a>
+## Fundamentals
 
-* [What is History?\*](hgstoolkit/what-is-history.md)
+* [What is History?](fundamentals/what-is-history.md)
+* [What are the Middle Ages?\*](fundamentals/what-are-the-middle-ages.md)
+* [What are Games?](fundamentals/what-are-games.md)
