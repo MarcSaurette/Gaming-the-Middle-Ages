@@ -1,7 +1,7 @@
 # Profile\*
 
 {% hint style="danger" %}
-Decided not to go foreward with this idea. Maybe next term.&#x20;
+Decided not to go foreward with this idea. Maybe next term. Maybe next year....&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -14,7 +14,7 @@ I want to start the year with a bit of a playful exercise. I want you to describ
 
 I will distribute a profile template (via google sheets) to everyone. It will consist of several pages - only some of which need to be filled out, some of which will be used in the future for the professor to give feedback.&#x20;
 
-Also, I've created an overly-detailed guide on how to go about creating a Medievalist character (\*\*\*\***link here**\*\*\*\*). This started off as a lark but then I kept going... In a nod to the fantasy genre, the guide describes Medievalists as if engaging in a battle between good and evil (which perhaps we are...) and outlines potential skills to learn, knowledge domains to specialize in, intellectual weapons to wield etc. If you have an affinity for Role-Playing Games it will look familiar-ish to you.&#x20;
+Also, I've created an overly-detailed guide on how to go about creating a Medievalist character ([unfinished](https://docs.google.com/document/d/164IOZEMbDItL4kNOl0ps9UnWQUysiKWX9nkdT1WyFms/edit?usp=sharing)). This started off as a lark but then I kept going... In a nod to the fantasy genre, the guide describes Medievalists as if engaging in a battle between good and evil (which perhaps we are...) and outlines potential skills to learn, knowledge domains to specialize in, intellectual weapons to wield etc. If you have an affinity for Role-Playing Games it will look familiar-ish to you.&#x20;
 
 {% hint style="info" %}
 The goal of your profile is to imagine yourself as if you were a character - how would a player quantify your skills and abilities, how would they describe your background and preparation for university, and what special knowledge, ideas, and creativity help define you. And also think about how you want to develop - if you want to level up, what skills would you seek to master next?

@@ -1,4 +1,4 @@
-# What is History?\*
+# What is History?
 
 ### Goals for this week (September 12/14, 2022)
 

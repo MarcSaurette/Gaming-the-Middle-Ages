@@ -29,7 +29,9 @@ From 0-200  200-500 XP, you are considered a normal run of the mill Acolyte.&#x2
 
 ### How to Earn XP
 
-All students start out the class with 0 XP. As you complete classwork, assignments, students will rise up and begin to differentiate themselves from one another. Each student is reponsible for updating their experience sheet when work has been completed to keep a running tally.&#x20;
+XP give you a rough sense of how you are measuring up against expectations and your peers.&#x20;
+
+All students start out the class with 0 XP. As you complete classwork, assignments, students will rise up and begin to differentiate themselves from one another. Each student is reponsible for updating their experience sheet (to be distributed individually) when work has been completed to keep a running tally.&#x20;
 
 {% hint style="info" %}
 The professor also may assign bonus XP at his discretion in recognition of a student's unexpected effort or activity.&#x20;

@@ -25,7 +25,7 @@
       * [Game Journal\*](course-info/syllabus/coursework/reflections/3.-game-journal.md)
       * [Game Design Project\*](course-info/syllabus/coursework/game-design-project.md)
       * [Not-assigned written work](course-info/syllabus/coursework/reflections/not-assigned-written-work/README.md)
-        * [Profile\*](course-info/syllabus/coursework/reflections/not-assigned-written-work/character-profile.md)
+        * [Profile\*](course-info/syllabus/coursework/reflections/character-profile.md)
     * [Exercises\*](course-info/syllabus/coursework/assignments.md)
     * [Peer Feedback](course-info/syllabus/coursework/peer-feedback.md)
     * [Process Letters](course-info/syllabus/coursework/process-letters.md)
@@ -60,6 +60,6 @@
 
 ## Fundamentals
 
-* [What is History?](fundamentals/what-is-history.md)
+* [What is History?](hgstoolkit/what-is-history.md)
 * [What are the Middle Ages?\*](fundamentals/what-are-the-middle-ages.md)
 * [What are Games?](fundamentals/what-are-games.md)
