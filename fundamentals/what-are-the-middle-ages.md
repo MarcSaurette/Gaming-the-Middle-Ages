@@ -2,31 +2,25 @@
 
 ### Goals for this week (September 19th/21st)
 
-1. Double check that all students have signed up to submit [classnotes](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md) twice a term. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing).
-2. Students will get initial feedback about their first literature note on Kinsey's article.&#x20;
-3. Discuss scholarly ideas of the Middle Ages as well as common myths about it (Monday)
-4.
+1. Double check that all students have signed up to submit [classnotes](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md) twice a term. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing) if you have not already done so.
+2. By the end of this week, students will get initial feedback about their first literature note on Kinsey's article.&#x20;
+3. Discuss scholarly ideas of the Middle Ages as well as common myths about it (Monday); make students aware that many truths we take to be self-evident about the Middle Ages are actually ninteenth-century inventions.&#x20;
 
 ### Overview:
 
-The class introduces you to the discipline of History, major concerns and questions, as well as debates about the nature of history. We will also practice&#x20;
+The class introduces you to the Middle Ages. The professor will discuss the different ways to define the period and how it has traditionally been defined.&#x20;
 
-1. By Monday's class, students will need to have read, Danielle Kinsey's "Three Points About History, Especially for Non-Historians." _Canadian Journal of History_ 54, no. 1 (2019): 1-20. [https://www-utpjournals-press.proxy.library.carleton.ca/doi/full/10.3138/cjh.ach.54.1-2.01](https://www-utpjournals-press.proxy.library.carleton.ca/doi/full/10.3138/cjh.ach.54.1-2.01)
-2. On Monday, we will explore together the question, "What is History?" I will introduce students to different debates on the topic. We will explore how historical learning and knowledge of history is important (or not important) in our society. We will spend some time talking about the Kinsey reading. Be prepared to come talk generally about how history seems relevent to your lives. We might consider such questions as:
-   1. what is the difference between the past and history?
-   2. what is the nature of History, as practiced in university vs. what we consider popular or public history?
-   3. where does the idea and the academic discipline of history come from?
-   4. what is the use of history? how can history be misused?
-   5. where do you get your 'history' from?
-3. On Wednesday, we will introduce students to two tools: [Obsidian](../course-info/digital-tools/obsidian/) and [Hypothes.is](../course-info/digital-tools/hypothes.is/). In class, we get students to make use of these two tools, and get hypothes.is integrated with Obsidian. We will practice making notes and using basic tools in Obsidian. We will then reread and annotate the Kinsey article together, using hypothes.is.&#x20;
+
 
 ### Read/Watch/Listen
 
-Danielle Kinsey's "Three Points About History, Especially for Non-Historians." _Canadian Journal of History_ 54, no. 1 (2019): 1-20. [https://www-utpjournals-press.proxy.library.carleton.ca/doi/full/10.3138/cjh.ach.54.1-2.01](https://www-utpjournals-press.proxy.library.carleton.ca/doi/full/10.3138/cjh.ach.54.1-2.01)
+Read chapter one of Kaufman, Amy S., and Paul B. Sturtevant. [_The Devil’s Historians : How Modern Extremists Abuse the Medieval Past_](https://cmailcarletonca.sharepoint.com/:b:/r/sites/MEMS2001977/Shared%20Documents/General/Required%20readings/The%20Devil's%20Historians\_%20How%20Modern%20Extremi%20-%20By%20Amy%20S.%20Kaufman%20\(1\).pdf?csf=1\&web=1\&e=uo8nt9). Toronto: University of Toronto Press, 2020.&#x20;
 
-_Optional reading_:&#x20;
+This reading is posted in the "required readings" folder in the file portion of the General channel.&#x20;
 
-Ahrens, Sönke. _How to Take Smart Notes : One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers_. 2017. (posted on Teams)
+{% hint style="info" %}
+In order to annotate this pdf with hypothes.is, you will need to open the pdf in the browser you are using with hypothes.is (I recommend Google Chrome). Usually your browser will not be the default software for pdf files, so you will need to right-click (or its equivalent) and select the command, "open with" and then select your browser.&#x20;
+{% endhint %}
 
 ### Practice
 

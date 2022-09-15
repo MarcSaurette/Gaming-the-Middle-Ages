@@ -54,7 +54,7 @@ We will use hypothes.is _via_ a plug-in for Chrome or a Bookmarklet on other bro
 
 ![](../../../.gitbook/assets/Screen%20Shot%202020-06-17%20at%209.36.21%20AM.png)
 
-12\. Then click [this link](https://hypothes.is/groups/X7eRqmgQ/fysm1405d-making-the-ma) to join the class annotation group. This is super important. We want you to post in a goup that we can find and that people don't see publicly (which is the default). The link will ask you to sign in again.&#x20;
+12\. Then click [this link ](https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages)to join the class annotation group. This is super important. We want you to post in a goup that we can find and that people don't see publicly (which is the default). The link will ask you to sign in again.&#x20;
 
 ![Yes, I stole this screen shot from a guide for another class...](../../../.gitbook/assets/Screen%20Shot%202020-06-17%20at%209.44.24%20AM.png)
 
