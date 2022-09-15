@@ -4,13 +4,15 @@
 
 1. Double check that all students have signed up to submit [classnotes](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md) twice a term. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing) if you have not already done so.
 2. By the end of this week, students will get initial feedback about their first literature note on Kinsey's article.&#x20;
-3. Discuss scholarly ideas of the Middle Ages as well as common myths about it (Monday); make students aware that many truths we take to be self-evident about the Middle Ages are actually ninteenth-century inventions.&#x20;
+3. Discuss scholarly ideas of the Middle Ages as well as common myths about it; make students aware that many truths we take to be self-evident about the Middle Ages are actually ninteenth-century inventions.&#x20;
 
 ### Overview:
 
 The class introduces you to the Middle Ages. The professor will discuss the different ways to define the period and how it has traditionally been defined.&#x20;
 
+On Monday, the professor will lead a discussion to outline different ways of conceptualizing the period of the Middle Ages.&#x20;
 
+On Wednesday, we will discuss the reading _The Devil's Historians_ (see below) and consider the many myths of the Middle Ages that circulate in pop culture in our society.&#x20;
 
 ### Read/Watch/Listen
 
@@ -19,7 +21,7 @@ Read chapter one of Kaufman, Amy S., and Paul B. Sturtevant. [_The Devil’s His
 This reading is posted in the "required readings" folder in the file portion of the General channel.&#x20;
 
 {% hint style="info" %}
-In order to annotate this pdf with hypothes.is, you will need to open the pdf in the browser you are using with hypothes.is (I recommend Google Chrome). Usually your browser will not be the default software for pdf files, so you will need to right-click (or its equivalent) and select the command, "open with" and then select your browser.&#x20;
+In order to annotate this pdf with hypothes.is, you will need to open the pdf in the browser you are using with hypothes.is integrated (I recommend Google Chrome). Usually your browser will not be the default software for pdf files, so you will need to right-click (or its equivalent) and select the command, "open with" and then select your browser. Hypothes.is will still save your annotations to our group.&#x20;
 {% endhint %}
 
 ### Practice
@@ -28,3 +30,4 @@ This week you goal is to ensure that you have downloaded and installed the class
 
 ### Going Further
 
+I
