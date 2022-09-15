@@ -1,6 +1,6 @@
 # Readings
 
-I am trying something new this year. Instead of having the bookstore order physical books to campus (which I am not sure if you are going to be nearby), we will instead use digital files which we will read and annotate together via [Hypothes.is](../../digital-tools/hypothes.is/). Hypothes.is allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year.
+I am trying something new this year. Instead of having the bookstore order physical books to campus (which I am not sure if you are going to be nearby), we will instead use digital files which we will read and annotate together via [Hypothes.is](../../digital-tools/hypothes.is.md). Hypothes.is allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year.
 
 You will therefore not need to purchase any textbooks for this class.&#x20;
 

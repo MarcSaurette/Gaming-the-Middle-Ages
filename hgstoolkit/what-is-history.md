@@ -25,7 +25,7 @@ The class introduces you to the discipline of History, major concerns and questi
    3. where does the idea and the academic discipline of history come from?
    4. what is the use of history? how can history be misused?
    5. where do you get your 'history' from?
-3. On Wednesday, we will introduce students to two tools: [Obsidian](../course-info/digital-tools/obsidian/) and [Hypothes.is](../course-info/digital-tools/hypothes.is/). In class, we get students to make use of these two tools, and get hypothes.is integrated with Obsidian. We will practice making notes and using basic tools in Obsidian. We will then reread and annotate the Kinsey article together, using hypothes.is.&#x20;
+3. On Wednesday, we will introduce students to two tools: [Obsidian](../course-info/digital-tools/obsidian/) and [Hypothes.is](../course-info/digital-tools/hypothes.is.md). In class, we get students to make use of these two tools, and get hypothes.is integrated with Obsidian. We will practice making notes and using basic tools in Obsidian. We will then reread and annotate the Kinsey article together, using hypothes.is.&#x20;
 
 ### Read/Watch/Listen
 
