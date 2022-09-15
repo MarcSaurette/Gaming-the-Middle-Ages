@@ -62,5 +62,5 @@
 ## Fundamentals
 
 * [What is History?](hgstoolkit/what-is-history.md)
-* [What are the Middle Ages?\*](fundamentals/what-are-the-middle-ages.md)
+* [What are the Middle Ages?](fundamentals/what-are-the-middle-ages.md)
 * [What are Games?](fundamentals/what-are-games.md)
