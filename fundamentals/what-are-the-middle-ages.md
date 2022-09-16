@@ -28,9 +28,9 @@ In order to annotate a pdf on your computer (not the internet) with hypothes.is,
 
 ### Practice
 
-Last week your goal was to download and install the class Obsidian starter "vault" and integrated it with hypothe.is. By **Monday, September 19th,** you will need to have uploaded a literature-note for Kinsey's article (showing downloaded annotations) to your student-work folder on Teams.
+Last week your goal was to download and install the class Obsidian starter "vault" and integrated it with hypothesis. By **Monday, September 19th,** you will need to have uploaded a literature-note. I had originally thought we would do this with Kinsey's article but have now decided to do it with this week's readings, _The Devil's Historians._&#x20;
 
-Your goal by the end of this week, i.e. by Monday, September 26th, you should make a new [permanent note](../course-info/syllabus/coursework/reflections/obsidian-notes/permanent-notes.md) listing / describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th.&#x20;
+In addition, your goal by the end of this week, i.e. by Monday, September 26th, you should make a new [permanent note](../course-info/syllabus/coursework/reflections/obsidian-notes/permanent-notes.md) listing / describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th.&#x20;
 
 ### Going Further
 
