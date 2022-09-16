@@ -28,7 +28,7 @@ Each week (usually during the Wednesday class), we will complete exercises to in
 {% endtab %}
 
 {% tab title="Feedback" %}
-&#x20;You will be asked to provide comments and constructive criticism to written work completed by your peers ([expectations set out here](peer-feedback.md)). We'll use the annotation tool [hypothes.is](../../digital-tools/hypothes.is.md) to make comments on each other's work.&#x20;
+&#x20;You will be asked to provide comments and constructive criticism to written work completed by your peers ([expectations set out here](peer-feedback.md)). We'll use the annotation tool [hypothes.is](../../digital-tools/hypothes.is/) to make comments on each other's work.&#x20;
 {% endtab %}
 
 {% tab title="Process Letter" %}
@@ -40,7 +40,7 @@ In the second term, the class will work on a [group project ](game-design-projec
 
 ### **Each week you will:**&#x20;
 
-* prepare for class by completing the assigned readings and making annotations on the texts (primary sources, secondary sources, images, websites) with [Hypothes.is](../../digital-tools/hypothes.is.md).
+* prepare for class by completing the assigned readings and making annotations on the texts (primary sources, secondary sources, images, websites) with [Hypothes.is](../../digital-tools/hypothes.is/).
 * attend seminars, where I will lecture or lead a discussion  and answer questions, or run an exercise
 * complete weekly exercises (usually begun in class) intended to practice foundational skills of History/ Medieval Studies/Historical Game Studies
 * write notes for the class and your gameplay with [Obsidian](../../digital-tools/obsidian/)

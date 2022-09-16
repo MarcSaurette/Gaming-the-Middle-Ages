@@ -35,6 +35,6 @@ This week, you are asked to complete download, install, set up or sign up for th
 [obsidian](../course-info/digital-tools/obsidian/)
 {% endcontent-ref %}
 
-{% content-ref url="../course-info/digital-tools/hypothes.is.md" %}
-[hypothes.is.md](../course-info/digital-tools/hypothes.is.md)
+{% content-ref url="../course-info/digital-tools/hypothes.is/" %}
+[hypothes.is](../course-info/digital-tools/hypothes.is/)
 {% endcontent-ref %}

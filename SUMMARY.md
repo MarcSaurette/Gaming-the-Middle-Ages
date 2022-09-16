@@ -42,7 +42,7 @@
   * [Obsidian](course-info/digital-tools/obsidian/README.md)
     * [Installing Obsidian](course-info/digital-tools/obsidian/installing-obsidian.md)
     * [Using Obsidian\*](course-info/digital-tools/obsidian/using-obsidian.md)
-  * [Hypothes.is](course-info/digital-tools/hypothes.is.md)
+  * [Hypothes.is](course-info/digital-tools/hypothes.is/README.md)
   * [Github](course-info/digital-tools/github.md)
   * [Google Apps](course-info/digital-tools/google-apps.md)
   * [Brightspace](course-info/digital-tools/brightspace.md)
