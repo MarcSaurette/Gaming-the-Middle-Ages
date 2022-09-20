@@ -30,7 +30,9 @@ In order to annotate a pdf on your computer (not the internet) with hypothes.is,
 
 Last week your goal was to download and install the class Obsidian starter "vault" and integrated it with hypothesis. By **Monday, September 19th,** you will need to have uploaded a literature-note. I had originally thought we would do this with Kinsey's article but have now decided to do it with this week's readings, _The Devil's Historians._&#x20;
 
-In addition, your goal by the end of this week, i.e. by Monday, September 26th, you should make a new [permanent note](../course-info/syllabus/coursework/reflections/obsidian-notes/permanent-notes.md) listing / describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th.&#x20;
+In addition, your goal by the end of this week, i.e. by Monday, September 26th, you should make a series of [permanent note](../course-info/syllabus/coursework/reflections/obsidian-notes/permanent-notes.md)s listing / describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th. A detailed guide for completing this are available here:&#x20;
+
+* [https://marc-saurette.gitbook.io/gaming-the-middle-ages/course-info/syllabus/coursework/assignments/2.-writing-up-permanent-notes](https://marc-saurette.gitbook.io/gaming-the-middle-ages/course-info/syllabus/coursework/assignments/2.-writing-up-permanent-notes)
 
 ### Going Further
 
