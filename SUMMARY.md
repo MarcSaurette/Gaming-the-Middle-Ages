@@ -28,6 +28,7 @@
         * [Profile\*](course-info/syllabus/coursework/reflections/character-profile.md)
     * [Exercises\*](course-info/syllabus/coursework/assignments/README.md)
       * [1. Introduction to Hypothes.is](course-info/syllabus/coursework/assignments/1.-introduction-to-hypothes.is.md)
+      * [2. Writing up permanent notes](course-info/syllabus/coursework/assignments/2.-writing-up-permanent-notes.md)
     * [Peer Feedback](course-info/syllabus/coursework/peer-feedback.md)
     * [Process Letters](course-info/syllabus/coursework/process-letters.md)
   * [Assessment](course-info/syllabus/assessment-1/README.md)
