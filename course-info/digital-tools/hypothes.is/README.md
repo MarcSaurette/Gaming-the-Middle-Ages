@@ -6,6 +6,10 @@ description: In progress
 
 [Hypothes.is ](https://hypothes.is)is a tool which allows you to annotate web content for your personal research use or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central location.
 
+{% hint style="info" %}
+The following are instructions for using hypothesis on a laptop/desktop. If you are using hypothes.is on a mobile device/ tablet, read their suggestions for best practices: [https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/](https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/)
+{% endhint %}
+
 ### Quick start:
 
 Click[ this link](https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages) to join the class hypothes.is group and register for an account.&#x20;
