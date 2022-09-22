@@ -1,6 +1,6 @@
 # What are Games?
 
-Goals for this week (September 26th/28th)
+### Goals for this week (September 26th/28th)
 
 1. To understand how scholars define "Games" and why Historians are interested in them
 2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies

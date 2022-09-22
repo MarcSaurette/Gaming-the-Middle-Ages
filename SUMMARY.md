@@ -34,7 +34,7 @@
   * [Assessment](course-info/syllabus/assessment-1/README.md)
     * [Why no grades?](course-info/syllabus/assessment-1/why-no-grades.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
-* [Schedule](course-info/schedule.md)
+* [Schedule](course-info/schedule/README.md)
 * [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
