@@ -19,24 +19,24 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 #### Fall Term
 
-|         | Mondays        | Wed    | Topic                                                                                                                                |
-| ------- | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1       | September      | 7      | [Prologue](../../pregame/welcome.md)                                                                                                 |
-| 2       | September 12   | 14     | [What is History?](../../hgstoolkit/what-is-history.md)                                                                              |
-| 3       | September 19   | 21     | [What are the Middle Ages?](../../fundamentals/what-are-the-middle-ages.md)                                                          |
-| 4       | September 26   | 28     | [What are games?](../../fundamentals/what-are-games.md)                                                                              |
-| 5       | October 3      | 5      | [Medieval Games: a survey](../../historical-games-studies/medieval-games.md)                                                         |
-|         | **October 10** | ****   | **Thanksgiving**                                                                                                                     |
-| 6       |                | 12     | [Library Games](../../historical-games-studies/library-games.md)                                                                     |
-| 7       | October 17     | 19     | [Medieval Games: Chess case study I](../../historical-games-studies/case-study-chess-i.md)                                           |
-|         | **October 24** | **26** | **Reading Week**                                                                                                                     |
-| 8       | October 31     | Nov 2  | [Medieval Games: Chess case study II](../../historical-games-studies/case-study-chess-ii.md)                                         |
-| 9       | November 7     |  9     | [Roleplaying from Jousting to LARPing](../../historical-games-studies/roleplaying-from-jousting-to-larping.md)                       |
-| 10      | November 14    | 16     | [From 19th century wargaming to modern _spieljahren_](../../historical-games-studies/from-19th-wargaming-to-german-spieljahren.md)__ |
-| 11      | November 21    | 23     | [Digital Games: survey of medieval videogames](../../historical-games-studies/digital-games-survey-of-medieval-videogames.md)        |
-| 12      | November 28    | 30     | [Digital Game: Assassins Creed Case Study](../../historical-games-studies/digital-game-case-study-assassins-creed.md)                |
-| 13      | December 5     | 7      | ****[**Independent work**](../../historical-games-studies/independent-work.md)****                                                   |
-| 13_bis_ | December 9     |        | [Finale](../../historical-games-studies/finale.md)                                                                                   |
+|         | Mondays        | Wed    | Topic                                                     |
+| ------- | -------------- | ------ | --------------------------------------------------------- |
+| 1       | September      | 7      | Prologue                                                  |
+| 2       | September 12   | 14     | What is History?                                          |
+| 3       | September 19   | 21     | What are the Middle Ages?                                 |
+| 4       | September 26   | 28     | What are games?                                           |
+| 5       | October 3      | 5      | Medieval Games: a survey                                  |
+|         | **October 10** | ****   | **Thanksgiving**                                          |
+| 6       |                | 12     | Library Games                                             |
+| 7       | October 17     | 19     | Medieval Games: Chess case study I                        |
+|         | **October 24** | **26** | **Reading Week**                                          |
+| 8       | October 31     | Nov 2  | Medieval Games: Chess case study II                       |
+| 9       | November 7     |  9     | Roleplaying from Jousting to LARPing                      |
+| 10      | November 14    | 16     | From nineteenth century wargaming to German _spieljahren_ |
+| 11      | November 21    | 23     | Digital Games: survey of medieval videogames              |
+| 12      | November 28    | 30     | Digital Game: Assassins Creed Case Study                  |
+| 13      | December 5     | 7      | **Independent work**                                      |
+| 13_bis_ | December 9     |        | Finale                                                    |
 
 #### Winter Term (TBD)
 
