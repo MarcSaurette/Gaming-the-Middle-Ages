@@ -35,11 +35,24 @@ C.T. Nguyen also was interviewed on the Ezra Klein show **in February 2022,** wh
 
 ### Practice
 
-* Permanent note on "what is a game"
-* making notes to prepare for class discussion
+* Write up a permanent note answering the question "what is a game".&#x20;
+* Create a new note, entitled something like, "Games I have played". Make a list of all the games you have played in your life - games you played with toys, commercial games, games [you made up](https://tvtropes.org/pmwiki/pmwiki.php/Main/Calvinball). Be as exhaustive as possible. Try to organize them into groups or categories (or a [typology](https://hypothes.is/search?q=tag%3A%22GameTypology%22)). Maybe code them as potential links, e.g.:
+
+```
+1. [[Balderdash]]
+2. [[Kahoots]]
+```
 
 ### Going Further
 
-C.T. Nguyen also was interviewed on the Ezra Klein show **on February 25th, 2022,** where he states in a slightly different (and more approachable) way, what is also in his book**.** A link to the podcast and a transcript can be found here: [https://www.nytimes.com/2022/02/25/podcasts/transcript-ezra-klein-interviews-c-thi-nguyen.html](https://www.nytimes.com/2022/02/25/podcasts/transcript-ezra-klein-interviews-c-thi-nguyen.html)
+If you want to read more about this topic, here are some other good academic texts:
 
-**Listen to “The Ezra Klein Show”**: [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447), [Spotify](https://open.spotify.com/show/3oB5noYIwEB2dMAREj2F7S), [Pocket Casts](https://pca.st/ey7cqeik), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS84MkZJMzVQeA), [Stitcher](https://www.stitcher.com/show/the-ezra-klein-show-2), [How to Listen](https://www.nytimes.com/2021/01/19/opinion/how-to-listen-ezra-klein-show-nyt.html?action=click\&module=RelatedLinks\&pgtype=Article)
+* Egenfeldt-Nielsen, Simon, Jonas Heide Smith, and Susana Pajares Tosca. “What Is a Game?” In _Understanding Video Games_, 31–60. 4th ed. Routledge, 2020. [Link to library catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/1ortgfo/cdi\_informaworld\_taylorfrancisbooks\_10\_4324\_9780429431791\_4\_version2).
+
+Also, there are a number of good podcasts about the field of Games Studies, such as:
+
+* [Games Studies Study Buddies](http://rangedtouch.com/game-studies-study-buddies/) - long podcasts (up to 2 hrs) discussing important books (both new and classic) in the field of games studies
+* [Gaming the Past](https://gamingthepast.net/theory-practice/gaming-the-past-designer-talks-podcast/) - Classical historian Jeremiah McCall talks to game designers about how they use history in their game design
+* [Studying Pixels](https://studyingpixels.com) - two scholars talking about videogames, including current releases
+* [Designer Notes](https://www.idlethumbs.net/designernotes/) - an experienced game designer sits down with noted designers to find out by examining their careers as a whole.\
+  \
