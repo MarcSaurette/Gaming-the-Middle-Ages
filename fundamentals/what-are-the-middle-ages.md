@@ -4,7 +4,7 @@
 
 1. Make sure that all students have signed up to submit [classnotes](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md) twice a term. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing) if you have not already done so.
 2. Have students copy information produced in the tutorial level "game" and in our [first exercise](../course-info/syllabus/coursework/assignments/1.-introduction-to-hypothes.is.md) into a [spreadsheet](https://docs.google.com/spreadsheets/d/11qySQYeDCusmpIE28vK8rXUAB9KG5S8Ex-gD5SdNE6g/edit?usp=sharing) used to keep track of people's information
-3. By the end of this week, students will get initial feedback about their first literature note on Kinsey's article. The professor will also distribute links to individualized spreadsheets for keeping track of work and receiving feedback.&#x20;
+3. By the end of this week, students will get initial feedback about their first literature note. The professor will also distribute links to individualized spreadsheets for keeping track of work and receiving feedback.&#x20;
 4. Discuss scholarly ideas of the Middle Ages as well as common myths about it; make students aware that many truths we take to be self-evident about the Middle Ages are actually ninteenth-century inventions.&#x20;
 
 ### Overview:
@@ -30,7 +30,9 @@ In order to annotate a pdf on your computer (not the internet) with hypothes.is,
 
 Last week your goal was to download and install the class Obsidian starter "vault" and integrated it with hypothesis. By **Monday, September 19th,** you will need to have uploaded a literature-note. I had originally thought we would do this with Kinsey's article but have now decided to do it with this week's readings, _The Devil's Historians._&#x20;
 
-In addition, your goal by the end of this week, i.e. by Monday, September 26th, you should make a new [permanent note](../course-info/syllabus/coursework/reflections/obsidian-notes/permanent-notes.md) listing / describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th.&#x20;
+In addition, your goal by the end of this week, i.e. by Monday, September 26th, you should make a series of [permanent note](../course-info/syllabus/coursework/reflections/obsidian-notes/permanent-notes.md)s listing / describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th. A detailed guide for completing this are available here:&#x20;
+
+* [https://marc-saurette.gitbook.io/gaming-the-middle-ages/course-info/syllabus/coursework/assignments/2.-writing-up-permanent-notes](https://marc-saurette.gitbook.io/gaming-the-middle-ages/course-info/syllabus/coursework/assignments/2.-writing-up-permanent-notes)
 
 ### Going Further
 

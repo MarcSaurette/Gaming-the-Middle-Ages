@@ -34,8 +34,7 @@
   * [Assessment](course-info/syllabus/assessment-1/README.md)
     * [Why no grades?](course-info/syllabus/assessment-1/why-no-grades.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
-* [Schedule](course-info/schedule/README.md)
-  * [Detailed Schedule\*](course-info/schedule/detailed-schedule.md)
+* [Schedule](course-info/schedule.md)
 * [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
@@ -62,3 +61,16 @@
 * [What is History?](hgstoolkit/what-is-history.md)
 * [What are the Middle Ages?](fundamentals/what-are-the-middle-ages.md)
 * [What are Games?](fundamentals/what-are-games.md)
+
+## Historical Games Studies
+
+* [Medieval Games](historical-games-studies/medieval-games.md)
+* [Library Games](historical-games-studies/library-games.md)
+* [Case Study: Chess I](historical-games-studies/case-study-chess-i.md)
+* [Case Study: Chess II](historical-games-studies/case-study-chess-ii.md)
+* [Roleplaying from Jousting to LARPing](historical-games-studies/roleplaying-from-jousting-to-larping.md)
+* [From 19th wargaming to German spieljahren](historical-games-studies/from-19th-wargaming-to-german-spieljahren.md)
+* [Digital Games: survey of medieval videogames](historical-games-studies/digital-games-survey-of-medieval-videogames.md)
+* [Digital Game Case Study: Assassin's Creed](historical-games-studies/digital-game-case-study-assassins-creed.md)
+* [Independent Work](historical-games-studies/independent-work.md)
+* [Finale](historical-games-studies/finale.md)

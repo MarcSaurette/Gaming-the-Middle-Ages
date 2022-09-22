@@ -14,7 +14,7 @@ By the end of the first week (by Sunday, September 11th), what should you **know
 The class provides a transition back to school. We'll discuss the syllabus and getting to know one another. This week I want you to:&#x20;
 
 1. Make sure you can access your Carleton email (some version of your name + ends in @cmail.carleton.ca)
-2. Read the syllabus and [schedule](../course-info/schedule/) on Gitbook (i.e. this place). Identify any questions you have and write them down.&#x20;
+2. Read the syllabus and [schedule](../course-info/schedule.md) on Gitbook (i.e. this place). Identify any questions you have and write them down.&#x20;
 3. Use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
 4. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year.
 5. Complete the [tutorial level](tutorial-level.md) to let me know more about you.
