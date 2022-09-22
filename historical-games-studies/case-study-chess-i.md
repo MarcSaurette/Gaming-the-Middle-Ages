@@ -1,6 +1,6 @@
 # Case Study: Chess I
 
-### Goals for this week (October 3/5th)
+### Goals for this week (October 17/19th)
 
 
 

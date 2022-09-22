@@ -1,6 +1,6 @@
 # Digital Game Case Study: Assassin's Creed
 
-### Goals for this week (October 3/5th)
+### Goals for this week (November 28/30th)
 
 
 

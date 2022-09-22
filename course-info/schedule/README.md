@@ -30,7 +30,7 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 | 6       |                | 12     | [Library Games](../../historical-games-studies/library-games.md)                                                                     |
 | 7       | October 17     | 19     | [Medieval Games: Chess case study I](../../historical-games-studies/case-study-chess-i.md)                                           |
 |         | **October 24** | **26** | **Reading Week**                                                                                                                     |
-| 8       | October 31     | Nov 2  | case[case-study-chess-ii.md](../../historical-games-studies/case-study-chess-ii.md "mention")                                        |
+| 8       | October 31     | Nov 2  | [Medieval Games: Chess case study II](../../historical-games-studies/case-study-chess-ii.md)                                         |
 | 9       | November 7     |  9     | [Roleplaying from Jousting to LARPing](../../historical-games-studies/roleplaying-from-jousting-to-larping.md)                       |
 | 10      | November 14    | 16     | [From 19th century wargaming to modern _spieljahren_](../../historical-games-studies/from-19th-wargaming-to-german-spieljahren.md)__ |
 | 11      | November 21    | 23     | [Digital Games: survey of medieval videogames](../../historical-games-studies/digital-games-survey-of-medieval-videogames.md)        |

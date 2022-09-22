@@ -1,6 +1,6 @@
 # Digital Games: survey of medieval videogames
 
-### Goals for this week (October 3/5th)
+### Goals for this week (November 21st/23rd)
 
 
 

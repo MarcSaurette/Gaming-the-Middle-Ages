@@ -1,6 +1,6 @@
 # From 19th wargaming to German spieljahren
 
-### Goals for this week (October 3/5th)
+### Goals for this week (November 14/16th)
 
 
 

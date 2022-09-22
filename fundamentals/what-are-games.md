@@ -40,3 +40,6 @@ C.T. Nguyen also was interviewed on the Ezra Klein show **in February 2022,** wh
 
 ### Going Further
 
+C.T. Nguyen also was interviewed on the Ezra Klein show **on February 25th, 2022,** where he states in a slightly different (and more approachable) way, what is also in his book**.** A link to the podcast and a transcript can be found here: [https://www.nytimes.com/2022/02/25/podcasts/transcript-ezra-klein-interviews-c-thi-nguyen.html](https://www.nytimes.com/2022/02/25/podcasts/transcript-ezra-klein-interviews-c-thi-nguyen.html)
+
+**Listen to “The Ezra Klein Show”**: [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447), [Spotify](https://open.spotify.com/show/3oB5noYIwEB2dMAREj2F7S), [Pocket Casts](https://pca.st/ey7cqeik), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS84MkZJMzVQeA), [Stitcher](https://www.stitcher.com/show/the-ezra-klein-show-2), [How to Listen](https://www.nytimes.com/2021/01/19/opinion/how-to-listen-ezra-klein-show-nyt.html?action=click\&module=RelatedLinks\&pgtype=Article)
