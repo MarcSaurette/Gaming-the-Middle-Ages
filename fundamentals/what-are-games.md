@@ -2,7 +2,7 @@
 
 ### Goals for this week (September 26th/28th)
 
-1. To understand how scholars define "Games" and why historians are interested in them
+1. To understand how scholars define "Games" and why historians are interested in them. We also want to be able to distinguish play from games.
 2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies
 3. To consider key terminology about games and how to decribe and categorize them.
 
@@ -11,7 +11,8 @@
 The week introduces you to the field of Games Studies/ Historical Games Studies. The professor will lead a discussion about the different ways to define what a "game" is and scholars have talked about them in the past.
 
 * On Monday, the professor will lead a discussion about the two readings by C.T. Nguyen about games. Students need to have read the texts for Monday's class (September 26th). This class, students will be responsible for most of the discussion, answering the fundamental question: **What is a game?**. We will not have a lecture by the professor, but instead, students will need to read the assigned works and be ready to discuss what they found most relevent and interesting.&#x20;
-* On Wednesday, we will have a joint brainstorming session to try to establish a game typology: i.e. how to distinguish between different kinds of games, and if that helps us undestand how we interact with them.&#x20;
+* On Wednesday, we will have a joint brainstorming session to try to establish a game typology: i.e. how to distinguish between different kinds of games, where do we draw the lines betweens game, play, and sport?
+  * if we have time, we might also try to think about what games can teach us as historians - a topic we will explore in a bit more detail in the following week.&#x20;
 
 ### Read/Watch/Listen
 

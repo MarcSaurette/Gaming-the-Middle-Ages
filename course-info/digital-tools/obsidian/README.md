@@ -14,3 +14,7 @@ They are happy to describe what it is and what it is good for. We agree: it's be
 
 To get a sense of what Obsidian does and how you can use it, take a look at their resources page: [https://www.obsidianroundup.org/resources/](https://www.obsidianroundup.org/resources/)
 
+At the end of the fall Term, students will be expected to submit their entire Obsidian vault to show how it was used throughout term (i.e. to show whether the student made use of the medium above expectation).&#x20;
+
+* our goal, if everyone agrees, will also be to create a communal vault, linking people's work together and establishing a shareable repository of everyone's work in a new Obsidian vault.&#x20;
+
