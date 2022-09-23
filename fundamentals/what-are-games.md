@@ -46,7 +46,11 @@ C.T. Nguyen also was interviewed on the Ezra Klein show **in February 2022,** wh
 
 ### Going Further
 
-If you want to read more about this topic, here are some other good academic texts:
+When you are encountering a new field of study, it is useful to use a tertiary source (reference works like dictionaries and encyclopedias) to learn terminology, get basic definitions and be introduced generally to key topics.
+
+* I recommend the online [Encyclopedia of Ludic Terms](https://eolt.org/) (English "ludic"   is an adjective derived from the Latin, _ludus –_ game, play, sport, pastime). It is a useful and developing resource for studying games.&#x20;
+
+If you want to read more about this topic, here is another detailed academic texts:
 
 * Egenfeldt-Nielsen, Simon, Jonas Heide Smith, and Susana Pajares Tosca. “What Is a Game?” In _Understanding Video Games_, 31–60. 4th ed. Routledge, 2020. [Link to library catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/1ortgfo/cdi\_informaworld\_taylorfrancisbooks\_10\_4324\_9780429431791\_4\_version2).
 

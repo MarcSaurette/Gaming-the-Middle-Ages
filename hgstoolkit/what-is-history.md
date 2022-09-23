@@ -39,4 +39,4 @@ Ahrens, Sönke. _How to Take Smart Notes : One Simple Technique to Boost Writi
 
 This week your goal is to ensure that you have downloaded and installed the class Obsidian starter "vault" and integrated hypothe.is. By **Monday, September 19th,** you need to upload a literature-note for Kinsey's article (showing downloaded annotations) to your student-work folder on Teams (Each student is asked to create a folder for themself in the "Student Work" folder in the general channel files.&#x20;
 
-Since we did not get as far as I hoped in class, students will be expected to complete this exercise on their own time. [Instructions here](../course-info/assignments/1.-introduction-to-hypothes.is.md).&#x20;
+Since we did not get as far as I hoped in class, students will be expected to complete this exercise on their own time. [Instructions here](../course-info/syllabus/coursework/assignments/1.-introduction-to-hypothes.is.md).&#x20;
