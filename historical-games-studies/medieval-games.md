@@ -18,6 +18,8 @@ We are going to read a more theoretical piece this week, laying out a framework 
 
 ### Practice
 
+Part of learning about games is playing them.&#x20;
+
 This is an experiment. Given our different schedules and demands on our time, it is not always easy to get together in the same room outside of class time. I am going to ask people to sign up for an account on [Boardgame Arena](https://boardgamearena.com/welcome), which is an online space for playing (digitized) boardgames.&#x20;
 
 I've put together a class group, which I think will require that I invite people to it. I will need your account name to find and invite you. Add it to the [spreadsheet](https://docs.google.com/spreadsheets/d/11qySQYeDCusmpIE28vK8rXUAB9KG5S8Ex-gD5SdNE6g/edit?usp=sharing).
