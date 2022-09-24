@@ -14,6 +14,7 @@ Our goal this week is to survey the history of play and games during the Middle 
 We are going to read a more theoretical piece this week, laying out a framework for studying games in history
 
 * [http://gamestudies.org/2003/articles/mccall](http://gamestudies.org/2003/articles/mccall)
+* [https://eolt.org/articles/history-games](https://eolt.org/articles/history-games)
 
 ### Practice
 
