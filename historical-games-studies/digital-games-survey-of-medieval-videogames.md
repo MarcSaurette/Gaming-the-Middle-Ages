@@ -8,11 +8,15 @@
 
 
 
+
+
 ### Read/Watch/Listen
 
 
 
 ### Practice
+
+Rochat, Yannick. “A Quantitative Study of Historical Video Games (1981–2015).” In _Historia Ludens_, 3–19. 1st ed. Routledge, 2020. (posted on Teams)
 
 
 
