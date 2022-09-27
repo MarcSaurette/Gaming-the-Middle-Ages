@@ -11,7 +11,7 @@ Our goal this week is to survey the history of play and games during the Middle 
 
 ### Read/Watch/Listen
 
-Patterson, Serina. _Games and Gaming in Medieval Literature._ Edited by Serina Patterson. First edition. New York, NY: Palgrave Macmillan, 2015. (Available on Teams)
+
 
 And we are going to read a more theoretical piece this week, laying out a framework for studying games in history
 

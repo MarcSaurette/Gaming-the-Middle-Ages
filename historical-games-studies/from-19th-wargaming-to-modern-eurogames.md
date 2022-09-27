@@ -1,4 +1,4 @@
-# From 19th wargaming to German spieljahren
+# From 19th wargaming to modern Eurogames
 
 ### Goals for this week (November 14/16th)
 
@@ -20,3 +20,7 @@ William J. White, "The Right to Dream of the Middle Ages: Simulating the Medieva
 
 ### Going Further
 
+* Wintjes, J. (2017). When a _Spiel_ is not a Game: The Prussian _Kriegsspiel_ from 1824 to 1871. _Vulcan, 5_, 5-28. [https://doi.org/10.1163/22134603-00501002](https://doi.org/10.1163/22134603-00501002)
+*   Wood, K. (2018). A History of Play in Print: Board Games from the Renaissance to Milton Bradley. _Center for Gaming Research Occasional Paper Series, 44_. [https://digitalscholarship.unlv.edu/occ\_papers/44](https://digitalscholarship.unlv.edu/occ\_papers/44)
+
+    Woods, S. (2012). _Eurogames: The Design, Culture and Play of Modern European Board Games_. McFarland.

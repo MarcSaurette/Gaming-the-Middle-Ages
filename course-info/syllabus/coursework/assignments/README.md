@@ -12,4 +12,4 @@ Examples of the kinds of exercises we will do in the Fall term:
 * annotate a scholarly article together - using [hypothes.is](../../../digital-tools/hypothes.is/) to understand its structure and purpose (in order to teach how to read secondary sources)&#x20;
 * practice different forms of Historical Game Analysis
 
-In the [detailed outline for each week](../../../schedule/detailed-schedule.md), I will post links to detailed instructions of the pertinent exercise.
+In the [detailed outline for each week](broken-reference), I will post links to detailed instructions of the pertinent exercise.
