@@ -2,9 +2,9 @@
 
 ### Goals for this week (October 12th)
 
+Students will be expected to&#x20;
 
-
-### Overview:
+###
 
 
 

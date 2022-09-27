@@ -2,11 +2,10 @@
 
 ### Goals for this week (October 17/19th)
 
+Today, we are exploring the medieval history of chess, as a case study for how to think about historical games.&#x20;
 
-
-### Overview:
-
-
+* Monday we will discuss Spanos' chapter on chess, and see the different forms of analysis he suggests we could take with the game of chess as historians
+* On Wednesday, we will explore how to communicate the rules of chess without a chess board in front of you. The goal is to test your ability to communicate the rules of chess just with spoken words.&#x20;
 
 ### Read/Watch/Listen
 
@@ -16,7 +15,9 @@ Spanos, Apostolos. _Games of History: Games and Gaming as Historical Sources_. M
 
 ### Practice
 
+Given how ubiquitous chess is as a game (chess used to be a stock game loaded onto Macs and PCs), your goal will be to explain to someone else in class, how to play chess.&#x20;
 
+Play a game of chess on [https://www.chess.com/play/computer](https://www.chess.com/play/computer) before class on Monday to understand the basics (they will teach you the basics [https://www.chess.com/learn](https://www.chess.com/learn))
 
 ### Going Further
 
