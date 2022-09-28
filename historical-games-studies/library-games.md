@@ -14,7 +14,7 @@ Nothing this week.&#x20;
 
 ### Practice
 
-You will need to complete a Scavenger hunt in small groups to demonstrate a superficial awareness, at minimum, of different resources on campus.
+You will need to complete a Scavenger hunt in small groups to demonstrate a superficial awareness, at minimum, of different resources on campus. Instructions for the scavenger hunt will be released on Wednesday at 1230.&#x20;
 
 ### Going Further
 
