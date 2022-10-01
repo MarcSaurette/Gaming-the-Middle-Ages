@@ -70,3 +70,29 @@ If you type the code in correctly and I've sent on the right code, Steam will ad
 
 ### 2. Play Tutorial
 
+1. Once you hit the play button, this will launch the Paradox launcher and will start the game. Click on new game. And then click on "Play Tutorial" in the top right corner.&#x20;
+
+{% hint style="info" %}
+Some of you have already played this game, but I still wish you to replay the tutorial level so that we can all be able to talk about the same material (at first at least, you can go off in your own direction later).&#x20;
+{% endhint %}
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-01 at 3.20.17 PM.png" alt=""><figcaption><p>Click "New Game"</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-01 at 3.20.49 PM.png" alt=""><figcaption><p>The "Play Tutorial" button is on the top right corner</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-01 at 3.20.56 PM.png" alt=""><figcaption><p>Click Play Tutorial again and get started. </p></figcaption></figure>
+
+</div>
+
+Depending how familiar you are with this kind of videogame, you might only play the tutorial (possibly more than once to understand different aspects of the game design), or you will play it once before launching into other scenarios.&#x20;
+
+Your goal for this week is to try to play through the tutorial. This will likely take a few hours, or more if you are new to the genre/ interface. **Get playing!**
+
+### 3. Your first Journal Entry
+
