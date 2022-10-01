@@ -46,6 +46,8 @@ I've put together a class group, which I think will require that I invite people
 
 You can explore the additional works which look more at the historical and political context of  Alfonso's manuscript:
 
+Michael A. Conrad, "The Playing Eye: On the Transfer of Game- Related Knowledge through Miniatures in Alfonso X's Book of Games (1283/84)," in Games and Visual Culture in the Middle Ages and the Renaissance. Brepols: Turnhaut, 2020; 237-259. (posted on Teams)
+
 Linde M. Brocato, "Alfonso X's Libro de ajedrez e dados e tablas or Libro de los juegos:  Interrogating Convivencia," _Revisiting Convivencia in Medieval and Early Modern Iberia_, ed. Connie Scarborough (pp. 297-334) (posted on Teams)
 
 PhD Dissertation: LOS LIBROS DE ACEDREX DADOS E TABLAS: HISTORICAL, ARTISTIC AND METAPHYSICAL DIMENSIONS OF ALFONSO X’S BOOK OF GAMES by Sonja Musser Golladay (2007)
