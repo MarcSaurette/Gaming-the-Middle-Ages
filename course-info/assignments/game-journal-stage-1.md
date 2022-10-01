@@ -19,7 +19,9 @@ Jeremiah McCall has written extensivey on historical video games. A good startin
 * have Crusader Kings III installed
 * have Obsidian working
 
-### 1. Install Crusader Kings III
+### Instructions
+
+#### 1. Install Crusader Kings III
 
 {% hint style="info" %}
 The goal of the game journal project is that everyone in class is going to play a medieval videogame and each of us is going to discuss our experiences of doing so, week by week in the second half of first term. Students with a strong desire to work an alternate game (and an explicit rationale† for why they want to) can focus on a different game, but must clear it with the professor first.&#x20;
@@ -68,7 +70,7 @@ If you type the code in correctly and I've sent on the right code, Steam will ad
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-10-01 at 3.09.16 PM.png" alt=""><figcaption><p>Click on the play button and the analysis can begin!</p></figcaption></figure>
 
-### 2. Play Tutorial
+#### 2. Play Tutorial
 
 1. Once you hit the play button, this will launch the Paradox launcher and will start the game. Click on new game. And then click on "Play Tutorial" in the top right corner.&#x20;
 
@@ -94,5 +96,8 @@ Depending how familiar you are with this kind of videogame, you might only play 
 
 Your goal for this week is to try to play through the tutorial. This will likely take a few hours, or more if you are new to the genre/ interface. **Get playing!**
 
-### 3. Your first Journal Entry
+#### 3. Your first Journal Entry
 
+So you've played some Crusader Kings III. Congratulations for getting through the tutorial, it is a pretty complicated game so it takes some thought. If you are confused, know that many in the class are too.&#x20;
+
+As you play, you should document the game play. This can take the form of screenshots, recorded gameplay or written/typed notes.&#x20;
