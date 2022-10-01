@@ -38,7 +38,7 @@
   * [3. Writing up idea and brainstorming notes\*](course-info/assignments/3.-writing-up-idea-and-brainstorming-notes.md)
   * [4. Writing up a Reference note\*](course-info/assignments/4.-writing-up-a-reference-note.md)
   * [5. Scavenger Hunt](course-info/assignments/5.-scavenger-hunt.md)
-  * [6. Game Journal - stage 1](course-info/assignments/6.-game-journal-stage-1.md)
+  * [6. Game Journal - stage 1](course-info/assignments/game-journal-stage-1.md)
 * [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
