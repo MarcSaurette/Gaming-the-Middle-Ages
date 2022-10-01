@@ -32,6 +32,8 @@ The first rules of Hazard in English (I believe) are described here in [chapter 
 
 ### Practice
 
+Create reference notes, as outlined in [exercise 4](../course-info/assignments/4.-writing-up-a-reference-note.md).&#x20;
+
 Part of learning about games is playing them. I will host a game afternoon on Thursdays, so that we can get practice and experience with games.&#x20;
 
 This is an experiment.&#x20;
