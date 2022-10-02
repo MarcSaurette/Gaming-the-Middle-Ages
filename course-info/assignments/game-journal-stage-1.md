@@ -98,6 +98,9 @@ Your goal for this week is to try to play through the tutorial. This will likely
 
 #### 3. Your first Journal Entry
 
-So you've played some Crusader Kings III. Congratulations for getting through the tutorial, it is a pretty complicated game so it takes some thought. If you are confused, know that many in the class are too.&#x20;
+So you've played some Crusader Kings III. Congratulations for getting through the tutorial, it is a pretty complicated game so it takes some time and thought. If you are confused, know that many in the class are too.&#x20;
 
-As you play, you should document the game play. This can take the form of screenshots, recorded gameplay or written/typed notes.&#x20;
+As you play, you should try to document the game play. This can take the form of screenshots or recorded gameplay and written/typed notes.&#x20;
+
+1. Create a reference note for _Crusader Kings III_ by following (if necessary) the instructions in [exercise no. 4.](4.-writing-up-a-reference-note.md#game-reference-note)
+2.
