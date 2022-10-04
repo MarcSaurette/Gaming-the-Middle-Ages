@@ -13,9 +13,23 @@ Spanos, Apostolos. _Games of History: Games and Gaming as Historical Sources_. M
 
 * chapter 1. "Pregame"
 
-Consult the manuscript of the _Libro del axedrez, dados e tablas_ \[The Book of Chess, Dice and Tables] by Alfonso X el Sabio (1221-1284), Sevilla, 1283, located at the Real Biblioteca del Monasterio de San Lorenzo de El Escorial (ms. T.I.6). [Catalogue description](https://rbmecat.patrimonionacional.es/cgi-bin/koha/opac-detail.pl?biblionumber=825).
+Consult the manuscript of the _Libro del axedrez, dados e tablas_ \[The Book of Chess, Dice and Tables] by Alfonso X el Sabio (1221-1284), Sevilla, 1283, located at the Real Biblioteca del Monasterio de San Lorenzo de El Escorial (ms. T.I.6). [Catalogue description](https://rbmecat.patrimonionacional.es/cgi-bin/koha/opac-detail.pl?biblionumber=825). The game of Azar is written (and illustrated) on folio 67r.&#x20;
 
 * [https://rbdigital.realbiblioteca.es/s/rbme/item/13125#?c=\&m=\&s=\&cv=10\&xywh=-2449%2C-40%2C7392%2C4159](https://rbdigital.realbiblioteca.es/s/rbme/item/13125#?c=\&m=\&s=\&cv=10\&xywh=-2449%2C-40%2C7392%2C4159)
+
+<div>
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 10.41.18 AM.png" alt=""><figcaption><p>f.67r</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 10.40.52 AM.png" alt=""><figcaption><p>f. 67r</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 10.40.41 AM.png" alt=""><figcaption><p>f. 67r</p></figcaption></figure>
+
+</div>
 
 The manuscript is printed in the following edition:&#x20;
 
