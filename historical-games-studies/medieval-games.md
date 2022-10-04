@@ -22,6 +22,10 @@ The manuscript is printed in the following edition:&#x20;
 * Alfonso X, King of Castile and Leon, and Arnald Steiger. _Libros de acedrex, dados e tablas: das schachzabelbuch König des Weisen_. Vol. 10. Genéve: E. Droz; \[etc.], 1941. (not available online)
 * This manuscript contains the rules for Hazard/ Azar a dice game.&#x20;
 
+{% hint style="info" %}
+Middle English **aserd**, Middle English–1500s **hasarde**, Middle English–1600s **hassard**, Middle English–1600s **hasard**, Middle English– **hazard**, 1500s **hazered**, 1500s–1600s **haserd**, 1500s–1600s **hassarde**, 1500s–1600s **hazarde**, 1500s–1600s **hazzard**, 1700s **hosard**; also _Scottish_ pre-1700 **haiserd**, pre-1700 **haissart**, pre-1700 **haisyaird**, pre-1700 **haisyard**, pre-1700 **haizaird**, pre-1700 **hasaerd**, pre-1700 **hasaire**, pre-1700 **hasart**, pre-1700 **hasert**, pre-1700 **haysarde**.&#x20;
+{% endhint %}
+
 The rules for Hazard from this manuscript are communicated in this article:
 
 * Jesús Basulto, José Antonio Camùnez et Francisco Javier Ortega, « Azar game in the book of the dice of Alfonso X The Learned. Its relation with the hazard games of Montmort, Cotton, Hoyle, De Moivre and Jacob Bernoulli », _Mathématiques et sciences humaines_, 174 | Summer 2006,  [http://journals.openedition.org/msh/3546](http://journals.openedition.org/msh/3546) ; DOI : https://doi.org/10.4000/msh.3546
@@ -43,6 +47,8 @@ Given our different schedules and demands on our time, it is not always easy to 
 I've put together a class group, which I think will require that I invite people to it. I will need your account name to find and invite you. Add it to the [spreadsheet](https://docs.google.com/spreadsheets/d/11qySQYeDCusmpIE28vK8rXUAB9KG5S8Ex-gD5SdNE6g/edit?usp=sharing).
 
 ### Going Further
+
+Etymology of Hazard ([OED](https://www-oed-com.proxy.library.carleton.ca/view/Entry/84853?isAdvanced=false\&result=1\&rskey=0rAGp3&))
 
 You can explore the additional works which look more at the historical and political context of  Alfonso's manuscript:
 
