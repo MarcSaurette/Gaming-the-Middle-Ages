@@ -16,6 +16,7 @@ Examine a decorated games box, dating from 1440-1470; made of bone, wood (beech)
 
 Examine chess pieces:
 
+* [https://www.britishmuseum.org/collection/object/H\_1831-1101-84](https://www.britishmuseum.org/collection/object/H\_1831-1101-84) \[The Lewis Chessman, as these are called, are among the most famous medieval game pieces, and demonstrate a style often copied in medieval-themed games. Note that antequated title of the objects as "chessmen" – even though they would be better described as a "Chess set" given the presence of the Queen piece...].
 * [https://art.thewalters.org/detail/34963/game-piece-with-enthroned-figure/](https://art.thewalters.org/detail/34963/game-piece-with-enthroned-figure/)
 * [https://art.thewalters.org/detail/29773/game-piece-with-figures-in-a-castle/](https://art.thewalters.org/detail/29773/game-piece-with-figures-in-a-castle/)
 
