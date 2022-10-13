@@ -18,6 +18,7 @@ Jeremiah McCall has written extensivey on historical video games. A good startin
 
 * have Crusader Kings III installed
 * have Obsidian working
+* have new Game Journal templates installed in Obsidian
 
 ### Instructions
 
@@ -102,5 +103,5 @@ So you've played some Crusader Kings III. Congratulations for getting through th
 
 As you play, you should try to document the game play. This can take the form of screenshots or recorded gameplay and written/typed notes.&#x20;
 
-1. Create a reference note for _Crusader Kings III_ by following (if necessary) the instructions in [exercise no. 4.](4.-writing-up-a-reference-note.md#game-reference-note)
-2.
+1. Create a reference note for _Crusader Kings III_ by following (if necessary) the instructions in [exercise no. 4.](4.-writing-up-a-reference-note.md#game-reference-note) In addition to the basic game information, you should specify what version of the game you are playing (shown via Steam launcher), and what your operating system (OS) is (different operating system allow you to interact with the game slightly differently)...
+2. Create a game play note.&#x20;

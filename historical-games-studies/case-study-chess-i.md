@@ -25,6 +25,6 @@ An article about the reception and representation of chess by medieval English c
 
 * Robert Bubczyk, “LUDUS INHONESTUS ET ILLICITUS?” CHESS, GAMES, AND THE CHURCH IN MEDIEVAL EUROPE in Patterson, Serina. _Games and Gaming in Medieval Literature._ Edited by Serina Patterson. First edition. New York, NY: Palgrave Macmillan, 2015. (Available on Teams).
 
-A dense book focussed on late medieval interactions with Chess:
+A dense book focussed on late medieval engagement with Chess:
 
 Adams, Jenny. _Power Play : The Literature and Politics of Chess in the Late Middle Ages_, University of Pennsylvania Press, 2006. _ProQuest Ebook Central_, [https://ebookcentral-proquest-com.proxy.library.carleton.ca/lib/oculcarleton-ebooks/detail.action?docID=3442075](https://ebookcentral-proquest-com.proxy.library.carleton.ca/lib/oculcarleton-ebooks/detail.action?docID=3442075)&#x20;
