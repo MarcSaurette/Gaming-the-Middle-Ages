@@ -30,6 +30,8 @@ A medieval manuscript depicting two individuals playing chess (see bottom detail
 
 ### Going Further
 
+Read Schulte Michael (2017), “Board Games of the Vikings – From Hnefatafl to Chess”, Maal og minne (2): 1–42. [https://core.ac.uk/download/pdf/268146544.pdf](https://core.ac.uk/download/pdf/268146544.pdf)
+
 The Canadian Museum of History (Gatineau) also has a dedicated toy and game collection (largely focussed on Canadian examples). A small online exhibit can be consulted here:
 
 * [https://www.historymuseum.ca/canadaplay/introduction/](https://www.historymuseum.ca/canadaplay/introduction/)
