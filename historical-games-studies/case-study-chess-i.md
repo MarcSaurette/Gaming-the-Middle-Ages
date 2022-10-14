@@ -5,7 +5,7 @@
 Today, we are exploring the medieval history of chess, as a case study for how to think about historical games.&#x20;
 
 * Monday we will discuss Spanos' chapter on chess, and see the different forms of analysis he suggests we could take with the game of chess as historians
-* On Wednesday, we will explore how to communicate the rules of chess without a chess board in front of you. The goal is to test your ability to communicate the rules of chess just with spoken words. Read through the [outline of the in-class exercise](../course-info/assignments/6.-in-class-game-description-exercise.md). Students will be divided into _tutors_ and _pupils_ with different responsibilities.
+* On Wednesday, we will explore how to communicate the rules of chess without a chess board in front of you. The goal is to test your ability to communicate the rules of chess just with spoken words. Read through the [outline of the in-class exercise](../course-info/assignments/6.-in-class-exercise-game-communication.md). Students will be divided into _tutors_ and _pupils_ with different responsibilities.
 
 {% embed url="https://docs.google.com/spreadsheets/d/1Z2wO5CYxFLiGaNHBhwatEEZQ9ldlKWWZHL-e2Cashrg/edit?usp=sharing" %}
 
@@ -19,7 +19,7 @@ Spanos, Apostolos. _Games of History: Games and Gaming as Historical Sources_. M
 
 Play a game of chess on [https://www.chess.com/play/computer](https://www.chess.com/play/computer) before class on Monday to understand the basics (they will teach you the basics [https://www.chess.com/learn](https://www.chess.com/learn))
 
-On Wednesday, half the class (tutors) will teach the other half of class (pupils) how to play chess. [The exercise is explained here](../course-info/assignments/6.-in-class-game-description-exercise.md).&#x20;
+On Wednesday, half the class (tutors) will teach the other half of class (pupils) how to play chess. [The exercise is explained here](../course-info/assignments/6.-in-class-exercise-game-communication.md).&#x20;
 
 By the end of the week (Sunday night, October 23rd), please complete the [first stage](../course-info/assignments/7.-game-journal-stage-1.md) of your independent work assignment - a game journal looking at _Crusader Kings III._&#x20;
 
