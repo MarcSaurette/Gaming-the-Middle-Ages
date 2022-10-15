@@ -14,7 +14,7 @@ Examine a decorated games box, dating from 1440-1470; made of bone, wood (beech)
 
 * [https://art.thewalters.org/detail/9461/box-for-board-games/](https://art.thewalters.org/detail/9461/box-for-board-games/)
 
-Take a look at the following game pieces:
+Examine chess pieces:
 
 * [https://www.britishmuseum.org/collection/object/H\_1831-1101-84](https://www.britishmuseum.org/collection/object/H\_1831-1101-84) \[The Lewis Chessman, as these are called, are among the most famous medieval game pieces, and demonstrate a style often copied in medieval-themed games. Note that antequated title of the objects as "chessmen" – even though they would be better described as a "Chess set" given the presence of the Queen piece...].
 * [https://art.thewalters.org/detail/34963/game-piece-with-enthroned-figure/](https://art.thewalters.org/detail/34963/game-piece-with-enthroned-figure/)
@@ -26,7 +26,7 @@ A medieval manuscript depicting two individuals playing chess (see bottom detail
 
 ### Practice
 
-Before November 2nd's class, complete a _Game Object Note_ in Obsidian. This will require that students download and add a new simple template to your Obsidian vault. On November 2nd, we will discuss three different chess pieces, which you will have written about, as described in [exercise 8](../course-info/assignments/8.-in-class-exercise-material-culture.md).&#x20;
+
 
 ### Going Further
 

@@ -42,6 +42,7 @@
   * [6. In-class exercise: Game Communication](course-info/assignments/6.-in-class-game-description-exercise.md)
   * [7. Game Journal - stage 1](course-info/assignments/7.-game-journal-stage-1.md)
   * [8. In-class Exercise: Material culture](course-info/assignments/8.-in-class-exercise-material-culture.md)
+* [9. Game Journal - stage 2](course-info/9.-game-journal-stage-2.md)
 * [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
