@@ -1,6 +1,6 @@
 # Classnotes
 
-Classnotes try to record lectures and thoughts expressed in class by professors and students (both are important!). Class lectures are often _extemporized,_ which means that even thought there might be an underlying idea and they might based on extensive notes, in the classroom, student questions and interests have a way of changing the direction of the conversation. Classroom discussions therefore can sometimes be chaotic, and therefore classnotes should be imagined not just as a _record_ of class, but as a _thinking-though_ or a _making-sense_ of the class. Classnotes are therefore something more akin to a [permanent note](../obsidian-notes/permanent-notes.md) (which we discuss elsewhere).&#x20;
+Classnotes try to record lectures and thoughts expressed in class by professors and students (both are important!). Class lectures are often _extemporized,_ which means that even thought there might be an underlying idea and they might based on extensive notes, in the classroom, student questions and interests have a way of changing the direction of the conversation. Classroom discussions therefore can sometimes be chaotic, and therefore classnotes should be imagined not just as a _record_ of class, but as a _thinking-though_ or a _making-sense_ of the class. Classnotes are therefore something more akin to a [permanent note](broken-reference) (which we discuss elsewhere).&#x20;
 
 \---
 

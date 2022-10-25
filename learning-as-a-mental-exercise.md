@@ -22,3 +22,4 @@ But this is also what we want the class space to be – a time in your day when 
 During class, turn off notifications for non-class activities on your devices. Some activities in class may require use of computers/tablets/electronic devices, but these should be put away during discussions.&#x20;
 {% endhint %}
 
+![](.gitbook/assets/IMG\_0556.JPG)

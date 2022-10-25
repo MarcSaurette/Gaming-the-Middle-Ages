@@ -10,20 +10,22 @@ At minimum, students are expected to attend class having read and processed the 
 
 ### Be Prepared
 
-The most important part of participation is being prepared. You might be willing to contribute and be able to speak persuasively, but this does not contribute if you have not read and thought about the materials assigned for each class. You are asked to make annotations on the readings and then turn these annotations into notes. This will be an important part of your participation.&#x20;
+The most important part of participation is being prepared. You might be willing to contribute and be able to speak persuasively, but it is very difficult to contribute properly if you have not read and thought about the materials assigned for each class. You are asked to make annotations on the readings and then turn these annotations into notes. This will be an important part of your participation.&#x20;
 
 ### How to Participate
 
 Our plan is to give students a wide variety of opportunities to actively participate in the course. Students will be able to actively participate through the following :
 
 * Annotation and commenting on hypothes.is.&#x20;
-  * Students are asked to read, comment on and reflect on the readings (and additional assigned/optional texts) via hypothes.is.&#x20;
+  * Students are asked to read, comment on and reflect on the readings (and additional assigned/optional texts) via hypothes.is.
+  * these can provide questions for Q+A's
 * Q+A periods during lectures&#x20;
   * Students will be encouraged to add questions/comments throughout lectures; during mid-lecture Q+A periods, the professor will seek out questions/comments to discuss further/respond to
 * Small group breakout sessions during class&#x20;
-  * At some point during most classes, students will be broken up into small (5 person) breakout groups to discuss a particular question/theme, after which groups will be invited to report back to the full class.
+  * during some classes, students will be broken up into small (5 person) breakout groups to discuss a particular question/theme, after which groups will be invited to report back to the full class.
 * Additional voluntary discussion group meetings
-  * The aim of these meetings is to give students another opportunity to connect and dive deeper into any of the intellectual content of the course.&#x20;
+  * The aim of these meetings is to give students another opportunity to connect and dive deeper into any of the intellectual content of the course.
+  * for Winter term, you will need to work with your classmates outside of classtime to collaborate on different game design projects.&#x20;
 * Discussions with prof during office hours
 
 ### General principles of evaluation:&#x20;

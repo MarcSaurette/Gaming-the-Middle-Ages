@@ -9,7 +9,7 @@ In the first term, the students will be expected to write short pieces each week
 Some of the first written work you will work on:
 
 1. Different kinds of [notes](2.-obsidian-notes/) to practice the _smart note_ method.
-2. A [game journal ](3.-game-journal.md)detailing your analysis of the game _Crusader Kings III,_ built from incrementally building notes.&#x20;
+2. A [game journal ](game-journal/)detailing your analysis of the game _Crusader Kings III,_ built from incrementally building notes.&#x20;
 
-In the Winter term, we will be working on a multi-stage [game design project](../game-design-project.md).&#x20;
+In the Winter term, we will be working on a multi-stage [game design project](game-design-project/).&#x20;
 

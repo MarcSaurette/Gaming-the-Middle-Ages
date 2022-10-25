@@ -14,11 +14,11 @@ I will take attendence and at the end of each class, will request that you assig
 {% endtab %}
 
 {% tab title="Profile" %}
-The first thing to do in this class is put together a profile to introduce yourself to your fellow students and the professor. I am going to suggest that you make a [profile](reflections/character-profile.md) in the vein of an RPG character sheet, but you can also do something else which is creative - like a prose description, verse or a video...
+The first thing to do in this class is put together a profile to introduce yourself to your fellow students and the professor. I am going to suggest that you make a [profile](broken-reference) in the vein of an RPG character sheet, but you can also do something else which is creative - like a prose description, verse or a video...
 {% endtab %}
 
 {% tab title="Notes" %}
-The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar or the expectations are unclear. I'll try to make the expectations clear and over time the expected norms of writing will become familiar to you. Above all I just want you to get used to writing without worrying to much about being perfect at it.&#x20;
+The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar or the expectations are unclear. I'll make the expectations clear and over time the expected norms of writing will become familiar to you. Above all I just want you to get used to writing without worrying too much about being perfect at it.&#x20;
 
 We are using [Obsidian](../../digital-tools/obsidian/) to help you practice different kinds of writing - citing works properly, turning the texts of experts into your own words, and then processing these ideas.&#x20;
 {% endtab %}
@@ -28,7 +28,7 @@ Each week (usually during the Wednesday class), we will complete exercises to in
 {% endtab %}
 
 {% tab title="Feedback" %}
-&#x20;You will be asked to provide comments and constructive criticism to written work completed by your peers ([expectations set out here](peer-feedback.md)). We'll use the annotation tool [hypothes.is](../../digital-tools/hypothes.is/) to make comments on each other's work.&#x20;
+&#x20;You will be asked to provide comments and constructive criticism to written work completed by your peers ([expectations set out here](peer-feedback/)). We'll use the annotation tool [hypothes.is](../../digital-tools/hypothes.is/) to make comments on each other's work.&#x20;
 {% endtab %}
 
 {% tab title="Process Letter" %}
@@ -36,7 +36,7 @@ A "[proces letter](process-letters.md)" is a term we use to describe an end-of-t
 {% endtab %}
 {% endtabs %}
 
-In the second term, the class will work on a [group project ](game-design-project.md)that we will work on each week in order to develop a new historically- inspired game.&#x20;
+In the second term, the class will work on a [group project ](reflections/game-design-project/)or two, that we will work on each week in order to develop a new historically- inspired game.&#x20;
 
 ### **Each week you will:**&#x20;
 
@@ -44,4 +44,4 @@ In the second term, the class will work on a [group project ](game-design-projec
 * attend seminars, where I will lecture or lead a discussion  and answer questions, or run an exercise
 * complete weekly exercises (usually begun in class) intended to practice foundational skills of History/ Medieval Studies/Historical Game Studies
 * write notes for the class and your gameplay with [Obsidian](../../digital-tools/obsidian/)
-* play games and think about them and then [write about them](reflections/3.-game-journal.md).
+* play games and think about them and then [write about them](reflections/game-journal/).

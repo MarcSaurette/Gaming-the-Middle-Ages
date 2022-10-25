@@ -1,5 +1,7 @@
 # How much time do I spend...
 
+**doing work for the class?**
+
 I certainly understand that students all have commitments beside this class – work, friends, family all require your attention. Whether realistic or not, professors generally see university students as "full timers" (i.e. spending 45 hr/week on university). This might or might not describe what you can realistically devote each week, but it is nonetheless what professors expect students to do in order to do well in their classes.&#x20;
 
 ### How much time should I spend on this class?
