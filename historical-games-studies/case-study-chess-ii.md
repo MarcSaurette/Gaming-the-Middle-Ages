@@ -32,6 +32,16 @@ Before November 2nd's class, complete a _Game Object Note_ in Obsidian. This wil
 
 Read Schulte Michael (2017), “Board Games of the Vikings – From Hnefatafl to Chess”, Maal og minne (2): 1–42. [https://core.ac.uk/download/pdf/268146544.pdf](https://core.ac.uk/download/pdf/268146544.pdf)
 
+You can compare medieval European chess sets to those produced in the Persian/Islamic context. These are from New York's Metropolitan Museum of Art.&#x20;
+
+* Abstract [Chess set](https://www.metmuseum.org/art/collection/search/140009580), s. 12 (Iran): [Images](https://www.metmuseum.org/art/collection/search/140009580) & [text](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-six/chapter-one/featured-works-of-art/image-37)
+* Abstract [Shah chess piece](https://www.metmuseum.org/art/collection/search/140009700), s. 13-14 (Egypt or Syria)
+* Abstract [Rook chess piece,](https://www.metmuseum.org/art/collection/search/140009308) s. 8-10th (Al-Andalus?)
+* Figural chess piece, s. 11-12 (al-Andalus?): [Image and text](https://www.metmuseum.org/art/collection/search/140010007)
+* Elephant chess piece, s. 17-18 (India): [Image and Text](https://www.metmuseum.org/art/collection/search/140004220)
+
+
+
 The Canadian Museum of History (Gatineau) also has a dedicated toy and game collection (largely focussed on Canadian examples). A small online exhibit can be consulted here:
 
 * [https://www.historymuseum.ca/canadaplay/introduction/](https://www.historymuseum.ca/canadaplay/introduction/)
