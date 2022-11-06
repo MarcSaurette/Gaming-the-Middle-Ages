@@ -50,6 +50,7 @@
   * [10. Game Journal - Player Agent](course-info/9.-game-journal-stage-2.md)
   * [11. Game Journal - Elements](course-info/assignments/11.-game-journal-elements.md)
   * [12. Game Journal -Gameworld](course-info/assignments/12.-game-journal-gameworld.md)
+* [13.](course-info/13..md)
 * [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
