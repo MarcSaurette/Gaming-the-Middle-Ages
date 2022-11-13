@@ -17,15 +17,11 @@ Deterding, Sebastian, and Jose Zagal. _Role-Playing Game Studies: a Transmedial 
 * chap. 2 "Definitions of “Role-Playing Games” by José P. Zagal and Sebastian Deterding
 * chap. 5 "Live-Action Role-Playing Games" J. Tuomas Harviainen, Rafael Bienia, Simon Brind, Michael Hitchens, Yaraslau I. Kot, Esther MacCallum-Stewart, David W. Simkins, Jaakko Stenros, and Ian Sturrock
 
-
-
 ### Practice
 
-
+Complete [exercise 7](../course-info/assignments/7.-game-journal-stage-1.md).&#x20;
 
 ### Going Further
-
-
 
 A history of LARPing (blogs):
 

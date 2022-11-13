@@ -8,7 +8,7 @@ We will not meet in person during the scheduled class time. There are no additio
 
 ### Practice
 
-Complete [exercise 12](../course-info/assignments/12.-game-journal-gameworld.md) and [13](../course-info/assignments/13.-game-journal.md).&#x20;
+Complete [exercise 12](../course-info/assignments/12.-game-journal-gameworld.md) and [13](../course-info/assignments/13.-game-journal-strategy-and-behaviours.md).&#x20;
 
 
 
