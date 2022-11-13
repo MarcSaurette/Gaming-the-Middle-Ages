@@ -12,13 +12,13 @@
 
 ### Read/Watch/Listen
 
-
-
-### Practice
-
 Rochat, Yannick. “A Quantitative Study of Historical Video Games (1981–2015).” In _Historia Ludens_, 3–19. 1st ed. Routledge, 2020. (posted on Teams)
 
 San Nicolás Romera, C., Nicolás Ojeda, M. Á., & Ros Velasco, J. (2018). "Video Games Set in the Middle Ages: Time Spans, Plots, and Genres." _Games and Culture_, 13(5), 521–542. [https://doi-org.proxy.library.carleton.ca/10.1177/1555412015627068](https://doi-org.proxy.library.carleton.ca/10.1177/1555412015627068)
+
+### Practice
+
+Complete [exercise 10](../course-info/9.-game-journal-stage-2.md).&#x20;
 
 ### Going Further
 

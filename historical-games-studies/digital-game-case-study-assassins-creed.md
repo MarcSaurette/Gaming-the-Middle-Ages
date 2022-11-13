@@ -14,7 +14,7 @@ Harry J. Brown, "The Consolation of Paranoia Conspiracy, Epistemology, and the T
 
 ### Practice
 
-
+Complete [exercise 11](../course-info/assignments/11.-game-journal-elements.md).&#x20;
 
 ### Going Further
 
