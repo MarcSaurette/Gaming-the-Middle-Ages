@@ -6,7 +6,9 @@
 
 ### Overview:
 
+On Monday, we will discuss the readings, thinking about why the Middle Ages provides such a diverse and contradictory space for gaming.&#x20;
 
+On Wednesday, we will review progress on the game journal and explore the context of _Crusader Kings III_. We will work together as a group to figure out how to discern the context of the game.&#x20;
 
 ### Read/Watch/Listen
 

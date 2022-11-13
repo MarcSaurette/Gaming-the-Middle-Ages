@@ -6,9 +6,9 @@
 
 ### Overview:
 
+On Monday we will discuss the readings - putting together an overview of games involving the Middle Ages (or the Neo Middle Ages).&#x20;
 
-
-
+On Wednesday, we will discuss and review progress on discerning the player agent for Crusader Kings III.&#x20;
 
 ### Read/Watch/Listen
 
