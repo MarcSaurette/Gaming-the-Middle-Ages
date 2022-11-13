@@ -22,6 +22,7 @@ Complete [Exercise 9](../course-info/assignments/9.-game-journal-context.md).
 
 ### Going Further
 
+* Woods, Stewart. _Eurogames: The Design, Culture and Play of Modern European Board Games_. Jefferson: McFarland & Company, Incorporated Publishers, 2012. [Ebook Online](https://ebookcentral-proquest-com.proxy.library.carleton.ca/lib/oculcarleton-ebooks/detail.action?docID=1003299).&#x20;
 * Wintjes, J. (2017). When a _Spiel_ is not a Game: The Prussian _Kriegsspiel_ from 1824 to 1871. _Vulcan, 5_, 5-28. [https://doi.org/10.1163/22134603-00501002](https://doi.org/10.1163/22134603-00501002)
 *   Wood, K. (2018). A History of Play in Print: Board Games from the Renaissance to Milton Bradley. _Center for Gaming Research Occasional Paper Series, 44_. [https://digitalscholarship.unlv.edu/occ\_papers/44](https://digitalscholarship.unlv.edu/occ\_papers/44)
 
