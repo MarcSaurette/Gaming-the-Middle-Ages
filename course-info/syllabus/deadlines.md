@@ -18,7 +18,7 @@ If a student fall below a certain level of reputation, it means they need to mee
 
 | **Assignment**                                                       | **Date due**                                       |
 | -------------------------------------------------------------------- | -------------------------------------------------- |
-| [Game Journal](coursework/reflections/game-journal.md)               | Sections due irregularly, due 10pm Sundays         |
+| [Game Journal](coursework/reflections/game-journal/)                 | Sections due irregularly, due 10pm Sundays         |
 | Final Game Journal  + Obsidian Vault                                 | 4pm, Friday of Week 13 (December 9th)              |
 | [Exercises](coursework/assignments/)                                 | Generally 10am the Sunday after each week of class |
 | [Classnotes](coursework/reflections/2.-obsidian-notes/classnotes.md) | Twice a term, 10pm Sundays                         |

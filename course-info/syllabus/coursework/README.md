@@ -36,7 +36,7 @@ A "[proces letter](process-letters.md)" is a term we use to describe an end-of-t
 {% endtab %}
 {% endtabs %}
 
-In the second term, the class will work on a [group project ](reflections/game-design-project/)or two, that we will work on each week in order to develop a new historically- inspired game.&#x20;
+In the second term, the class will work on a [group project ](reflections/game-design-project.md)or two, that we will work on each week in order to develop a new historically- inspired game.&#x20;
 
 ### **Each week you will:**&#x20;
 
@@ -44,4 +44,4 @@ In the second term, the class will work on a [group project ](reflections/game-d
 * attend seminars, where I will lecture or lead a discussion  and answer questions, or run an exercise
 * complete weekly exercises (usually begun in class) intended to practice foundational skills of History/ Medieval Studies/Historical Game Studies
 * write notes for the class and your gameplay with [Obsidian](../../digital-tools/obsidian/)
-* play games and think about them and then [write about them](reflections/game-journal.md).
+* play games and think about them and then [write about them](reflections/game-journal/).
