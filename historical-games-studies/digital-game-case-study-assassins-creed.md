@@ -6,7 +6,9 @@
 
 ### Overview:
 
+On Monday, we will discuss the Assassin's Creed series and its relationship to scholarly history. We will seek to describe the franchise through McCall's HPS framework and see how it allows us to see tensions in the representation of the past.&#x20;
 
+On Wednesday, we will consider how to describe the Game Elements of CKIII.&#x20;
 
 ### Read/Watch/Listen
 
