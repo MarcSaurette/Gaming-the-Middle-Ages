@@ -10,6 +10,10 @@ description: In progress
 The following are instructions for using hypothesis on a laptop/desktop. If you are using hypothes.is on a mobile device/ tablet, read their suggestions for best practices: [https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/](https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/)
 {% endhint %}
 
+{% hint style="warning" %}
+Hypothes.is works best when integrated with Obsidian. Obsidian plugins will only scrape your annotations for web resources. So if you are editing a local file (i.e. a pdf on your desktop) you can temporarily upload it to [https://docdrop.org/](https://docdrop.org/) to have a url that Obsidian plugins can read.&#x20;
+{% endhint %}
+
 ### Quick start:
 
 Click[ this link](https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages) to join the class hypothes.is group and register for an account.&#x20;
