@@ -12,8 +12,6 @@ The following are instructions for using hypothesis on a laptop/desktop. If you 
 
 {% hint style="warning" %}
 Hypothes.is works best when integrated with Obsidian. Obsidian plugins will only scrape your annotations for web resources. So if you are annotating a local file (i.e. a pdf on your desktop) you can temporarily upload it to [https://docdrop.org/](https://docdrop.org/) to have a url that Obsidian plugins can read.&#x20;
-
-You can also annotate PDFs inside Google Drive by authorizing Hypothes.is within your Google account. Hypothes.is PDF Annotator will be listed under the "Open with" option for PDF files upon authorization. ([Uninstall](https://security.google.com/settings/security/permissions)).
 {% endhint %}
 
 
