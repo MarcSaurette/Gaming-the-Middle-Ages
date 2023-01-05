@@ -40,19 +40,19 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 #### Winter Term (TBD)
 
-| Week | Mondays         | Wed    | Topic                                   |
-| ---- | --------------- | ------ | --------------------------------------- |
-| 1    | January 9       | 11     | Historical Game Design: an introduction |
-| 2    | January 16      | 18     | Specific topics TBD                     |
-| 3    | January 23      | 25     |                                         |
-| 4    | January 30      | Feb 1  |                                         |
-| 5    | February 6      | 8      |                                         |
-| 6    | February 13     | 15     |                                         |
-|      | **February 20** | **22** | **Winter Reading Week**                 |
-| 7    | February 27     | Mar 1  |                                         |
-| 8    | March 6         | 8      |                                         |
-| 9    | March 13        | 15     |                                         |
-| 10   | March 20        | 22     |                                         |
-| 11   | March 27        | 29     |                                         |
-| 12   | April 3         | 5      |                                         |
-| 13   | April 10        |        | Game Day Finale                         |
+| Week | Mondays         | Wed    | Topic                                                  |
+| ---- | --------------- | ------ | ------------------------------------------------------ |
+| 1    | January 9       | 11     | Term I - Revisited and intro to Historical Game Design |
+| 2    | January 16      | 18     |                                                        |
+| 3    | January 23      | 25     |                                                        |
+| 4    | January 30      | Feb 1  |                                                        |
+| 5    | February 6      | 8      |                                                        |
+| 6    | February 13     | 15     |                                                        |
+|      | **February 20** | **22** | **Winter Reading Week**                                |
+| 7    | February 27     | Mar 1  |                                                        |
+| 8    | March 6         | 8      |                                                        |
+| 9    | March 13        | 15     |                                                        |
+| 10   | March 20        | 22     |                                                        |
+| 11   | March 27        | 29     |                                                        |
+| 12   | April 3         | 5      |                                                        |
+| 13   | April 10        |        | Game Day Finale                                        |
