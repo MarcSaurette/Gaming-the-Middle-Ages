@@ -53,6 +53,7 @@
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
   * [Teams](course-info/digital-tools/teams.md)
+  * [Perusall](course-info/digital-tools/perusall.md)
   * [Obsidian](course-info/digital-tools/obsidian/README.md)
     * [Installing Obsidian](course-info/digital-tools/obsidian/installing-obsidian.md)
   * [Hypothes.is](course-info/digital-tools/hypothes.is/README.md)
