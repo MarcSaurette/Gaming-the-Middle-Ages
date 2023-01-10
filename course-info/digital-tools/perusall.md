@@ -11,4 +11,4 @@ To login to Perusal for our course,
 5. Click on the "Get Started" tab to see some suggestions about how to read with Perusall.
 6. Under the library tab you will find all the readings for the course (not all are assigned), peruse them on your own time and according to what you want to read about.&#x20;
 7. Under the assignment tab you will see what readings have been assigned. They are organized alphabetically.&#x20;
-8. Click on an assignment, hit "open" and start annotating by highlighting text. You have the option to also annotate images (
+8. Click on an assignment, hit "open" and start annotating by highlighting text. You have the option to also annotate images (such as maps, for instance).&#x20;
