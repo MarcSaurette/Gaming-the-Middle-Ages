@@ -4,55 +4,25 @@
 I'll post an overview schedule for the course here. Obviously, this is still in progress.&#x20;
 {% endhint %}
 
-### Fall Term - Key Dates
+### Key Dates
 
-* Sept 7 - Term begins
-*   Sept 20 - Last day for registration & course changes&#x20;
-
-    **If you join the class late, please contact the professor**
-* Oct 10 - Holiday
-* Oct 24 - 28 Fall break
-* Nov 15 - Last day for academic withdrawal
-* Dec 9 - End of term
+* **Sept 6** - Fall term begins. Full fall, early fall, and fall/winter classes begin.
+* **Sept 20** - Last day for registration & course changes&#x20;
+* **Sept 30** - Last day to withdraw from full fall and fall/winter courses with a full fee adjustment.
+* **Oct 9** -  Thanksgiving Holiday
+* **Oct 23 - 27** - Fall Reading Week
+* **November 15, 2023 Last day for academic withdrawal from full fall and late fall courses**.
+* **Dec 8th** - End of Fall term (classes follow a Monday schedule)
+* **January 8, 2024** - Winter term begins. Full winter and early winter classes begin.
+* **March 15, 2024** Last day for academic withdrawal from full winter, late winter, and fall/winter courses.
+* **April 10, 2024** Winter term ends.
 
 ### Schedule Overview
 
-#### Fall Term
+#### Fall Term 2023
 
-|         | Mondays        | Wed    | Topic                                                                                                                                |
-| ------- | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1       | September      | 7      | [Prologue](../../pregame/welcome.md)                                                                                                 |
-| 2       | September 12   | 14     | [What is History?](../../hgstoolkit/what-is-history.md)                                                                              |
-| 3       | September 19   | 21     | [What are the Middle Ages?](../../fundamentals/what-are-the-middle-ages.md)                                                          |
-| 4       | September 26   | 28     | [What are games?](../../fundamentals/what-are-games.md)                                                                              |
-| 5       | October 3      | 5      | [Medieval Games: a survey](../../historical-games-studies/medieval-games.md)                                                         |
-|         | **October 10** | ****   | **Thanksgiving**                                                                                                                     |
-| 6       |                | 12     | [Library Games](../../historical-games-studies/library-games.md)                                                                     |
-| 7       | October 17     | 19     | [Medieval Games: Chess case study I](../../historical-games-studies/case-study-chess-i.md)                                           |
-|         | **October 24** | **26** | **Reading Week**                                                                                                                     |
-| 8       | October 31     | Nov 2  | [Medieval Games: Chess case study II](../../historical-games-studies/case-study-chess-ii.md)                                         |
-| 9       | November 7     |  9     | [Roleplaying from Jousting to LARPing](../../historical-games-studies/roleplaying-from-jousting-to-larping.md)                       |
-| 10      | November 14    | 16     | [From 19th century wargaming to modern _spieljahren_](../../historical-games-studies/from-19th-wargaming-to-german-spieljahren.md)__ |
-| 11      | November 21    | 23     | [Digital Games: survey of medieval videogames](../../historical-games-studies/digital-games-survey-of-medieval-videogames.md)        |
-| 12      | November 28    | 30     | [Digital Game: Assassins Creed Case Study](../../historical-games-studies/digital-game-case-study-assassins-creed.md)                |
-| 13      | December 5     | 7      | ****[**Independent work**](../../historical-games-studies/independent-work.md)****                                                   |
-| 13_bis_ | December 9     |        | [Finale](../../historical-games-studies/finale.md)                                                                                   |
+<table data-header-hidden><thead><tr><th width="101.59055118110237">Week</th><th width="145">Wednesdays</th><th width="90">Wed</th><th>Topic</th></tr></thead><tbody><tr><td><strong>Week</strong></td><td><strong>Wed</strong></td><td><strong>Fri</strong></td><td><strong>Topic</strong></td></tr><tr><td>1</td><td>September 6</td><td>8</td><td><a href="../../pregame/welcome.md">Prologue</a></td></tr><tr><td>2</td><td>September 13</td><td>15</td><td><a href="../../hgstoolkit/what-is-history.md">What is History?</a></td></tr><tr><td>3</td><td>September 20</td><td>22</td><td><a href="../../fundamentals/what-are-the-middle-ages.md">What are the Middle Ages?</a></td></tr><tr><td>4</td><td>September 27</td><td>29</td><td><a href="../../fundamentals/what-are-games.md">What are games?</a></td></tr><tr><td>5</td><td>October 4</td><td>6</td><td><a href="../../historical-games-studies/medieval-games.md">Medieval Games: a survey</a></td></tr><tr><td></td><td><strong>October 9</strong></td><td></td><td><strong>Thanksgiving</strong></td></tr><tr><td>6</td><td>October 11</td><td>13</td><td><a href="../../historical-games-studies/library-games.md">Library Games</a></td></tr><tr><td>7</td><td>October 18</td><td>20</td><td><a href="../../historical-games-studies/case-study-chess-i.md">Medieval Games: Chess case study I</a></td></tr><tr><td></td><td><strong>October 23</strong></td><td><strong>27</strong></td><td><strong>Reading Week</strong></td></tr><tr><td>8</td><td>November 1</td><td>3</td><td><a href="../../historical-games-studies/case-study-chess-ii.md">Medieval Games: Chess case study II</a></td></tr><tr><td>9</td><td>November 8</td><td> 10</td><td><a href="../../historical-games-studies/roleplaying-from-jousting-to-larping.md">Roleplaying from Jousting to LARPing</a></td></tr><tr><td>10</td><td>November 15</td><td>17</td><td><a href="../../historical-games-studies/from-19th-wargaming-to-german-spieljahren.md">From 19th century wargaming to modern <em>spieljahren</em></a></td></tr><tr><td>11</td><td>November 22</td><td>24</td><td><a href="../../historical-games-studies/digital-games-survey-of-medieval-videogames.md">Digital Games: survey of medieval videogames</a></td></tr><tr><td>12</td><td>November 29</td><td>Dec 1</td><td><a href="../../historical-games-studies/digital-game-case-study-assassins-creed.md">Digital Game: Assassins Creed Case Study</a></td></tr><tr><td>13</td><td>December 6</td><td></td><td>Finale</td></tr></tbody></table>
 
-#### Winter Term (TBD)
+#### Winter Term 2024
 
-| Week | Mondays         | Wed    | Topic                                                  |
-| ---- | --------------- | ------ | ------------------------------------------------------ |
-| 1    | January 9       | 11     | Term I - Revisited and intro to Historical Game Design |
-| 2    | January 16      | 18     |                                                        |
-| 3    | January 23      | 25     |                                                        |
-| 4    | January 30      | Feb 1  |                                                        |
-| 5    | February 6      | 8      |                                                        |
-| 6    | February 13     | 15     |                                                        |
-|      | **February 20** | **22** | **Winter Reading Week**                                |
-| 7    | February 27     | Mar 1  |                                                        |
-| 8    | March 6         | 8      |                                                        |
-| 9    | March 13        | 15     |                                                        |
-| 10   | March 20        | 22     |                                                        |
-| 11   | March 27        | 29     |                                                        |
-| 12   | April 3         | 5      |                                                        |
-| 13   | April 10        |        | Game Day Finale                                        |
+<table data-header-hidden><thead><tr><th width="102.28571428571428">Week</th><th width="145">Mondays</th><th width="90">Wed</th><th>Topic</th></tr></thead><tbody><tr><td><strong>Week</strong></td><td><strong>Wed</strong></td><td><strong>Fri</strong></td><td><strong>Topic</strong></td></tr><tr><td>1</td><td>January 10</td><td>12</td><td></td></tr><tr><td>2</td><td>January 17</td><td>19</td><td></td></tr><tr><td>3</td><td>January 24</td><td>26</td><td></td></tr><tr><td>4</td><td>January 31</td><td>Feb 2</td><td></td></tr><tr><td>5</td><td>February 7</td><td>9</td><td></td></tr><tr><td>6</td><td>February 14</td><td>16</td><td></td></tr><tr><td></td><td><strong>February 19</strong></td><td><strong>23</strong></td><td><strong>Winter Reading Week</strong></td></tr><tr><td>7</td><td>February 28</td><td>Mar 1</td><td></td></tr><tr><td>8</td><td>March 6</td><td>8</td><td></td></tr><tr><td>9</td><td>March 13</td><td>15</td><td></td></tr><tr><td>10</td><td>March 20</td><td>22</td><td></td></tr><tr><td>11</td><td>March 27</td><td></td><td></td></tr><tr><td></td><td></td><td><strong>March 29</strong></td><td><strong>Good Friday - Holiday</strong></td></tr><tr><td>12</td><td>April 3</td><td>5</td><td></td></tr><tr><td>13</td><td>April 10</td><td></td><td>Game Day Finale</td></tr></tbody></table>
