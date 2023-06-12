@@ -7,7 +7,7 @@ By the end of the first week (by Sunday, September 11th), what should you **know
 1. You'll get to know a bit about your professor and your fellow classmates
 2. You will know what the course is all about and how we're going to run it
 3. You will figure out how to use some tools necessary for class
-4. You will need to work through an interactive [text version of the syllabus](https://carletonhistory.itch.io/fysm14052022tutorial-level) before class on Monday, September 12th.&#x20;
+4. You will need to work through an interactive [text version of the syllabus](https://carletonhistory.itch.io/fysm14052022tutorial-level) before the start of next week's class
 
 ### Overview:
 
@@ -31,10 +31,6 @@ This week, you are asked to complete download, install, set up or sign up for th
 [teams.md](../course-info/digital-tools/teams.md)
 {% endcontent-ref %}
 
-{% content-ref url="../course-info/digital-tools/obsidian/" %}
-[obsidian](../course-info/digital-tools/obsidian/)
-{% endcontent-ref %}
-
-{% content-ref url="../course-info/digital-tools/hypothes.is/" %}
-[hypothes.is](../course-info/digital-tools/hypothes.is/)
+{% content-ref url="../course-info/digital-tools/perusall.md" %}
+[perusall.md](../course-info/digital-tools/perusall.md)
 {% endcontent-ref %}
