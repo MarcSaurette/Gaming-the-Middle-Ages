@@ -26,7 +26,6 @@
         * [Reading Notes\*](course-info/syllabus/coursework/reflections/2.-obsidian-notes/reading-notes.md)
       * [Game Journal\*](course-info/syllabus/coursework/reflections/game-journal/README.md)
       * [Game Design Project\*](course-info/syllabus/coursework/reflections/game-design-project.md)
-      * [Not-assigned written work](course-info/syllabus/coursework/reflections/not-assigned-written-work.md)
     * [Peer Feedback](course-info/syllabus/coursework/peer-feedback/README.md)
       * [Understanding the structure of a journal article](course-info/syllabus/coursework/peer-feedback/understanding-the-structure-of-a-journal-article.md)
     * [Process Letters](course-info/syllabus/coursework/process-letters.md)

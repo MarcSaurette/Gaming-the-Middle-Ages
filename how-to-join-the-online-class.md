@@ -1,6 +1,6 @@
 # How to join class
 
-Our classes are scheduled take place on Mondays and Wednesdays from 11h30until 13h00. As of June, our class will be located in **room 215 of Paterson Hall**. It'll be somewhere else in January.
+Our classes are scheduled take place on Mondays and Wednesdays from 11h30until 13h00. As of June, our class will be located in [room 431 ](https://carleton.ca/tls/rooms/tory-building-431/)in Tory Building.
 
 We will also be using a number of online resources to help with communication, file sharing and explaining learning activities.&#x20;
 

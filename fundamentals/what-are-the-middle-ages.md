@@ -21,7 +21,7 @@ Read the introduction and chapter one of Kaufman, Amy S., and Paul B. Sturtevant
 * [https://books-scholarsportal-info.proxy.library.carleton.ca/en/read?id=/ebooks/ebooks5/upress5/2020-06-01/1/9781487587871#page=10](https://books-scholarsportal-info.proxy.library.carleton.ca/en/read?id=/ebooks/ebooks5/upress5/2020-06-01/1/9781487587871#page=10)
 
 {% hint style="info" %}
-[_The Devil’s Historians : How Modern Extremists Abuse the Medieval Past_](https://cmailcarletonca.sharepoint.com/:b:/r/sites/MEMS2001977/Shared%20Documents/General/Required%20readings/The%20Devil's%20Historians\_%20How%20Modern%20Extremi%20-%20By%20Amy%20S.%20Kaufman%20\(1\).pdf?csf=1\&web=1\&e=uo8nt9) __ is also posted in the "required readings" folder in the file portion of the General channel.&#x20;
+[_The Devil’s Historians : How Modern Extremists Abuse the Medieval Past_](https://cmailcarletonca.sharepoint.com/:b:/r/sites/MEMS2001977/Shared%20Documents/General/Required%20readings/The%20Devil's%20Historians\_%20How%20Modern%20Extremi%20-%20By%20Amy%20S.%20Kaufman%20\(1\).pdf?csf=1\&web=1\&e=uo8nt9) is also posted in the "required readings" folder in the file portion of the General channel.&#x20;
 
 In order to annotate a pdf on your computer (not the internet) with hypothes.is, you will need to download it from Teams and then open the pdf file with the browser you are using with hypothes.is integrated (I recommend Google Chrome). Usually your browser will not be the default software for pdf files, so you will need to right-click (or its equivalent) the file and select the command, "open with" and then select your browser. Hypothes.is will still save your annotations to our group.&#x20;
 {% endhint %}

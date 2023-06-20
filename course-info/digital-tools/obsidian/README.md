@@ -4,7 +4,7 @@
 
 > _Everything is connected_
 >
-> The human brain is non-linear: we jump from idea to idea, all the time. Your second brain should work the same. __ In Obsidian, making and following connections is frictionless. Tend to your notes like a gardener; at the end of the day, sit back and marvel at your own knowledge graph.
+> The human brain is non-linear: we jump from idea to idea, all the time. Your second brain should work the same. In Obsidian, making and following connections is frictionless. Tend to your notes like a gardener; at the end of the day, sit back and marvel at your own knowledge graph.
 
 They are happy to describe what it is and what it is good for. We agree: it's benefits are:
 
