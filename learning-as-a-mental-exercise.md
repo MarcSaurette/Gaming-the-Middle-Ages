@@ -14,7 +14,7 @@ In History we are often asked to remain "objective". Mostly people take this mea
 
 Why am I writing this, you might be asking? I want to make a suggestion or maybe a request. **Take time away from devices**, even just 10 minutes a few times a week, just to think.&#x20;
 
-* Think about how you are feeling: what are you excited about and what you are scared about. It doesn't have to be related to the class at all. Just set some time apart to reflect. You might want to make this into its own private vault on your [obsidian](course-info/digital-tools/obsidian/) – to track how you are feeling and thinking.&#x20;
+* Think about how you are feeling: what are you excited about and what you are scared about. It doesn't have to be related to the class at all. Just set some time apart to reflect. You might want to make this into its own private vault on your [obsidian](broken-reference) – to track how you are feeling and thinking.&#x20;
 
 But this is also what we want the class space to be – a time in your day when you can tune out what is going on in other parts of your life and focus on the learning at hand.&#x20;
 

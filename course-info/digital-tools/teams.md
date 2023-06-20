@@ -61,8 +61,7 @@ Or it might just keep sending you back to this message recursively. I would love
 \
 To **enable** Microsoft Office 365 Services, (other than email which is pre-enabled), accept Microsoft’s offer here:
 
-* **Students**: [carleton.ca/its/ms-offer-students](https://carleton.ca/its/ms-offer-students)
-* **Staff/faculty**: [carleton.ca/its/ms-offer-faculty](https://carleton.ca/its/ms-offer-faculty)
+* Go to the [Get Office 365 for Free](https://products.office.com/en-us/student/office-in-education) website
 
 &#x20;2\. If that doesn't work, email its.service.desk@carleton.ca for help.
 

@@ -10,21 +10,24 @@ For our class, we are going to use Microsoft [Teams](broken-reference), so be su
 
 ### How to Install MS Office 365 for free from Carleton
 
-Carleton's Information of Technology Services has a [webpage](https://carleton.ca/its/ms-offer-students/) outlining how to download Office 365 for free. To do so, you need to know what your full Carleton email is (for student Joan of Arc, it would be something like "joanarc@cmail.carleton.ca").&#x20;
+Carleton's Information of Technology Services has a [webpage](https://carleton.ca/its/help-centre/get-microsoft-office-for-students/) outlining how to download Office 365 for free. To do so, you need to know what your full Carleton email is (for student Joan of Arc, it would be something like "joanarc@cmail.carleton.ca").&#x20;
 
 Their instructions are as follows:
 
-1. Go to [products.office.com/en-ca/student/office-in-educationoffice.com/getoffice365](https://products.office.com/en-ca/student/office-in-education)
-2. Provide your student email address: e.g; janedoe@cmail.carleton.ca _← **not** jane.doe@carleton.ca_
-3. Provide your MyCarletonOne password
-4. To download the MS Office suite,
-   1. Log into the [web interface of student email](https://carleton.ca/its/all-services/email/carleton-student-email/)
-   2. Click on the words ① “Office 365” in the upper let hand corner of the web interface, and then ② “Install Office 2016”
+1. Go to the [Get Office 365 for Free](https://products.office.com/en-us/student/office-in-education) website
+2. Provide your student email address (e.g; janedoe@cmail.carleton.ca; do not use your _jane.doe@carleton.ca)_
+3. Type in your MyCarletonOne password
+4. Click **Start** to accept the terms and conditions of use and enable the license on your account
+5.  Click Skip (no extra user invitations are required)
 
-![](../../.gitbook/assets/MSOfficeDownload-2.png)
+    * Follow any introductory notices while you are logging into the Office Portal home page
+    * In the top right corner, click **Install Office > Office 365 apps**  link
+
+    ![](https://carleton.ca/its/help-centre/wp-content/uploads/DL\_Office365-240x102.png)
+6. Download and install the software
 
 {% hint style="danger" %}
-You may have already installed Microsoft Office before arriving at Carleton. It is important that you authenticate with Microsoft with your Carleton email even so, because many tools for collaborating in class (such as Teams) only work with people who belong to our institution.&#x20;
+You may have already installed Microsoft Office before arriving at Carleton. If so, ITS suggests first [uninstalling](https://support.office.com/en-us/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?ui=en-US\&rs=en-US\&ad=US) Office and then re-installing Office programs anew. It is important that you authenticate with Microsoft with your Carleton email even so, because many tools for collaborating in class (such as Teams) only work with people who the network can identify as belonging to our institution.&#x20;
 
 If you need help with installing any Microsoft tools, you can consult the ITS [help page](https://support.office.com/en-us/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-US\&rs=en-US\&ad=US) or (easier) get in touch with the ITS (Information Technology Services) [help desk](https://carleton.ca/its/contact/).&#x20;
 {% endhint %}

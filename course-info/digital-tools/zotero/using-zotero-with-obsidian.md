@@ -1,2 +1,0 @@
-# Using Zotero with Obsidian\*
-

@@ -7,7 +7,7 @@ By the end of the second week, what should you **know**, be able to **do** and *
 1. You will learn about History as an academic discipline and as a field of study, including some key terms and ideas foundational for understanding the learning we will do in this course.&#x20;
 2. You will practice reading academic writing and will learn strategies for engaging productively with ideas in text – turning them into your own words/ thoughts. We will discuss the concept and practices of making "[smart notes](https://www.soenkeahrens.de/en/takesmartnotes)".&#x20;
 3. We will go over using Teams, Obsidian and Hypothesis - three digital tools key for this course.
-4. We will practice making notes on [Obsidian](../course-info/digital-tools/obsidian/) and learn to import annotations from hypothes.is. Students will write and upload a literature-note to Teams showing they have successfully done so.&#x20;
+4. We will practice making notes on [Obsidian](broken-reference) and learn to import annotations from hypothes.is. Students will write and upload a literature-note to Teams showing they have successfully done so.&#x20;
 5. Students must sign up to submit [classnotes](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md) twice a term by September 14th. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing).
 
 {% hint style="info" %}
@@ -25,7 +25,7 @@ The class introduces you to the discipline of History, major concerns and questi
    3. where does the idea and the academic discipline of history come from?
    4. what is the use of history? how can history be misused?
    5. where do you get your 'history' from?
-3. On Wednesday, we will introduce students to two tools: [Obsidian](../course-info/digital-tools/obsidian/) and [Hypothes.is](../course-info/digital-tools/hypothes.is/). In class, we get students to make use of these two tools, and get hypothes.is integrated with Obsidian. We will practice making notes and using basic tools in Obsidian. We will then reread and annotate the Kinsey article together, using hypothes.is.&#x20;
+3. On Wednesday, we will introduce students to two tools: [Obsidian](broken-reference) and [Hypothes.is](broken-reference). In class, we get students to make use of these two tools, and get hypothes.is integrated with Obsidian. We will practice making notes and using basic tools in Obsidian. We will then reread and annotate the Kinsey article together, using hypothes.is.&#x20;
 
 ### Read/Watch/Listen
 

@@ -20,7 +20,7 @@ The first thing to do in this class is put together a profile to introduce yours
 {% tab title="Notes" %}
 The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar or the expectations are unclear. I'll make the expectations clear and over time the expected norms of writing will become familiar to you. Above all I just want you to get used to writing without worrying too much about being perfect at it.&#x20;
 
-We are using [Obsidian](../../digital-tools/obsidian/) to help you practice different kinds of writing - citing works properly, turning the texts of experts into your own words, and then processing these ideas.&#x20;
+We are using [Obsidian](broken-reference) to help you practice different kinds of writing - citing works properly, turning the texts of experts into your own words, and then processing these ideas.&#x20;
 {% endtab %}
 
 {% tab title="Exercises" %}
@@ -28,7 +28,7 @@ Each week (usually during the Wednesday class), we will complete exercises to in
 {% endtab %}
 
 {% tab title="Feedback" %}
-&#x20;You will be asked to provide comments and constructive criticism to written work completed by your peers ([expectations set out here](peer-feedback/)). We'll use the annotation tool [hypothes.is](../../digital-tools/hypothes.is/) to make comments on each other's work.&#x20;
+&#x20;You will be asked to provide comments and constructive criticism to written work completed by your peers ([expectations set out here](peer-feedback/)). We'll use the annotation tool [hypothes.is](broken-reference) to make comments on each other's work.&#x20;
 {% endtab %}
 
 {% tab title="Process Letter" %}
@@ -40,8 +40,8 @@ In the second term, the class will work on a [group project ](reflections/game-d
 
 ### **Each week you will:**&#x20;
 
-* prepare for class by completing the assigned readings and making annotations on the texts (primary sources, secondary sources, images, websites) with [Hypothes.is](../../digital-tools/hypothes.is/).
+* prepare for class by completing the assigned readings and making annotations on the texts (primary sources, secondary sources, images, websites) with [Hypothes.is](broken-reference).
 * attend seminars, where I will lecture or lead a discussion  and answer questions, or run an exercise
 * complete weekly exercises (usually begun in class) intended to practice foundational skills of History/ Medieval Studies/Historical Game Studies
-* write notes for the class and your gameplay with [Obsidian](../../digital-tools/obsidian/)
+* write notes for the class and your gameplay with [Obsidian](broken-reference)
 * play games and think about them and then [write about them](reflections/game-journal/).
