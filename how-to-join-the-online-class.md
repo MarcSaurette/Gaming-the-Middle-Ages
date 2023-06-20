@@ -11,3 +11,6 @@ We will also be using a number of online resources to help with communication, f
 5. If it doesn't pop up as an option in your Teams dashboard, click on the "Join or Create a Team" button and enter the code: **ezm9bjy .** This will only work if you are correctly logged in with your Carleton account.&#x20;
 6. Find the general channel and text "hello" to tell us you're successfully logged in.&#x20;
 
+{% hint style="success" %}
+If you are feeling particularly ambitious, before the first class you can sign up for a Perusall account and [provide me with your username](https://docs.google.com/spreadsheets/d/1o4OynJBMgJcuCVMLgcVruZjEQEMUv7NFOFz-K9f3jYA/edit?usp=sharing) for that and for google apps.&#x20;
+{% endhint %}

@@ -1,31 +1,32 @@
 # Orientation
 
-### Goals for this week (September 6, 2023)
+### Goals for this week (September 6 and 8th, 2023)
 
-By the end of the first week (by Sunday, September 10th), what should you **know**, be able to **do** and **understand**?
+By the end of the first week, what should you **know**, be able to **do** and **understand**?
 
 1. You'll get to know a bit about your professor and your fellow classmates
 2. You will know what the course is all about and how we're going to run it
 3. You will figure out how to use some tools necessary for class
-4. You will need to work through an interactive [text version of the syllabus](https://carletonhistory.itch.io/fysm14052022tutorial-level) before the start of next week's class
+4. You will be able to find key campus resources (physically where they are).&#x20;
+5. You should sign up for a Perusall account and [provide me with your username](https://docs.google.com/spreadsheets/d/1o4OynJBMgJcuCVMLgcVruZjEQEMUv7NFOFz-K9f3jYA/edit?usp=sharing) for that and for google apps.
 
 ### Overview:
 
 The class provides a transition back to school. We'll discuss the syllabus and getting to know one another. This week I want you to:&#x20;
 
 1. Make sure you can access your Carleton email (some version of your name + ends in @cmail.carleton.ca)
-2. Read the syllabus and [schedule](../course-info/schedule/) on Gitbook (i.e. this place). Identify any questions you have and write them down.&#x20;
-3. Use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
-4. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year.
-5. Complete the [tutorial level](tutorial-level.md) to let me know more about you.
+2. Complete a scavenger hunt in small groups on Friday, September 9th (to be released at the beginning of class).&#x20;
+3. Read the syllabus and [schedule](../course-info/schedule/) on Gitbook (i.e. this place). Identify any questions you have and write them down. Bring them to class on Wednesday, September 13th.&#x20;
+4. Begin to use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
+5. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year. Follow instructions to sign up for a [Perusall](../course-info/digital-tools/perusall.md) account and join the class shared library.  Provide me with your username for Perusall and for google apps in this [spreadsheet](https://docs.google.com/spreadsheets/d/1o4OynJBMgJcuCVMLgcVruZjEQEMUv7NFOFz-K9f3jYA/edit?usp=sharing).&#x20;
 
 ### Read/Watch/Listen
 
-Read the syllabus section of this course guide and also the sections on Digital Tools.&#x20;
+Read the syllabus section of this online course guide and also the sections on Digital Tools.&#x20;
 
 ### Practice
 
-This week, you are asked to complete download, install, set up or sign up for the following:&#x20;
+This week, on your own time you are asked to download, install, set up or sign up for the following:&#x20;
 
 {% content-ref url="../course-info/digital-tools/office.md" %}
 [office.md](../course-info/digital-tools/office.md)

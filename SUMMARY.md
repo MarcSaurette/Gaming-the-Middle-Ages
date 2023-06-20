@@ -61,7 +61,6 @@
 ## Pregame
 
 * [Orientation](pregame/welcome.md)
-* [Tutorial Level](pregame/tutorial-level.md)
 
 ## Fundamentals
 
