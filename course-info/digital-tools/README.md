@@ -15,15 +15,6 @@ Many of these tools work best using a computer. So if you are using a tablet or 
 
 We are using tools that should not cost you anything. If any ask you for money, don't pay. Check with the instructions/ with Dr. Saurette to make sure you're using them correctly. Most of the software is distributed freely or is open access. The trade-off of low cost is that some work might be necessary for you to make it work on your system (for example, Zotero's plugin for Safari, the default browser on MacOS computers, is very buggy and Zotero works much better using Chrome).&#x20;
 
-Other software will be free to you because of arrangements between vendors and Carleton University (e.g. the Microsoft Office suite). For this software, [you can download it for free](https://carleton.ca/its/ms-offer-students/) but will need to login (and stay logged in) for it to work. The downside is that Carleton requires you abide by its rules for acceptable IT use.&#x20;
+Other software will be free to you because of arrangements between vendors and Carleton University (e.g. the Microsoft Office suite). For this software, [you can download it for free](office.md) but will need to login (and stay logged in) for it to work. The downside is that Carleton requires you abide by its rules for acceptable IT use.&#x20;
 {% endhint %}
-
-### In brief, here is some of the software we will use regularly:
-
-1. [Teams](teams.md): is a useful communication tool for messenging one another, everybody or yourself (if you want to remind yourself of something). Much of the written communication and spoken between us (the professors, teaching assistants) and you (the students) will be done via Teams because, well, it tends to work and it can be used almost equally well on computers, tablets, smartphones etc.&#x20;
-2. [Obsidian](broken-reference). Obsidian is a simple but powerful note making program. We are organizing our assignments and most written work around it. We hope to get you to use it in order to learn how to make effective notes, organize your thoughts and learn how to map your ideas in this class and for the rest of your academic career.
-3. [Hypothes.is](broken-reference): A tool for annotating the web/ pdfs. We'll use it together with Obsidian for taking effective notes on primary and secondary sources.&#x20;
-4. [Github](broken-reference). Github provides a free public repository for your work. It has tremendous collaborative potential, but we will only scratch the surface of its utility this year. In future history courses, you will likely make further use of this resource.&#x20;
-5. [Trello](broken-reference). It makes sense to have a tool for planning out assignments – especially for group projects. We likely won't use it until Winter term.&#x20;
-6. [Zotero](broken-reference): an incredibly useful tool to download, organize and keep track of web and bibliographic resources you use and find during your research. It can export bibliographies directly into a Word document (which is much less painful than doing each by hand...)  We will not use it extensively, but it is useful.
 
