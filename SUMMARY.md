@@ -34,7 +34,7 @@
   * [Deadlines](course-info/syllabus/deadlines.md)
 * [Schedule](course-info/schedule/README.md)
 * [Exercises\*](course-info/syllabus/coursework/assignments/README.md)
-  * [1. Introduction to Hypothes.is](course-info/syllabus/coursework/assignments/1.-introduction-to-hypothes.is.md)
+  * [1. Introduction to Perusall](course-info/assignments/1.-introduction-to-perusall.md)
   * [2. Writing up permanent notes](course-info/syllabus/coursework/assignments/2.-writing-up-permanent-notes.md)
   * [3. Writing up idea and brainstorming notes](course-info/assignments/3.-writing-up-idea-and-brainstorming-notes/README.md)
     * [3.2 What Type of Player Are You?](course-info/assignments/3.-writing-up-idea-and-brainstorming-notes/3.2-what-type-of-player-are-you.md)

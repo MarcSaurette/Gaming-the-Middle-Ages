@@ -39,4 +39,4 @@ Ahrens, Sönke. _How to Take Smart Notes : One Simple Technique to Boost Writi
 
 By 5pm, **Tuesday, September 19th,** you need to upload a "literature-note" for Kinsey's article (incorporating your completed annotations) to your student~~-~~work folder on Teams. Each student is asked to create a folder for themself in the "Student Work" folder in the general channel _files_ where they will upload student work over the course of the term, by Tuesday, September&#x20;
 
-Students will be expected to complete this exercise on their own time. [Instructions here](../course-info/syllabus/coursework/assignments/1.-introduction-to-hypothes.is.md).&#x20;
+Students will be expected to complete this exercise on their own time. [Instructions here](../course-info/assignments/1.-introduction-to-perusall.md).&#x20;
