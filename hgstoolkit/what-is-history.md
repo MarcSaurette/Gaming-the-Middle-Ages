@@ -7,7 +7,7 @@ By the end of the second week, what should you **know**, be able to **do** and *
 1. You will learn about History as an academic discipline and as a field of study, including some key terms and ideas foundational for understanding the learning we will do in this course.&#x20;
 2. You will practice reading academic writing and will learn strategies for engaging productively with ideas in text – turning them into your own words/ thoughts. We will discuss the concept and practices of making annotations and "[smart notes](https://www.soenkeahrens.de/en/takesmartnotes)".&#x20;
 3. We will go over using Teams and Perusall -  digital tools key for this course.
-4. Students must sign up to submit [classnotes](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md) once a term by September 14th. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing).
+4. Students must sign up to submit [classnotes](../course-info/syllabus/coursework/reflections/2.-obsidian-notes/classnotes.md) once a term by end of day, September 13th. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing).
 
 {% hint style="info" %}
 If you have a laptop/portable device that you will be using this term, bring it to class so that you can work with it on Friday (September 15th).
@@ -25,7 +25,7 @@ The class introduces you to the discipline of History, major concerns and questi
    4. what is the use of history? how can history be misused?
    5. where do you get your 'history' from?
    6. Do you think games can be "History"?
-3. On Friday, we will introduce students to [Perusall](../course-info/digital-tools/perusall.md). In class, we will practice using it together to reread and annotate the Kinsey article together. Your
+3. On Friday, we will introduce students to [Perusall](../course-info/digital-tools/perusall.md). In class, we will practice using it together to reread and annotate the Kinsey article together. Your annotations (and those of the class) will provide the raw material of a "literature note" to be submitted to Teams by 5pm, Tuesday September 19th.&#x20;
 
 ### Read/Watch/Listen
 
@@ -37,6 +37,6 @@ Ahrens, Sönke. _How to Take Smart Notes : One Simple Technique to Boost Writi
 
 ### Practice
 
-By **Wednesday, September 20th,** you need to upload a "literature-note" for Kinsey's article (incorporating your completed annotations) to your student~~-~~work folder on Teams. Each student is asked to create a folder for themself in the "Student Work" folder in the general channel files where they will upload student work over the course of the term. &#x20;
+By 5pm, **Tuesday, September 19th,** you need to upload a "literature-note" for Kinsey's article (incorporating your completed annotations) to your student~~-~~work folder on Teams. Each student is asked to create a folder for themself in the "Student Work" folder in the general channel _files_ where they will upload student work over the course of the term, by Tuesday, September&#x20;
 
 Students will be expected to complete this exercise on their own time. [Instructions here](../course-info/syllabus/coursework/assignments/1.-introduction-to-hypothes.is.md).&#x20;
