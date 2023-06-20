@@ -1,6 +1,6 @@
 # Learning Outcomes
 
-### What am I going to learn?
+### What are you going to learn?
 
 We want you to learn how to _read_, how to _write_, how to _interpret,_ how to _research_ and most importantly how to _think_ like a historian. With a focus on the Middle Ages, this course will generally answer the questions, "What is History?" and "What is the purpose of History?". To that we add the question, "What is a game" and what do they teach us about how we view the Middle Ages?
 
