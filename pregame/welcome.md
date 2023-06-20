@@ -1,8 +1,8 @@
 # Orientation
 
-### Goals for this week (September 7, 2022)
+### Goals for this week (September 6, 2023)
 
-By the end of the first week (by Sunday, September 11th), what should you **know**, be able to **do** and **understand**?
+By the end of the first week (by Sunday, September 10th), what should you **know**, be able to **do** and **understand**?
 
 1. You'll get to know a bit about your professor and your fellow classmates
 2. You will know what the course is all about and how we're going to run it
@@ -26,6 +26,10 @@ Read the syllabus section of this course guide and also the sections on Digital 
 ### Practice
 
 This week, you are asked to complete download, install, set up or sign up for the following:&#x20;
+
+{% content-ref url="../course-info/digital-tools/office.md" %}
+[office.md](../course-info/digital-tools/office.md)
+{% endcontent-ref %}
 
 {% content-ref url="../course-info/digital-tools/teams.md" %}
 [teams.md](../course-info/digital-tools/teams.md)
