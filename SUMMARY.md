@@ -48,6 +48,7 @@
   * [11. Game Journal - Elements](course-info/assignments/11.-game-journal-elements.md)
   * [12. Game Journal -Gameworld](course-info/assignments/12.-game-journal-gameworld.md)
   * [13. Game Journal - Strategy and Behaviours](course-info/assignments/13.-game-journal-strategy-and-behaviours.md)
+* [Typeset cards](course-info/typeset-cards.md)
 * [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
