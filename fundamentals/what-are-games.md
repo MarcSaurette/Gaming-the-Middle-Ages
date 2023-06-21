@@ -37,7 +37,7 @@ C.T. Nguyen also was interviewed on the Ezra Klein show **in February 2022,** wh
 ### Practice
 
 {% hint style="info" %}
-Detailed instructions can be found as [exercise no. 3](../course-info/assignments/3.-writing-up-idea-and-brainstorming-notes/).&#x20;
+Detailed instructions can be found as [exercise no. 3](../course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/).&#x20;
 {% endhint %}
 
 * Write up a permanent note answering the question "what is a game".&#x20;
