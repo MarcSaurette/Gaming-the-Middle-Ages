@@ -1,4 +1,4 @@
-# 3. Writing up idea and brainstorming notes\*
+# 4. Writing up idea and brainstorming notes
 
 {% hint style="info" %}
 These notes should be posted by 10am, October 3.&#x20;
