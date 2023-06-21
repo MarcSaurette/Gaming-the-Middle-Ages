@@ -12,12 +12,12 @@ As your professor, I want to be clear about what you will learn (or what I want 
 
 ### What are the Learning Outcomes for this Class?
 
-Generally...
+**Generally**...
 
 1. You will learn about how to navigate Carleton university and its resources
 2. You will learn how to be a university student, including key study skills, etiquette for interacting with your fellow students and the professor ...
 
-In terms of content, you will:
+In terms of **content**, you will:
 
 1. learn how to read and interpret medieval evidence and learn the advantages and difficulties of working with them.&#x20;
 2. come to understand the limitations of evidence (and thus our knowledge) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and that you will not always have a clear answer.&#x20;
@@ -26,7 +26,7 @@ In terms of content, you will:
 5. learn the terminology, types and principles of games through hands-on play, observation and analysis&#x20;
 6. have an opportunity to explore underlying concepts, technologies, and languages of contemporary games and gain an understanding of available game resources not only from the viewpoint of a game player but also from that of a game maker.
 
-In terms of skills:
+**Disciplinary skills:**
 
 1. You will learn how to closely read and analyze sources with different historical methodologies.
 2. You will learn how to take notes (class notes and research notes), synthesize them and use them to develop conclusions.
@@ -34,6 +34,25 @@ In terms of skills:
 4. You will learn digital tools for working on projects that will help you in this and future classes.
 5. You will learn the basics of game design and have an opportunity to create a game by the end of the year.&#x20;
 6. You will learn how to work independently and as a group, using digital "enterprise" tools to plan and execute written assignments. You will learn ways to manage your time and your work flow.
+
+**Digital skills**
+
+1. **digital fluency**: literacy, learning and collaboration
+2. **software use**
+3. **understanding digital systems**
+
+**Cognitive Skills**
+
+1. **Critical thinking:** structured problem solving, logical reasoning, understanding bias, seeking relevant information
+2. **Planning and ways of working**: time management and prioritization, work-plan development
+3. **Communication**: storytelling and public speaking, active listening, synthesizing messages
+4. **Mental flexibility**: creativitiy and imagination, translating knowledge to different contexts, evaluating different perspectives
+
+Interpersonal Skills:
+
+1. **Developing relationships**: practicing empathy, trust, humility
+2. **Teamwork effectiveness**: motivating teammates, resolving conflicts, collaboration, coaching
+3. Self-Leadership: self-awareness and managment, understanding own strengths and weaknesses, self-confidence
 
 {% hint style="info" %}
 Learning outcomes are usually practical things, such as (imagine this said in a grumpy professor voice), "Learning enterprise tools allow you to succeed in the world after graduation". But one of the most important things to do in this class is to get to know your fellow students!&#x20;

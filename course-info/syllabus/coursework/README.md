@@ -1,6 +1,6 @@
 # Coursework
 
-In-person classes are based on the foundation of professors and students meeting in class for lectures and to discuss readings, debate etc. And while some learning happens together at the same time much learning happens on the student's own time (e.g. writing papers, doing readings etc.).&#x20;
+The foundation of In-person classes are professors and students meeting in class for lectures and to discuss readings, debate etc. And while some learning happens together at the same time much learning happens on the student's own time (e.g. writing papers, doing readings etc.).&#x20;
 
 In the classroom, students will be expected at times to make spoken presentations and to participate in each class – i.e. being in class, asking questions, showing you've learned from doing the readings, etc (an abbreviation of _et cetera_, Latin for "and other things"). Usually the written work is designed to complement or to prepare for the work done in class.&#x20;
 

@@ -18,14 +18,17 @@ If you have a laptop/portable device that you will be using this term, bring it 
 The class introduces you to the discipline of History, major concerns and questions, as well as debates about the nature of history.
 
 1. By Wednesday's class, students will need to have read, Danielle Kinsey's "Three Points About History, Especially for Non-Historians." _Canadian Journal of History_ 54, no. 1 (2019): 1-20. [https://www-utpjournals-press.proxy.library.carleton.ca/doi/full/10.3138/cjh.ach.54.1-2.01](https://www-utpjournals-press.proxy.library.carleton.ca/doi/full/10.3138/cjh.ach.54.1-2.01) and posted on [Perusall](../course-info/digital-tools/perusall.md).&#x20;
-2. On Wednesday, we will explore together the question, "What is History?" I will introduce students to different debates on the topic. We will explore how historical learning and knowledge of history is important (or not important) in our society. We will spend some time talking about the Kinsey reading. Be prepared to come talk generally about how history seems relevent to your lives. We might consider such questions as:
+2. In Wednesday's class, we will play a quick game of _Timeline_ to get us thinking about how popular games represent historical topics. When you play that game try to think about:
+   1. how the game offers a selective representation of the past
+   2. how the game tries to teach you about the past, not just by words, but also by its images/ aesthetic.
+3. On Wednesday, we will explore together the question, "What is History?" I will introduce students to different debates on the topic. We will explore how historical learning and knowledge of history is important (or not important) in our society. We will spend some time talking about the Kinsey reading. Be prepared to come talk generally about how history seems relevent to your lives. We might consider such questions as:
    1. what is the difference between the past and history?
    2. what is the nature of History, as practiced in university vs. what we consider popular or public history?
    3. where does the idea and the academic discipline of history come from?
    4. what is the use of history? how can history be misused?
    5. where do you get your 'history' from?
    6. Do you think games can be "History"?
-3. On Friday, we will introduce students to [Perusall](../course-info/digital-tools/perusall.md). In class, we will practice using it together to reread and annotate the Kinsey article together. Your annotations (and those of the class) will provide the raw material of a "literature note" to be submitted to Teams by 5pm, Tuesday September 19th.&#x20;
+4. On Friday, we will introduce students to [Perusall](../course-info/digital-tools/perusall.md). In class, we will practice using it together to reread and annotate the Kinsey article together. Your annotations (and those of the class) will provide the raw material of a "literature note" to be submitted to Teams by 5pm, Tuesday September 19th.&#x20;
 
 ### Read/Watch/Listen
 
