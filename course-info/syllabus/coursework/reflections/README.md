@@ -8,7 +8,7 @@ In the first term, the students will be expected to write short pieces each week
 
 In the first term, some of the first written work you will work on:
 
-1. Different kinds of [notes](notes/) to practice the _smart note_ method.
+1. Different kinds of [notes](notes.md) to practice the _smart note_ method.
 2.
 
 In the Winter term, we will be working on a multi-stage [game design project](game-design-project.md).&#x20;

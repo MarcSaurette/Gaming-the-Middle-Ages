@@ -7,7 +7,7 @@ By the end of the second week, what should you **know**, be able to **do** and *
 1. You will learn about History as an academic discipline and as a field of study, including some key terms and ideas foundational for understanding the learning we will do in this course.&#x20;
 2. You will practice reading academic writing and will learn strategies for engaging productively with ideas in text – turning them into your own words/ thoughts. We will discuss the concept and practices of making annotations and "[smart notes](https://www.soenkeahrens.de/en/takesmartnotes)".&#x20;
 3. We will go over using Teams and Perusall -  digital tools key for this course.
-4. Students must sign up to submit [classnotes](../course-info/syllabus/coursework/reflections/notes/classnotes.md) once a term by end of day, September 13th. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing).
+4. Students must sign up to submit [classnotes](../course-info/syllabus/coursework/reflections/classnotes.md) once a term by end of day, September 13th. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing).
 
 {% hint style="info" %}
 If you have a laptop/portable device that you will be using this term, bring it to class so that you can work with it on Friday (September 15th).

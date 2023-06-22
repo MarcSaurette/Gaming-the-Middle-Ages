@@ -10,21 +10,17 @@ I realize you will be asked to make choices about how to allot your time this ye
 
 In this course students will sometimes be working together in small groups. When working together, it is paramount that every student pulls their weight and gets work done on time - or else the whole project could fall apart.&#x20;
 
-Please let me know (in advance) if there are good reasons for why you can't get something in one time, and we can try to find possible solutions (see below, [Extensions](deadlines.md#extensions-and-accommodations)).
+**Please let me know (in advance)** if there are good reasons for why you can't get something in one time, and we can try to find possible solutions (see below, [Extensions](deadlines.md#extensions-and-accommodations)).
 
-### Academic Reputation
+### Important Dates for Fall Term
 
-
-
-### Important Dates for Term I
-
-| **Assignment**                                           | **Date due**                                                        |
-| -------------------------------------------------------- | ------------------------------------------------------------------- |
-|                                                          |                                                                     |
-|                                                          |                                                                     |
-| [Exercises](coursework/assignments/)                     | Generally 10am the Tuesday of the week after the exercise was begun |
-| [Classnotes](coursework/reflections/notes/classnotes.md) | Once a term, 10pm Sundays at the end of the week                    |
-| [Process Letter](coursework/process-letters.md)          | 4pm Friday of week 13                                               |
+| **Assignment**                                     | **Date due**                                                        |
+| -------------------------------------------------- | ------------------------------------------------------------------- |
+|                                                    |                                                                     |
+|                                                    |                                                                     |
+| [Exercises](coursework/assignments/)               | Generally 10am the Tuesday of the week after the exercise was begun |
+| [Classnotes](coursework/reflections/classnotes.md) | Once a term, 10pm Sundays at the end of the week                    |
+| [Process Letter](coursework/process-letters.md)    | 4pm Friday of week 13                                               |
 
 ### Extensions and Accommodations
 
