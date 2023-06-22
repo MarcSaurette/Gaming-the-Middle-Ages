@@ -1,12 +1,10 @@
 # Readings
 
-Instead of having the bookstore order physical books to campus, we will instead largely use digital files which we will read and annotate together via [Hypothes.is](broken-reference). Hypothes.is allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year.
+Instead of having the bookstore order physical books to campus, we will instead largely use digital files which we will read and annotate together on [Perusall](../../digital-tools/perusall.md).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year.
 
 {% hint style="info" %}
-You will not need to purchase any textbooks for this class.&#x20;
+You will not need to purchase any textbooks for this class. All readings will be provided as digital copies or links.&#x20;
 {% endhint %}
-
-Some readings will be posted to a folder, "Required readings" or "Supplemental Readings" (if not required) on Teams (in the general channel), but usually readings will be online, and linked to in the detailed class description for each week.&#x20;
 
 ### What is Social Annotation?
 

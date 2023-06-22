@@ -18,13 +18,13 @@ Please let me know (in advance) if there are good reasons for why you can't get 
 
 ### Important Dates for Term I
 
-| **Assignment**                                                       | **Date due**                                                        |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------- |
-|                                                                      |                                                                     |
-|                                                                      |                                                                     |
-| [Exercises](coursework/assignments/)                                 | Generally 10am the Tuesday of the week after the exercise was begun |
-| [Classnotes](coursework/reflections/2.-obsidian-notes/classnotes.md) | Once a term, 10pm Sundays at the end of the week                    |
-| [Process Letter](coursework/process-letters.md)                      | 4pm Friday of week 13                                               |
+| **Assignment**                                           | **Date due**                                                        |
+| -------------------------------------------------------- | ------------------------------------------------------------------- |
+|                                                          |                                                                     |
+|                                                          |                                                                     |
+| [Exercises](coursework/assignments/)                     | Generally 10am the Tuesday of the week after the exercise was begun |
+| [Classnotes](coursework/reflections/notes/classnotes.md) | Once a term, 10pm Sundays at the end of the week                    |
+| [Process Letter](coursework/process-letters.md)          | 4pm Friday of week 13                                               |
 
 ### Extensions and Accommodations
 

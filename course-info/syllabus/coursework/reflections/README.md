@@ -1,15 +1,15 @@
 # Writing
 
-In the first term, the students will be expected to write short pieces each week to practice the tools of game analysis, and to reflect on your learning. The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when the style, format and goals are unfamiliar. I'll try to make the expectations clear and over time the expected norms of writing will become familiar to you. Above all I just want you to get used to writing without worrying to much about being perfect at it. &#x20;
+{% hint style="danger" %}
+If expectations for writing are ever unclear, talk to your professor. I want to make sure you understand what is expected of you and am **very** **happy** to guide you through the process. My job is to help you!
+{% endhint %}
 
-> "It is much easier to get started if the next step is as feasible as “writing a note,” “collect what is interesting in this paper” or “turning this series of notes into a paragraph” than if we decide to spend the next days with a vague and ill-defined task like “keep working on that overdue paper.”
->
-> Ahrens, Sönke. _How to Take Smart Notes : One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers_ (chp. 13, sect. 5)
+In the first term, the students will be expected to write short pieces each week to practice the tools of academic writing, game analysis, and to reflect on your learning. The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when the style, format and goals are unfamiliar. I'll try to make the expectations clear and over time the expected norms of writing will become familiar to you. Above all I just want you to get used to writing without worrying to much about being perfect at it. &#x20;
 
-Some of the first written work you will work on:
+In the first term, some of the first written work you will work on:
 
-1. Different kinds of [notes](2.-obsidian-notes/) to practice the _smart note_ method.
-2. A [game journal ](game-journal/)detailing your analysis of the game _Crusader Kings III,_ built from incrementally building notes.&#x20;
+1. Different kinds of [notes](notes/) to practice the _smart note_ method.
+2.
 
 In the Winter term, we will be working on a multi-stage [game design project](game-design-project.md).&#x20;
 
