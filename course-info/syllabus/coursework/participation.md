@@ -26,20 +26,19 @@ The most important part of participation is being prepared. You might be willing
 
 ### General principles of assessment for participation:&#x20;
 
-<table><thead><tr><th width="363.5">Work Assessed</th><th>Value</th></tr></thead><tbody><tr><td>Attendance</td><td>0 (not present) or 5 (present) points</td></tr><tr><td>Quality of Participation</td><td>0-5 points</td></tr><tr><td>Weekly Exercise (professor assigns mark)</td><td>0 (not completed) or 5 (completed)</td></tr></tbody></table>
+<table><thead><tr><th width="363.5">Work Assessed</th><th>Value</th></tr></thead><tbody><tr><td>Attendance</td><td>0 (not present) or 5 (present) points</td></tr><tr><td>Quality of Participation</td><td>0-5 points</td></tr><tr><td>Annotations (professor assigned)</td><td>0 (minimum not completed) or 3 (minimum completed) or 5 (exeptional)</td></tr></tbody></table>
 
 You will self-assess your participation mark for each class, but your participation grade remains subject to the oversight (and potential revision) of the professor.
 
-The weekly student evaluation will be filled out by individual students on paper – handed out at the beginning of each class and returned at the end of the class to the professor. If you do not attend class you will receive 0/10 for that class, but can still receive 5 marks for a completed exercise. Students receive 5/15 points for each class simply by showing up. If students have completed the weekly exercise they receive 10/15. Then, the quality of their participation is added, according to the following table:&#x20;
+The weekly student evaluation will be filled out by individual students on paper – handed out at the beginning of each class and returned at the end of the class to the professor. If you do not attend class you will receive 0 for that class, but can still receive up to 5 points for completed annotations. Students receive 5/15 points for each class simply by showing up. If students have completed the weekly annotations they receive up to an additional 5 points. The quality of their participation is quantified, according to the following table:&#x20;
 
-| Points                | Nature of Participation                                                                                                                                                 |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0                     | Student does not engage in participation (i.e. ask questions in class/ on Teams, respond during the in-person portion of class, and has not done the readings.          |
-| 1                     | Student participates but has not read the readings. OR the student does not participate but has read the readings (but not annotated them).                             |
-| 2 (needs improvement) | Student does not participate, but has read and annotated the readings.                                                                                                  |
-| 3 (satisfactory)      | Student participates minimally and has done the readings with minimum number of annotations on hypothesis.                                                              |
-| 4 (above average)     | Student participates more than typical and shows considerable engagement with the readings on hypothesis.                                                               |
-| 5    (rare)           | Student participates exceptionally (asks questions and gives answers during class, posts on Teams and helps peers, and shows exceptional engagement with the readings.  |
+| Points                    | Nature of Participation                                                                                                                                                 |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0**                     | Student does not engage in participation (i.e. ask questions in class/ on Teams, respond during the in-person portion of class, and has not done the readings.          |
+| **2** (needs improvement) | Student participates but has not read the readings. OR the student does not participate but has read the readings.                                                      |
+| **3** (satisfactory)      | Student participates minimally and has done the readings. This is the maximum most students should be assigning to themselves.                                          |
+| **4** (above average)     | Student participates more than typical in comparison to their peers and shows considerable engagement with the readings in their classroom contributions.               |
+| **5**    (rare)           | Student participates exceptionally (asks questions and gives answers during class, posts on Teams and helps peers, and shows exceptional engagement with the readings.  |
 
 In general, here are some examples of the type of questions students will be asked to think about in evaluating their participation:
 

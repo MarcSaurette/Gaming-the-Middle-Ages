@@ -6,6 +6,21 @@ This is why this class is designed to start off slow, getting you to question wh
 
 At the end of the term, you also will be responsible for writing up an [evidence-supported self-assessment](coursework/process-letters.md) of your participation and work (see [Process Letter](coursework/process-letters.md)), taking your written work, participation and other qualitative features into account.
 
+### Evaluation
+
+Fall term will be weighted as 40% of the final grade and Winter Term as 60%.&#x20;
+
+#### Fall Term
+
+| **Assignment**                                     | **Weight**                                                          |
+| -------------------------------------------------- | ------------------------------------------------------------------- |
+| Participation                                      | 25%                                                                 |
+|                                                    |                                                                     |
+| [Exercises](coursework/assignments/)               | Generally 10am the Tuesday of the week after the exercise was begun |
+| [Classnotes](coursework/reflections/classnotes.md) | 5%                                                                  |
+| [Game Texts](coursework/reflections/game-texts.md) | 25%                                                                 |
+| [Process Letter](coursework/process-letters.md)    | 5%                                                                  |
+
 ### Bonus Marks
 
 Students can earn bonus marks by participating in optional supplemental activities:
