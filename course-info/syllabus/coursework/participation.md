@@ -50,6 +50,13 @@ In general, here are some examples of the type of questions students will be ask
 
 While you will be asked to self-evaluate your participation, your professor will also keep track of his subjective evaluation of your work.&#x20;
 
+### Bonus Marks
+
+Students can earn bonus marks by participating in optional supplemental activities:
+
+* the professor will host bi-weekly game afternoons to familiarize students with the range of historical themed games (and have fun)
+* the History Undergraduate Society (HUgS) may organize events, like a field trip to the [WarGame exhibit](https://www.warmuseum.ca/war-games/) at the Canadian War Museum
+
 {% hint style="info" %}
 &#x20;If the professor assesses that a student has consistently (i.e. in every class) participated at an exceptional level throughout the term, the professors may decide to award bonus marks at the end of term, above what the student has self-assessed.
 {% endhint %}

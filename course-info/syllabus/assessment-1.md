@@ -1,6 +1,15 @@
 # Assessment
 
-Most first-year classes in History are full year \(two semester\) courses. We do this so that students who arrive at university have time to settle into class and get accustomed to the expectations of university. 
+Most first-year classes in History are full year (two semester) courses. We do this so that students who arrive at university have time to settle into class and get accustomed to the expectations of university. The First-Year Seminar program is designed specifically to address this, focusing not only on disciplinary content (i.e. teaching you facts about the past) but also teaching skills fundamental for academic success.&#x20;
 
-This class is likewise designed for gradual entry, with the first term designed to have no formal grades assigned for work, but rather there is a mixture of required and optional work that you can use to earn points.You have many different ways of earning points, and once you reach difference levels, you can earn higher and higher grades. 
+This is why this class is designed to start off slow, getting you to question what you already know about the Middle Ages and teaching you the building blocks of historical analysis/writing. I hope that you are able to experience the class as collaborative, not competitive. You are all starting off together and I want you to see each other as peers, colleagues and potential friends from whom you all can learn. Assignments are thus designed with the expectation that you can work together with others or that you see/read other students' work and learn from it. Your peers can be inspiring.&#x20;
+
+At the end of the term, you also will be responsible for writing up an [evidence-supported self-assessment](coursework/process-letters.md) of your participation and work (see [Process Letter](coursework/process-letters.md)), taking your written work, participation and other qualitative features into account.
+
+### Bonus Marks
+
+Students can earn bonus marks by participating in optional supplemental activities:
+
+* the professor will host bi-weekly game afternoons to familiarize students with the range of historical themed games (and have fun)
+* the History Undergraduate Society (HUgS) may organize events, like a field trip to the [WarGame exhibit](https://www.warmuseum.ca/war-games/) at the Canadian War Museum
 
