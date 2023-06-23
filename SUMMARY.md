@@ -28,6 +28,7 @@
 * [Schedule](course-info/schedule/README.md)
 * [Exercises\*](course-info/syllabus/coursework/assignments/README.md)
   * [1. Scavenger Hunt\*](course-info/assignments/1.-scavenger-hunt.md)
+  * [Introduction to Perusall](course-info/assignments/introduction-to-perusall.md)
   * [2. Introduction to Perusall\*](course-info/assignments/2.-introduction-to-perusall.md)
   * [3. Writing up permanent notes](course-info/assignments/3.-writing-up-permanent-notes.md)
   * [4. Writing up idea and brainstorming notes](course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/README.md)

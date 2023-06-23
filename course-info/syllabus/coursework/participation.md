@@ -26,7 +26,7 @@ The most important part of participation is being prepared. You might be willing
 
 ### General principles of assessment for participation:&#x20;
 
-<table><thead><tr><th width="363.5">Work Assessed</th><th>Value</th></tr></thead><tbody><tr><td>Attendance</td><td>0 (not present) or 5 (present) points</td></tr><tr><td>Quality of Participation</td><td>0-5 points</td></tr><tr><td>Annotations (professor assigned)</td><td>0 (minimum not completed) or 3 (minimum completed) or 5 (exeptional)</td></tr></tbody></table>
+<table><thead><tr><th width="363.5">Work Assessed</th><th>Value</th></tr></thead><tbody><tr><td>Attendance</td><td>0 (not present) or 5 (present) points</td></tr><tr><td>Quality of Participation</td><td>0-5 points</td></tr><tr><td>Annotations</td><td>0-5 (based on quality and quantity of annotations assessed by the professor). 5 annotations are considered the minimum. </td></tr></tbody></table>
 
 You will self-assess your participation mark for each class, but your participation grade remains subject to the oversight (and potential revision) of the professor.
 
