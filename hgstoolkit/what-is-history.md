@@ -18,10 +18,10 @@ If you have a laptop/portable device that you will be using this term, bring it 
 The class introduces you to the discipline of History, major concerns and questions, as well as debates about the nature of history.
 
 1. By Wednesday's class, students will need to have read, Danielle Kinsey's "Three Points About History, Especially for Non-Historians." _Canadian Journal of History_ 54, no. 1 (2019): 1-20. [https://www-utpjournals-press.proxy.library.carleton.ca/doi/full/10.3138/cjh.ach.54.1-2.01](https://www-utpjournals-press.proxy.library.carleton.ca/doi/full/10.3138/cjh.ach.54.1-2.01) and posted on [Perusall](../course-info/digital-tools/perusall.md).&#x20;
-2. In Wednesday's class, we will play a quick game of _Timeline_ to get us thinking about how popular games represent historical topics. When you play that game try to think about:
+2. In Wednesday's class, we open with a quick game of _Timeline_ to get us thinking about how popular games represent historical topics (in particular the idea of chronology). When you play that game try to think about:
    1. how the game offers a selective representation of the past
    2. how the game tries to teach you about the past, not just by words, but also by its images/ aesthetic.
-3. On Wednesday, we will explore together the question, "What is History?" I will introduce students to different debates on the topic. We will explore how historical learning and knowledge of history is important (or not important) in our society. We will spend some time talking about the Kinsey reading. Be prepared to come talk generally about how history seems relevent to your lives. We might consider such questions as:
+3. This initial game play on Wednesday will move into a discussion of the question, "What is History?" I will introduce students to different debates on the topic. We will explore how historical learning and knowledge of history is important (or not important) in our society. We will spend some time talking about the Kinsey reading, which we will return to again on Thursday. Be prepared to come talk generally about how history seems relevent to your lives. We might consider such questions as:
    1. what is the difference between the past and history?
    2. what is the nature of History, as practiced in university vs. what we consider popular or public history?
    3. where does the idea and the academic discipline of history come from?
@@ -42,4 +42,4 @@ Ahrens, Sönke. _How to Take Smart Notes : One Simple Technique to Boost Writi
 
 By 5pm, **Tuesday, September 19th,** you need to upload a "literature-note" for Kinsey's article (incorporating your completed annotations) to your student~~-~~work folder on Teams. Each student is asked to create a folder for themself in the "Student Work" folder in the general channel _files_ where they will upload student work over the course of the term, by Tuesday, September&#x20;
 
-Students will be expected to complete this exercise on their own time. [Instructions here](../course-info/assignments/2.-introduction-to-perusall-1.md).&#x20;
+Students will be expected to complete this exercise on their own time. [Instructions here](../course-info/assignments/2.-introduction-to-perusall.md).&#x20;
