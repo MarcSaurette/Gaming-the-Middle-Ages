@@ -12,19 +12,19 @@ Fall term will be weighted as 40% of the final grade and Winter Term as 60%.&#x2
 
 #### Fall Term
 
-| **Assignment**                                     | **Weight**                                                          |
-| -------------------------------------------------- | ------------------------------------------------------------------- |
-| Participation                                      | 25%                                                                 |
-|                                                    |                                                                     |
-| [Exercises](coursework/assignments/)               | Generally 10am the Tuesday of the week after the exercise was begun |
-| [Classnotes](coursework/reflections/classnotes.md) | 5%                                                                  |
-| [Game Texts](coursework/reflections/game-texts.md) | 25%                                                                 |
-| [Process Letter](coursework/process-letters.md)    | 5%                                                                  |
+| **Assignment**                                     | **Weight** |
+| -------------------------------------------------- | ---------- |
+| Participation                                      | 25%        |
+|                                                    |            |
+| [Exercises](coursework/assignments/)               | 40%        |
+| [Classnotes](coursework/reflections/classnotes.md) | 5%         |
+| [Game Texts](coursework/reflections/game-texts.md) | 25%        |
+| [Process Letter](coursework/process-letters.md)    | 5%         |
 
 ### Bonus Marks
 
 Students can earn bonus marks by participating in optional supplemental activities:
 
-* the professor will host bi-weekly game afternoons to familiarize students with the range of historical themed games (and have fun)
+* the professor will host weekly game afternoons to familiarize students with the range of historical themed games (and have fun)
 * the History Undergraduate Society (HUgS) may organize events, like a field trip to the [WarGame exhibit](https://www.warmuseum.ca/war-games/) at the Canadian War Museum
 

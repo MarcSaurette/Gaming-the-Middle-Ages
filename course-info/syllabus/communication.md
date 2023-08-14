@@ -14,17 +14,11 @@ Only rarely should you email me (the professor) because it'll likely get caught 
 
 Communicating with one another is the key to a successful class.&#x20;
 
-Although it probably will feel a bit over-structured, please read the following carefully. Knowing all of the avenues and opportunities for contact and communication – and maximizing the opportunities you have – will be crucial to making sure you have the best learning experience possible in this course.
-
-{% hint style="info" %}
-Information about the process to request an extension/accommodation for reasons of personal/health emergency is found in [Deadlines](deadlines.md)
-{% endhint %}
-
 #### **Basic Course Information**&#x20;
 
 1. The static website here on [gitbook.com](https://marc-saurette.gitbook.io/gaming-the-middle-ages/) will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc.&#x20;
 2. Our "Gaming the Middle Ages" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run (should they be needed). It will be a hub with links to the digital tools and readings we will be using in the course.  Note: you must be logged in to your Carleton cmail account to access [Teams](../digital-tools/teams.md).&#x20;
-3. Our Brightspace coursepage will only be used minimally - for some learning activities/ student success skills developed for use in first-year seminars.
+3. Our Brightspace coursepage not be used at all.&#x20;
 
 {% hint style="info" %}
 ·Since we will often announce and reiterate a variety of important logistical information live in class (not all of which will be necessarily announced elsewhere), you need to attend class consistently, and check with your peers about whether you missed any logistical information if you were not able to attend a class.
@@ -54,13 +48,12 @@ There will be a variety of official channels through which you can connect with 
 * MS Teams chat/ videoconference functions before, during and after class
 * Small group breakouts in class
 * Self-scheduled group meetings you can organize via Teams
-* outside of class [Discord](broken-reference)
 
 #### **Live Contact with Professor**
 
 You will be able to connect with the professor  in and out of class. Outside of the normal give-and-take of class discussions, you can meet individually (in person or online via Teams) with the professor, either as on audio or videoconference via Teams. Live contact is the best way to address complex questions about an assignment you are working on, issues you are having with the course&#x20;
 
-* The professor will have office hours through Teams.
+* The professor will have office hours through Teams and in person.&#x20;
 * We will have  class time each week where we will be able to engage in discussions and debates
 
 #### **Written Contact with Professor**
@@ -74,7 +67,7 @@ When written communication is absolutely necessary, we will exclusively use the 
 We will do our best to respond to your message as soon as feasible and definitely within two days. Please note, however:
 
 * Two working days starts from the first receivable working hours after they are sent. So, if you message us on Friday at 5pm, it will be considered to have been officially received as of Monday 9AM, meaning that we will seek to respond by Wednesday 9AM. It also means if you message us at noon Thursday, for example, we will seek to respond before Monday at noon.
-* Please also note that we might not always be able to respond within 48 hrs. Given the possible changes to circumstances given COVID-19 and the higher than normal enrollment numbers, there might be other circumstances that will make it impossible to respond within 48 hrs.
+* Please also note that we might not always be able to respond within 48 hrs.
 
 Given all that, if it is possible to do so, it is almost always more efficient to connect with us live before/after class and/or during office hours (one of which we have every day of the week).
 

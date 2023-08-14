@@ -6,7 +6,7 @@ The modern "seminar" is a form of small-group learning institutionalized in nine
 
 In the German model (which was the model for British/ Canadian/ American/ French universities), the professor was an elite researcher, who worked on his research only with the best of his advanced students. I say "his", because in the ninteenth-century universities, professors were men (with a few rare, but noteable [exceptions](https://www.agnesscott.edu/lriddle/women/kova.htm)). A seminar was something more like graduate school training.&#x20;
 
-![](../../.gitbook/assets/Seedlings.png)
+<figure><img src="../../.gitbook/assets/medieval-garden.jpg" alt="medieval manuscript image of a lush garden, with flowering plants and trees"><figcaption></figcaption></figure>
 
 But this elite (elitest?) definition of seminar belies its medieval roots. In the Classical world, if you talked about a _seminarium_, you would be referring to a "nursery" for plants. In the Middle Ages, however, a _seminarium_ was a place where people began their studies, usually in the Church – the medieval metaphor being that young minds needed to be watered and cared for until they are established enough to thrive on their own. This is from where we get the modern English term, "seminary" (i.e. a place where priests learn).&#x20;
 

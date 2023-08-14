@@ -1,9 +1,9 @@
 # Deadlines\*
 
 {% hint style="danger" %}
-Late assignments will be penalized at the rate of **5% per 24 hour period** that the assignment is late. Thus a late project due on Monday at 10am but handed in at Monday 11am or Tuesday 9 am will both be subject to the same late penalty deductions. Delays are cummulative, thus something 25 hours late = 2 x 24hr = 10% deduction.&#x20;
+Late assignments will be penalized at the rate of **5% per 24 hour period** that the assignment is late. Thus a late project due on Monday at 10am but handed in at Monday 11am or Tuesday 9 am will both be subject to the same late penalty deductions. Delays are cumulative, thus something 25 hours late = 2 x 24hr = 10% deduction.&#x20;
 
-Some assignments will not be accepted if they are late.
+The professor may also choose to not accept some late assignments.
 {% endhint %}
 
 I realize you will be asked to make choices about how to allot your time this year. You need to choose between school work and life outside of university. You will also need to decide how much time you spend on each class. Late penalties are meant to keep a level-playing field between classes and between students, to motivate everyone to play by the rules. &#x20;
@@ -14,12 +14,12 @@ In this course students will sometimes be working together in small groups. When
 
 ### Important Dates for Fall Term
 
-| **Assignment**                                     | **Date due**                                                        |
-| -------------------------------------------------- | ------------------------------------------------------------------- |
-| [Game Texts](coursework/reflections/game-texts.md) | Depends on your character, in the second half of Fall term.         |
-| [Exercises](coursework/assignments/)               | Generally 10am the Tuesday of the week after the exercise was begun |
-| [Classnotes](coursework/reflections/classnotes.md) | Once a term, 10pm Sundays at the end of the week                    |
-| [Process Letter](coursework/process-letters.md)    | 4pm Friday of week 13                                               |
+| **Assignment**                                     | **Date due**                                                                 |
+| -------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Game Texts](coursework/reflections/game-texts.md) | Depends on your character, two assignments in the second half of Fall term.  |
+| [Exercises](coursework/assignments/)               | Generally 10am the Tuesday of the week after the exercise was begun          |
+| [Classnotes](coursework/reflections/classnotes.md) | Once a term, 10pm Sundays at the end of the week                             |
+| [Process Letter](coursework/process-letters.md)    | 4pm Friday of week 13                                                        |
 
 ### Extensions and Accommodations
 

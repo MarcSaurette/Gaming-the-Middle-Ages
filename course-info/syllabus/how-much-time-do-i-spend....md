@@ -8,7 +8,7 @@ I certainly understand that students all have commitments beside this class – 
 
 Expect to put in about 9-12 hrs per week for this class alone.
 
-* Our class is officially allotted 3hrs/ week of instructional time. This will be divided between lectures and time for practical and/or group exercises that we will work on together during class time (Mondays & Wednesdays).
+* Our class is officially allotted 3hrs/ week of instructional time. This will be divided between lectures and time for practical and/or group exercises that we will work on together during class time.
 
 In university, we consider students as largely independent learners. We thus imagine classroom meetings as a jumping off point for students to keep going. **Self-directed study** is what really allows students familiarize themselves with the content of the lectures. Most courses expect that you spend 2-3 hours/ week of work at home for each hour of classroom instruction (so, in our case, expect to work about 6-9 hours per week reading, writing and thinking).&#x20;
 

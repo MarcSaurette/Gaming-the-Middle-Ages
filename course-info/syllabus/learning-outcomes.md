@@ -38,8 +38,8 @@ In terms of **content**, you will:
 **Digital skills**
 
 1. **digital fluency**: literacy, learning and collaboration
-2. **software use**
-3. **understanding digital systems**
+2. **software use**: installing, using and creating with new software
+3. **understanding digital systems**: making sense of how digital information sharing works
 
 **Cognitive Skills**
 
@@ -48,11 +48,11 @@ In terms of **content**, you will:
 3. **Communication**: storytelling and public speaking, active listening, synthesizing messages
 4. **Mental flexibility**: creativitiy and imagination, translating knowledge to different contexts, evaluating different perspectives
 
-Interpersonal Skills:
+**Interpersonal Skills:**
 
 1. **Developing relationships**: practicing empathy, trust, humility
 2. **Teamwork effectiveness**: motivating teammates, resolving conflicts, collaboration, coaching
-3. Self-Leadership: self-awareness and managment, understanding own strengths and weaknesses, self-confidence
+3. **Self-Leadershi**p: self-awareness and managment, understanding own strengths and weaknesses, self-confidence
 
 {% hint style="info" %}
 Learning outcomes are usually practical things, such as (imagine this said in a grumpy professor voice), "Learning enterprise tools allow you to succeed in the world after graduation". But one of the most important things to do in this class is to get to know your fellow students!&#x20;
