@@ -18,7 +18,7 @@ William J. White, "The Right to Dream of the Middle Ages: Simulating the Medieva
 
 ### Practice
 
-Complete [Exercise 9](../course-info/assignments/9.-game-journal-context.md).
+Complete [Exercise 9](broken-reference).
 
 ### Going Further
 

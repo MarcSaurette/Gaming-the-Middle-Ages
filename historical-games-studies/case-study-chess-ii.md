@@ -26,7 +26,7 @@ A medieval manuscript depicting two individuals playing chess (see bottom detail
 
 ### Practice
 
-Before November 2nd's class, complete a _Game Object Note_ in Obsidian. This will require that students download and add a new simple template to your Obsidian vault. On November 2nd, we will discuss three different chess pieces, which you will have written about, as described in [exercise 8](../course-info/assignments/8.-in-class-exercise-material-culture.md).&#x20;
+Before November 2nd's class, complete a _Game Object Note_ in Obsidian. This will require that students download and add a new simple template to your Obsidian vault. On November 2nd, we will discuss three different chess pieces, which you will have written about, as described in [exercise 8](broken-reference).&#x20;
 
 ### Going Further
 

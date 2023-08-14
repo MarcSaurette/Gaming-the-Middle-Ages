@@ -18,7 +18,7 @@ San Nicolás Romera, C., Nicolás Ojeda, M. Á., & Ros Velasco, J. (2018). "Vide
 
 ### Practice
 
-Complete [exercise 10](../course-info/9.-game-journal-stage-2.md).&#x20;
+Complete [exercise 10](broken-reference).&#x20;
 
 ### Going Further
 

@@ -19,7 +19,7 @@ Deterding, Sebastian, and Jose Zagal. _Role-Playing Game Studies: a Transmedial 
 
 ### Practice
 
-Complete [exercise 7](../course-info/assignments/7.-game-journal-stage-1.md).&#x20;
+Complete [exercise 7](broken-reference).&#x20;
 
 ### Going Further
 

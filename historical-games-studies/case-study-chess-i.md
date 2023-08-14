@@ -21,7 +21,7 @@ Play a game of chess on [https://www.chess.com/play/computer](https://www.chess.
 
 On Wednesday, half the class (tutors) will teach the other half of class (pupils) how to play chess. [The exercise is explained here](../course-info/assignments/6.-in-class-game-description-exercise.md).&#x20;
 
-By the end of reading week (Sunday night, October 30th), please complete the [first stage](../course-info/assignments/7.-game-journal-stage-1.md) of your independent work assignment - a game journal looking at _Crusader Kings III._&#x20;
+By the end of reading week (Sunday night, October 30th), please complete the [first stage](broken-reference) of your independent work assignment - a game journal looking at _Crusader Kings III._&#x20;
 
 ### Going Further
 
