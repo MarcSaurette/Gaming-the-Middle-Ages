@@ -32,7 +32,7 @@
   * [2. Introduction to Perusall\*](course-info/assignments/2.-introduction-to-perusall.md)
   * [3. Writing up permanent notes](course-info/assignments/3.-writing-up-permanent-notes.md)
   * [4. Writing up idea and brainstorming notes](course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/README.md)
-    * [4.2 What Type of Player Are You?](course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/4.2-what-type-of-player-are-you.md)
+    * [5. What Type of Player Are You?](course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/5.-what-type-of-player-are-you.md)
   * [4. Writing up a Reference note\*](course-info/assignments/4.-writing-up-a-reference-note.md)
   * [6. In-class exercise: Game Communication](course-info/assignments/6.-in-class-game-description-exercise.md)
   * [Understanding the structure of a journal article](course-info/assignments/understanding-the-structure-of-a-journal-article.md)
