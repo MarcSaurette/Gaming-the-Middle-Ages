@@ -27,6 +27,7 @@
   * [Deadlines\*](course-info/syllabus/deadlines.md)
 * [Schedule](course-info/schedule/README.md)
 * [Exercises\*](course-info/syllabus/coursework/assignments/README.md)
+  * [2. Profile\*](course-info/assignments/2.-profile.md)
   * [1. Scavenger Hunt\*](course-info/assignments/1.-scavenger-hunt.md)
   * [2. Introduction to Perusall\*](course-info/assignments/2.-introduction-to-perusall.md)
   * [3. Writing up permanent notes](course-info/assignments/3.-writing-up-permanent-notes.md)
@@ -75,3 +76,7 @@
 * [Digital Game Case Study: Assassin's Creed](historical-games-studies/digital-game-case-study-assassins-creed.md)
 * [Independent Work](historical-games-studies/independent-work.md)
 * [Finale](historical-games-studies/finale.md)
+
+***
+
+* [Profile](profile.md)
