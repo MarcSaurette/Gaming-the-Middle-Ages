@@ -1,4 +1,4 @@
-# Orientation
+# Prelude
 
 ### Goals for this week (September 6 and 8th, 2023)
 
@@ -15,14 +15,14 @@ By the end of the first week, what should you **know**, be able to **do** and **
 The class provides a transition back to school. We'll discuss the syllabus and getting to know one another. This week I want you to:&#x20;
 
 1. Make sure you can access your Carleton email (some version of your name + ends in @cmail.carleton.ca)
-2. Complete a scavenger hunt in small groups on Friday, September 9th (to be released at the beginning of class).&#x20;
-3. Read the syllabus and [schedule](../course-info/schedule/) on Gitbook (i.e. this place). Identify any questions you have and write them down. Bring them to class on Wednesday, September 13th.&#x20;
+2. Complete a [scavenger hunt](../course-info/assignments/1.-scavenger-hunt.md) in small groups on Friday, September 9th (to be released by the beginning of class).&#x20;
+3. Read the syllabus and [schedule](../course-info/schedule/) on Gitbook (i.e. this place). Identify any questions you have and write them down. Bring them to class on the next Wednesday, September 13th.&#x20;
 4. Begin to use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
 5. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year. Follow instructions to sign up for a [Perusall](../course-info/digital-tools/perusall.md) account and join the class shared library.  Provide me with your username for Perusall and for google apps in this [spreadsheet](https://docs.google.com/spreadsheets/d/1o4OynJBMgJcuCVMLgcVruZjEQEMUv7NFOFz-K9f3jYA/edit?usp=sharing).&#x20;
 
 ### Read/Watch/Listen
 
-Read the syllabus section of this online course guide and also the sections on Digital Tools.&#x20;
+Read the [syllabus](../course-info/syllabus/) section of this online course guide and also the sections on [Digital Tools](../course-info/digital-tools/).&#x20;
 
 ### Practice
 
