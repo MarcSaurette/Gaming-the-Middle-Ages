@@ -1,4 +1,4 @@
-# Notes\*
+# Notes
 
 > "It is much easier to get started if the next step is as feasible as “writing a note,” “collect what is interesting in this paper” or “turning this series of notes into a paragraph” than if we decide to spend the next days with a vague and ill-defined task like “keep working on that overdue paper.”
 >
@@ -13,6 +13,8 @@ Ahrens' method is not medium dependent - you can do it using paper cards or many
 ### What kind of smartnotes do I write?
 
 As outlined in the weekly [exercises](../assignments/), we will practice reading academic works and creating effective and useful notes from them. Building up your own smart note system requires that students work up foundational building blocks (references to works read) and notes that build off of them (literature and permanent notes). For history, texts form the foundational building blocks of our ideas - reading written history and then recording our thoughts on evidence (no matter if evidence takes the form of texts, images, material culture etc.)
+
+Note templates can be copied from this [google folder](https://drive.google.com/drive/folders/119\_pwvzgFRx3ZiLtbci4FgwWL3npf4Nr?usp=sharing).
 
 {% tabs %}
 {% tab title="Transitory Notes" %}
