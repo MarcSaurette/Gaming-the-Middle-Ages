@@ -1,6 +1,6 @@
 # How to join class
 
-Our classes are scheduled take place on Mondays and Wednesdays from 11h30until 13h00. As of June, our class will be located in [room 431 ](https://carleton.ca/tls/rooms/tory-building-431/)in Tory Building.
+Our classes are scheduled take place on Wednesdays and Fridays from 10h00until 11h30. As of August, our class will be located in [room 431 ](https://carleton.ca/tls/rooms/tory-building-431/)in Tory Building.
 
 We will also be using a number of online resources to help with communication, file sharing and explaining learning activities.&#x20;
 
@@ -14,3 +14,4 @@ We will also be using a number of online resources to help with communication, f
 {% hint style="success" %}
 If you are feeling particularly ambitious, before the first class you can sign up for a Perusall account and [provide me with your username](https://docs.google.com/spreadsheets/d/1o4OynJBMgJcuCVMLgcVruZjEQEMUv7NFOFz-K9f3jYA/edit?usp=sharing) for that and for google apps.&#x20;
 {% endhint %}
+

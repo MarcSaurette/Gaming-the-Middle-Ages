@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FYSM 1405A: Gaming the Middle Ages](README.md)
+* [FYSM 1405A: Gaming the Middle Ages (2023/24)](README.md)
 * [How to join class](how-to-join-the-online-class.md)
 
 ## Course Information <a href="#course-info" id="course-info"></a>
