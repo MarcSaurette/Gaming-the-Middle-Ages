@@ -2,10 +2,9 @@
 
 ### Goals for this week (September 19th/21st)
 
-1. Make sure that all students have signed up to submit [classnotes](../course-info/syllabus/coursework/reflections/classnotes.md) twice a term. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing) if you have not already done so.
-2. Have students copy information produced in the tutorial level "game" and in our [first exercise](../course-info/assignments/2.-introduction-to-perusall.md) into a [spreadsheet](https://docs.google.com/spreadsheets/d/11qySQYeDCusmpIE28vK8rXUAB9KG5S8Ex-gD5SdNE6g/edit?usp=sharing) used to keep track of people's information
-3. By the end of this week, students will get initial feedback about their first literature note. The professor will also distribute links to individualized spreadsheets for keeping track of work and receiving feedback.&#x20;
-4. Discuss scholarly ideas of the Middle Ages as well as common myths about it; make students aware that many truths we take to be self-evident about the Middle Ages are actually ninteenth-century inventions.&#x20;
+1. By Wednesday, all students need to have signed up to submit [classnotes](../course-info/syllabus/coursework/reflections/classnotes.md) twice a term. [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing) if you have not already done so.
+2. By the end of this week, students will get initial feedback about their profile. The professor will also distribute links to individualized spreadsheets for keeping track of work and receiving feedback.&#x20;
+3. Discuss scholarly ideas of the Middle Ages as well as common myths about it; make students aware that many truths we take to be self-evident about the Middle Ages are actually ninteenth-century inventions.&#x20;
 
 ### Overview:
 
