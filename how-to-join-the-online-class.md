@@ -1,6 +1,6 @@
 # How to join class
 
-Our classes are scheduled take place on Wednesdays and Fridays from 10h00until 11h30. As of August, our class will be located in [room 431 ](https://carleton.ca/tls/rooms/tory-building-431/)in Tory Building.
+Our classes are scheduled take place on Wednesdays and Fridays from 10h00 until 11h30. As of August, our class will be located in [room 431 ](https://carleton.ca/tls/rooms/tory-building-431/)in Tory Building.
 
 We will also be using a number of online resources to help with communication, file sharing and explaining learning activities.&#x20;
 
