@@ -26,7 +26,7 @@ Read the introduction and chapter one of Kaufman, Amy S., and Paul B. Sturtevant
 
 ### Practice
 
-By 10am on Tuesday, September 25th, you will write up a literature note and a permanent describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th. [A detailed guide for completing this are available here](../course-info/assignments/3.1-writing-up-permanent-notes.md).
+By 10am on Tuesday, September 25th, you will write up a literature note and a permanent describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th. [A detailed guide for completing this are available here](../course-info/assignments/3.1-writing-up-a-permanent-note.md).
 
 ### Going Further
 

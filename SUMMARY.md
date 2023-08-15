@@ -30,7 +30,7 @@
   * [1. Scavenger Hunt\*](course-info/assignments/1.-scavenger-hunt.md)
   * [2.1 Profile\*](course-info/assignments/2.1-profile.md)
   * [2.2 Introduction to Perusall](course-info/assignments/2.2-introduction-to-perusall.md)
-  * [3.1 Writing up permanent notes\*](course-info/assignments/3.1-writing-up-permanent-notes.md)
+  * [3.1 Writing up a permanent note\*](course-info/assignments/3.1-writing-up-a-permanent-note.md)
   * [4. Writing up idea and brainstorming notes](course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/README.md)
     * [5. What Type of Player Are You?](course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/4.2-what-type-of-player-are-you.md)
   * [4. Writing up a Reference note\*](course-info/assignments/4.-writing-up-a-reference-note.md)
