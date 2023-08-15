@@ -28,7 +28,7 @@ The class introduces you to the discipline of History, major concerns and questi
    4. what is the use of history? how can history be misused?
    5. where do you get your 'history' from?
    6. Do you think games can be "History"?
-4. On Friday, we will [introduce students to Perusall](../course-info/assignments/2.-introduction-to-perusall.md). In class, we will practice using the platform to reread and annotate the Kinsey article together. Your annotations (and those of the class) will provide the raw material for our discussion.&#x20;
+4. On Friday, we will [introduce students to Perusall](../course-info/assignments/2.2-introduction-to-perusall.md). In class, we will practice using the platform to reread and annotate the Kinsey article together. Your annotations (and those of the class) will provide the raw material for our discussion.&#x20;
 
 ### Read/Watch/Listen
 
@@ -40,6 +40,6 @@ Ahrens, Sönke. _How to Take Smart Notes : One Simple Technique to Boost Writi
 
 ### Practice
 
-By 10am, **Tuesday, September 19th,** you need to create a [profile](../course-info/assignments/2.-profile.md) for yourself. On Teams, each student is asked to create a folder for themself in the "Student Work" folder in the general channel _files._ Over the course of the term, students will upload student work there (or links to it).
+By 10am, **Tuesday, September 19th,** you need to create a [profile](../course-info/assignments/2.1-profile.md) for yourself. On Teams, each student is asked to create a folder for themself in the "Student Work" folder in the general channel _files._ Over the course of the term, students will upload student work there (or links to it).
 
-Students will be expected to complete this exercise on their own time. [Instructions here](../course-info/assignments/2.-profile.md).&#x20;
+Students will be expected to complete this exercise on their own time. [Instructions here](../course-info/assignments/2.1-profile.md).&#x20;
