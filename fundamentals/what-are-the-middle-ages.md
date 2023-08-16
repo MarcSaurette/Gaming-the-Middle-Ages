@@ -1,6 +1,6 @@
 # What are the Middle Ages?\*
 
-### Goals for this week (September 19th/21st)
+### Goals for this week (September 20th/22nd)
 
 1. By Wednesday, all students need to have signed up for a day to submit [classnotes](../course-info/syllabus/coursework/reflections/classnotes.md). [Sign up here](https://docs.google.com/spreadsheets/d/1sCloWfNgj3t\_YD8-vx2toFdw4BbTuWXFHJr2mHYP5zc/edit?usp=sharing) if you have not already done so.
 2. By the end of this week, students will get initial feedback about their [profile](../course-info/assignments/2.1-profile.md). The professor will also distribute links to individualized spreadsheets for keeping track of work and receiving feedback.&#x20;
@@ -18,15 +18,13 @@ The class introduces you to the Middle Ages. The professor will discuss the diff
 
 Read the introduction and chapter one of Kaufman, Amy S., and Paul B. Sturtevant. [_The Devil’s Historians : How Modern Extremists Abuse the Medieval Past_](https://books-scholarsportal-info.proxy.library.carleton.ca/en/read?id=/ebooks/ebooks5/upress5/2020-06-01/1/9781487587871#page=10). Toronto: University of Toronto Press, 2020.&#x20;
 
-* [https://books-scholarsportal-info.proxy.library.carleton.ca/en/read?id=/ebooks/ebooks5/upress5/2020-06-01/1/9781487587871#page=10](https://books-scholarsportal-info.proxy.library.carleton.ca/en/read?id=/ebooks/ebooks5/upress5/2020-06-01/1/9781487587871#page=10)
-
-{% hint style="info" %}
-[_The Devil’s Historians : How Modern Extremists Abuse the Medieval Past_](https://app.perusall.com/courses/gaming-the-middle-ages-2023-24/the-devil-s-historians-how-modern-extremists-misuse-the-medieval-past-amy-s-kaufman-and-paul-sturtevant?assignmentId=4ndGh4YsAJFumrftF\&part=1) is also posted on Peruall.&#x20;
+{% hint style="danger" %}
+[_The Devil’s Historians : How Modern Extremists Abuse the Medieval Past_](https://app.perusall.com/courses/gaming-the-middle-ages-2023-24/the-devil-s-historians-how-modern-extremists-misuse-the-medieval-past-amy-s-kaufman-and-paul-sturtevant?assignmentId=4ndGh4YsAJFumrftF\&part=1) is posted on Peruall.&#x20;
 {% endhint %}
 
 ### Practice
 
-By 10am on Tuesday, September 25th, you will write up a literature note and a permanent describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. It should be posted to your Student Work folder by the start of class on Monday the 26th. [A detailed guide for completing this are available here](../course-info/assignments/3.1-writing-up-a-permanent-note.md).
+By 10am on Tuesday, September 25th, you will write up a literature note and a permanent describing the major myths of the Middle Ages suggested by Sturtevant and Kaufman's work. [A detailed guide for completing this are available here](../course-info/assignments/3.1-writing-up-a-permanent-note.md).
 
 ### Going Further
 
