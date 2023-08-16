@@ -28,7 +28,7 @@ The class introduces you to the discipline of History, major concerns and questi
    4. what is the use of history? how can history be misused?
    5. where do you get your 'history' from?
    6. Do you think games can be "History"?
-4. On Friday, we will [introduce students to Perusall](../course-info/assignments/2.2-introduction-to-perusall-in-class.md). In class, we will practice using the platform to reread and annotate the Kinsey article together. Your annotations (and those of the class) will provide the raw material for our discussion.&#x20;
+4. On Friday, we will [introduce students to Perusall](../course-info/assignments/2.2-introduction-to-perusall-in-class/). In class, we will practice using the platform to reread and annotate the Kinsey article together. Your annotations (and those of the class) will provide the raw material for our discussion.&#x20;
 
 ### Read/Watch/Listen
 
