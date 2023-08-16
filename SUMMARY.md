@@ -47,17 +47,17 @@
 
 ## Pregame
 
-* [Prelude](pregame/welcome.md)
+* [1. Prelude](pregame/welcome.md)
 
 ## Fundamentals
 
-* [What is History?](hgstoolkit/what-is-history.md)
-* [What are the Middle Ages?\*](fundamentals/what-are-the-middle-ages.md)
-* [What are Games?](fundamentals/what-are-games.md)
+* [2. What is History?](fundamentals/2.-what-is-history.md)
+* [3. What are the Middle Ages?\*](fundamentals/3.-what-are-the-middle-ages.md)
+* [4. What are Games?](fundamentals/4.-what-are-games.md)
 
 ## Historical Games Studies
 
-* [Medieval Games](historical-games-studies/medieval-games.md)
+* [5. Medieval Games](historical-games-studies/5.-medieval-games.md)
 * [Library Games](historical-games-studies/library-games.md)
 * [Case Study: Chess I](historical-games-studies/case-study-chess-i.md)
 * [Case Study: Chess II](historical-games-studies/case-study-chess-ii.md)
