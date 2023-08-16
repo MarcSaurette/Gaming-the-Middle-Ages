@@ -27,7 +27,7 @@ From the past two exercises, you have had experience writing literature notes, s
 
 **C. Add** a new header, "Terminology" underneath "Tags" header. You can autoformat text as headers by clicking on a drop down menu on the tool ribbon in google docs. We'll come back to this later.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-15 at 4.43.58 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-15 at 4.43.58 PM.png" alt=""><figcaption></figcaption></figure>
 
 **D. Work to Understand** the idea a bit more.&#x20;
 
