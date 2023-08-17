@@ -59,14 +59,22 @@
 
 ## Historical Games Studies
 
-* [5. Medieval Games](historical-games-studies/5.-medieval-games/README.md)
-  * [Roleplaying from Jousting to LARPing](historical-games-studies/5.-medieval-games/roleplaying-from-jousting-to-larping.md)
-  * [From 19th wargaming to modern Eurogames](historical-games-studies/5.-medieval-games/from-19th-wargaming-to-modern-eurogames.md)
-  * [Digital Games: survey of medieval videogames](historical-games-studies/5.-medieval-games/digital-games-survey-of-medieval-videogames.md)
+* [5. Medieval Games](historical-games-studies/5.-medieval-games.md)
+  * [Roleplaying from Jousting to LARPing](historical-games-studies/roleplaying-from-jousting-to-larping.md)
+  * [From 19th wargaming to modern Eurogames](historical-games-studies/from-19th-wargaming-to-german-spieljahren.md)
+  * [Digital Games: survey of medieval videogames](historical-games-studies/digital-games-survey-of-medieval-videogames.md)
 * [6. Research Week](historical-games-studies/6.-research-week.md)
-* [7. Page](historical-games-studies/7.-page.md)
-* [Finale](historical-games-studies/finale.md)
+* [7. Mythbusting the Middle Ages](historical-games-studies/7.-mythbusting-the-middle-ages.md)
 
-***
+## The Remaking of the Medieval World, 1204
 
-* [Profile](profile.md)
+* [8. Background to the Fourth Crusade](the-remaking-of-the-medieval-world-1204/8.-background-to-the-fourth-crusade.md)
+* [Game Session 1: Faction Meetings](the-remaking-of-the-medieval-world-1204/game-session-1-faction-meetings.md)
+* [Game Session 2: Debate on Attack](the-remaking-of-the-medieval-world-1204/game-session-2-debate-on-attack.md)
+* [Game Session 3: March Pact Debate](the-remaking-of-the-medieval-world-1204/game-session-3-march-pact-debate.md)
+* [Game Session 4: March Pact Debate](the-remaking-of-the-medieval-world-1204/game-session-4-march-pact-debate.md)
+* [Game Session 5: March Pact](the-remaking-of-the-medieval-world-1204/game-session-5-march-pact.md)
+* [Game Session 6: Siege and Sack](the-remaking-of-the-medieval-world-1204/game-session-6-siege-and-sack.md)
+* [Game Session 7: Committee Deliberations](the-remaking-of-the-medieval-world-1204/game-session-7-committee-deliberations.md)
+* [Game Session 8: Committee Pronouncements and Vote](the-remaking-of-the-medieval-world-1204/game-session-8-committee-pronouncements-and-vote.md)
+* [Finale - Game Outcome and Debrief](the-remaking-of-the-medieval-world-1204/finale-game-outcome-and-debrief.md)
