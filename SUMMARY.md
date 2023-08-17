@@ -59,13 +59,12 @@
 
 ## Historical Games Studies
 
-* [5. Medieval Games](historical-games-studies/5.-medieval-games.md)
+* [5. Medieval Games](historical-games-studies/5.-medieval-games/README.md)
+  * [Roleplaying from Jousting to LARPing](historical-games-studies/5.-medieval-games/roleplaying-from-jousting-to-larping.md)
+  * [From 19th wargaming to modern Eurogames](historical-games-studies/5.-medieval-games/from-19th-wargaming-to-modern-eurogames.md)
+  * [Digital Games: survey of medieval videogames](historical-games-studies/5.-medieval-games/digital-games-survey-of-medieval-videogames.md)
 * [6. Research Week](historical-games-studies/6.-research-week.md)
-* [Roleplaying from Jousting to LARPing](historical-games-studies/roleplaying-from-jousting-to-larping.md)
-* [From 19th wargaming to modern Eurogames](historical-games-studies/from-19th-wargaming-to-german-spieljahren.md)
-* [Digital Games: survey of medieval videogames](historical-games-studies/digital-games-survey-of-medieval-videogames.md)
-* [Digital Game Case Study: Assassin's Creed](historical-games-studies/digital-game-case-study-assassins-creed.md)
-* [Independent Work](historical-games-studies/independent-work.md)
+* [7. Page](historical-games-studies/7.-page.md)
 * [Finale](historical-games-studies/finale.md)
 
 ***

@@ -18,15 +18,15 @@ Consult the manuscript of the _Libro del axedrez, dados e tablas_ \[The Book of 
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 10.41.18 AM.png" alt=""><figcaption><p>f.67r</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 10.41.18 AM.png" alt=""><figcaption><p>f.67r</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 10.40.52 AM.png" alt=""><figcaption><p>f. 67r</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 10.40.52 AM.png" alt=""><figcaption><p>f. 67r</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 10.40.41 AM.png" alt=""><figcaption><p>f. 67r</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 10.40.41 AM.png" alt=""><figcaption><p>f. 67r</p></figcaption></figure>
 
 </div>
 
@@ -36,19 +36,9 @@ The manuscript is printed in the following edition:&#x20;
 
 ### Practice
 
-Create reference notes, as outlined in [exercise no ](../course-info/assignments/4.-writing-up-a-reference-note.md)5.&#x20;
-
-Part of learning about games is playing them. I will host a game afternoon on Thursdays, so that we can get practice and experience with games.&#x20;
-
-This is an experiment.&#x20;
-
-Given our different schedules and demands on our time, it is not always easy to get together in the same room outside of class time. I am going to ask people to sign up for an account on [Boardgame Arena](https://boardgamearena.com/welcome), which is an online space for playing (digitized) boardgames.&#x20;
-
-I've put together a class group, which I think will require that I invite people to it. I will need your account name to find and invite you. Add it to the [spreadsheet](https://docs.google.com/spreadsheets/d/11qySQYeDCusmpIE28vK8rXUAB9KG5S8Ex-gD5SdNE6g/edit?usp=sharing).
+Create reference notes, as outlined in [exercise no ](../../course-info/assignments/4.-writing-up-a-reference-note.md)5.&#x20;
 
 ### Going Further
-
-Etymology of Hazard ([OED](https://www-oed-com.proxy.library.carleton.ca/view/Entry/84853?isAdvanced=false\&result=1\&rskey=0rAGp3&))
 
 An article about the reception and representation of chess by medieval English clergy:
 

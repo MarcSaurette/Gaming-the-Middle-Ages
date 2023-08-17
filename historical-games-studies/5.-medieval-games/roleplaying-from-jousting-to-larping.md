@@ -1,8 +1,8 @@
 # Roleplaying from Jousting to LARPing
 
-### Goals for this week (November 7/9th)
-
-
+{% hint style="info" %}
+Optional
+{% endhint %}
 
 ### Overview:
 
