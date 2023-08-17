@@ -53,7 +53,7 @@
 ## Fundamentals
 
 * [2. What is History?](fundamentals/2.-what-is-history.md)
-* [3. What are the Middle Ages?\*](fundamentals/3.-what-are-the-middle-ages.md)
+* [3. What are the Middle Ages?](fundamentals/3.-what-are-the-middle-ages.md)
 * [4. What are Games?](fundamentals/4.-what-are-games/README.md)
   * [Case Study: Chess](fundamentals/4.-what-are-games/case-study-chess.md)
 
@@ -63,7 +63,7 @@
   * [Roleplaying from Jousting to LARPing](historical-games-studies/roleplaying-from-jousting-to-larping.md)
   * [From 19th wargaming to modern Eurogames](historical-games-studies/from-19th-wargaming-to-german-spieljahren.md)
   * [Digital Games: survey of medieval videogames](historical-games-studies/digital-games-survey-of-medieval-videogames.md)
-* [6. Research Week](historical-games-studies/6.-research-week.md)
+* [6. Research Week\*](historical-games-studies/6.-research-week.md)
 * [7. Mythbusting the Middle Ages](historical-games-studies/7.-mythbusting-the-middle-ages.md)
 
 ## The Remaking of the Medieval World, 1204
@@ -77,4 +77,4 @@
 * [Game Session 6: Siege and Sack](the-remaking-of-the-medieval-world-1204/game-session-6-siege-and-sack.md)
 * [Game Session 7: Committee Deliberations](the-remaking-of-the-medieval-world-1204/game-session-7-committee-deliberations.md)
 * [Game Session 8: Committee Pronouncements and Vote](the-remaking-of-the-medieval-world-1204/game-session-8-committee-pronouncements-and-vote.md)
-* [Finale - Game Outcome and Debrief](the-remaking-of-the-medieval-world-1204/finale-game-outcome-and-debrief.md)
+* [Finale - Game Outcome and Debrief](historical-games-studies/finale.md)

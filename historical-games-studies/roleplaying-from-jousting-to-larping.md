@@ -4,24 +4,12 @@
 Optional
 {% endhint %}
 
-### Overview:
-
-On Monday, we will discuss the importance of role-playing games, from medieval war games (combat simulations) to Victorian and Modern LARPing.&#x20;
-
-On Wednesday, we will have a videoconference with Jeremiah McCall, who will speak about his Historical Problem Space methodology and answer questions.&#x20;
-
 ### Read/Watch/Listen
 
 Deterding, Sebastian, and Jose Zagal. _Role-Playing Game Studies: a Transmedial Approach_. Routledge, 2018 (available on teams, therefore must be annotated from a local file)
 
 * chap. 2 "Definitions of “Role-Playing Games” by José P. Zagal and Sebastian Deterding
 * chap. 5 "Live-Action Role-Playing Games" J. Tuomas Harviainen, Rafael Bienia, Simon Brind, Michael Hitchens, Yaraslau I. Kot, Esther MacCallum-Stewart, David W. Simkins, Jaakko Stenros, and Ian Sturrock
-
-### Practice
-
-Complete [exercise 7](broken-reference).&#x20;
-
-### Going Further
 
 A history of LARPing (blogs):
 
