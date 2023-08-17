@@ -1,8 +1,8 @@
-# Case Study: Chess II
+# Case Study: Chess
 
-### Goals for this week (October 31st /November 2nd)
-
-This week we consider, using the case study of chess, the idea of games as material sources. They are objects that have a solidity, a provenience and a materiality. We will thus consider how games can be understood as material or visual evidence of the past.&#x20;
+{% hint style="info" %}
+Optional!
+{% endhint %}
 
 ### Read/Watch/Listen
 
@@ -23,12 +23,6 @@ Take a look at the following game pieces:
 A medieval manuscript depicting two individuals playing chess (see bottom detail)
 
 * [https://art.thewalters.org/detail/24994/book-of-hours-2/](https://art.thewalters.org/detail/24994/book-of-hours-2/)
-
-### Practice
-
-Before November 2nd's class, complete a _Game Object Note_ in Obsidian. This will require that students download and add a new simple template to your Obsidian vault. On November 2nd, we will discuss three different chess pieces, which you will have written about, as described in [exercise 8](broken-reference).&#x20;
-
-### Going Further
 
 Read Schulte Michael (2017), “Board Games of the Vikings – From Hnefatafl to Chess”, Maal og minne (2): 1–42. [https://core.ac.uk/download/pdf/268146544.pdf](https://core.ac.uk/download/pdf/268146544.pdf)
 

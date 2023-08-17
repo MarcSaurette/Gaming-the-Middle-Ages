@@ -35,6 +35,7 @@
   * [3.2 The Middle Ages in Pop Culture (in class)\*](course-info/assignments/3.2-the-middle-ages-in-pop-culture-in-class.md)
   * [4. Writing up permanent and brainstorming notes](course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/README.md)
   * [5. Writing up a Game note\*](course-info/assignments/4.-writing-up-a-reference-note.md)
+  * [6. Research Quest\*](course-info/assignments/6.-research-quest.md)
 * [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
@@ -53,14 +54,13 @@
 
 * [2. What is History?](fundamentals/2.-what-is-history.md)
 * [3. What are the Middle Ages?\*](fundamentals/3.-what-are-the-middle-ages.md)
-* [4. What are Games?](fundamentals/4.-what-are-games.md)
+* [4. What are Games?](fundamentals/4.-what-are-games/README.md)
+  * [Case Study: Chess](fundamentals/4.-what-are-games/case-study-chess.md)
 
 ## Historical Games Studies
 
 * [5. Medieval Games](historical-games-studies/5.-medieval-games.md)
-* [Library Games](historical-games-studies/library-games.md)
-* [Case Study: Chess I](historical-games-studies/case-study-chess-i.md)
-* [Case Study: Chess II](historical-games-studies/case-study-chess-ii.md)
+* [6. Research Week](historical-games-studies/6.-research-week.md)
 * [Roleplaying from Jousting to LARPing](historical-games-studies/roleplaying-from-jousting-to-larping.md)
 * [From 19th wargaming to modern Eurogames](historical-games-studies/from-19th-wargaming-to-german-spieljahren.md)
 * [Digital Games: survey of medieval videogames](historical-games-studies/digital-games-survey-of-medieval-videogames.md)
