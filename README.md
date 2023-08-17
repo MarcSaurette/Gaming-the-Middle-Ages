@@ -5,7 +5,7 @@ description: >-
   Ontario).
 ---
 
-# FYSM 1405A: Gaming the Middle Ages
+# FYSM 1405A: Gaming the Middle Ages (2023/24)
 
 In today’s pop culture, the medieval world is a source for an almost endless supply of stories and images. This course wants you to consider why. Whether violent Vikings in longboats, cunning kings ruling their courts, or adolescent princesses scheming in their castles (or a hidden dark tower), the Middle Ages provide a ready-made recipe for fun, adventure or horror. But these stories and images are more fantasy than history. This class will help you to identify the historical underpinnings of typical pop culture representations of the Middle Ages. I want students to learn that the Middle Ages is not the white-washed Romantic stereotype that Disney peddles, nor the unrestrainedly dirty/ violent/ intolerant horror show of a _Game of Thrones_ world (and that of most medieval videogames). Current scholarship reveals a diverse and globalized Middle Ages that contradicts the well-worn myths of the Middle Ages sold by nationalists since the nineteenth century.&#x20;
 
@@ -38,4 +38,10 @@ We will be playing or thinking critically about modern analog games (possibly, t
 The first term will be devoted to analyzing and playing games. The second term will be devoted to building games. In the first term, students will learn how to research and write about games and the Middle Ages, and will include regular small assignments (library research, scavenger hunt to discover university resources, research notes). In the second term, we will focus on on a term-long project, working in teams to research, develop and produce a collaborative history-based game.&#x20;
 
 A first-year seminar also functions a bit like an introduction to university. You will develop skills necessary for all students to succeed, not just history majors, like: note-taking, using the library, doing effective research, analyzing texts, writing essays, time management, understanding academic integrity, and presenting ideas to a larger group.
+
+
+
+{% hint style="info" %}
+This website currently does not have detailed notes for the Winter term, so as not to overly complicate an already complicated syllabus.&#x20;
+{% endhint %}
 

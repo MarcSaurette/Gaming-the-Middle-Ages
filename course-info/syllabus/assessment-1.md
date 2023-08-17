@@ -8,7 +8,7 @@ At the end of the term, you also will be responsible for writing up an [evidence
 
 ### Evaluation
 
-Fall term will be weighted as 40% of the final grade and Winter Term as 60%.&#x20;
+Fall term will be weighted as 40% of the final grade and Winter Term as 60%. We will weight the Fall term less, since the traditionally, it is a period of adjustment for first year students.&#x20;
 
 #### Fall Term
 
@@ -20,6 +20,20 @@ Fall term will be weighted as 40% of the final grade and Winter Term as 60%.&#x2
 | [Classnotes](coursework/reflections/classnotes.md) | 5%         |
 | [Game Texts](coursework/reflections/game-texts.md) | 25%        |
 | [Process Letter](coursework/process-letters.md)    | 5%         |
+
+#### Winter Term
+
+| Assignment                         | Weight |
+| ---------------------------------- | ------ |
+| Participation                      | 25%    |
+| Roll\&Race Exercise                | 5%     |
+| Timeline Exercise and Presentation | 10%    |
+| Timeline Cards (supplement)        | 5%     |
+| Character Design (first draft)     | 15%    |
+| Character Design Presentation      | 5%     |
+| Character Design (second draft)    | 15%    |
+| Peer Review                        | 5%     |
+| Historical Context/ Game Mechanics | 15%    |
 
 ### Bonus Marks
 

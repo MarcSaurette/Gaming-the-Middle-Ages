@@ -23,10 +23,6 @@ Often when we have an idea, we try to jot it down somewhere and then hope we fin
 The smart notes process asks people to get things into a note when you have a good thought, and then come back to it later. To have lots of random notes that you process and make sense of. They key to the smart note process is to have ideas, record them and then make sense of them, by adding them to your vault. Eventually, they get incorporated into _idea notes_ or you discard them.&#x20;
 {% endtab %}
 
-{% tab title="Reference Notes" %}
-You make _reference notes_ to practice writing up a proper citation for works we are reading. Proper citation is in part about 1) showing you can follow scholarly norms, in part because 2) sloppy citations make you look unprofessional and 3) (most importantly!) future-you will thank past-you if properly done references are a click away and you can easily track down an origin to your ideas. &#x20;
-{% endtab %}
-
 {% tab title="Literature Notes" %}
 You write _literature notes_ to show how you have thought about the reading. Literature-notes  (and importing thoughts/annotations from hypothes.is) allow you to have a record of passages you found most helpful/ interesting and record _why_ you thought so. This means that these passages (quotations w/annotations) are then available when you want to come back to that topic - in this class or in others (believe me, historians come back to ideas like, "What is history" over and over again...).
 {% endtab %}
