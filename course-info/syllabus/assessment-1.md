@@ -14,8 +14,7 @@ Fall term will be weighted as 40% of the final grade and Winter Term as 60%. We 
 
 | **Assignment**                                     | **Weight** |
 | -------------------------------------------------- | ---------- |
-| Participation                                      | 25%        |
-|                                                    |            |
+| [Participation](coursework/participation.md)       | 25%        |
 | [Exercises](coursework/assignments/)               | 40%        |
 | [Classnotes](coursework/reflections/classnotes.md) | 5%         |
 | [Game Texts](coursework/reflections/game-texts.md) | 25%        |
