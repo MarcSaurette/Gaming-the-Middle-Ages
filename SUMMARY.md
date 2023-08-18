@@ -24,6 +24,7 @@
     * [Peer Feedback](course-info/syllabus/coursework/peer-feedback.md)
     * [Process Letters](course-info/syllabus/coursework/process-letters.md)
   * [Assessment](course-info/syllabus/assessment-1.md)
+  * [Plagiarism](course-info/syllabus/plagiarism.md)
   * [Deadlines\*](course-info/syllabus/deadlines.md)
 * [Schedule](course-info/schedule/README.md)
 * [Exercises\*](course-info/syllabus/coursework/assignments/README.md)
