@@ -57,6 +57,7 @@
 * [3. What are the Middle Ages?](fundamentals/3.-what-are-the-middle-ages.md)
 * [4. What are Games?](fundamentals/4.-what-are-games/README.md)
   * [Case Study: Chess](fundamentals/4.-what-are-games/case-study-chess.md)
+  * [Medieval Game Cultures](fundamentals/4.-what-are-games/medieval-game-cultures.md)
 
 ## Historical Games Studies
 
