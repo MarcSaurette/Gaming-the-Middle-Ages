@@ -36,7 +36,7 @@ The manuscript is printed in the following edition:&#x20;
 
 ### Practice
 
-Create reference notes, as outlined in [exercise no ](../../course-info/assignments/5.-writing-up-game-reference-notes.md)5.&#x20;
+Create reference notes, as outlined in [exercise no ](../../course-info/assignments/4.-writing-up-a-reference-note.md)5.&#x20;
 
 ### Going Further
 
