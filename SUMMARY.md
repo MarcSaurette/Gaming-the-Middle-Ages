@@ -34,7 +34,7 @@
     * [Understanding the structure of a journal article](course-info/assignments/understanding-the-structure-of-a-journal-article.md)
   * [3. Writing up a permanent note](course-info/assignments/3.-writing-up-a-permanent-note.md)
   * [4. Writing up permanent and brainstorming notes](course-info/assignments/4.-writing-up-idea-and-brainstorming-notes/README.md)
-  * [5. Writing up a Game note\*](course-info/assignments/4.-writing-up-a-reference-note.md)
+  * [5. Writing up Game reference notes\*](course-info/assignments/5.-writing-up-game-reference-notes.md)
   * [6. Research Quest\*](course-info/assignments/6.-research-quest.md)
 * [Optional Learning Activities](course-info/optional-learning-activities.md)
 * [Digital Tools](course-info/digital-tools/README.md)
