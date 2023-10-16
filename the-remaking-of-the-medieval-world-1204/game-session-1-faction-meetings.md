@@ -3,7 +3,7 @@
 _The Fourth Crusade is in chaos. Its leaders had hoped that by diverting to Constantinople they would pay off their debts, secure Byzantine aid, and win the obedience of the Greek Orthodox Church for the papacy. Now the emperor they installed has been brutally murdered, and his killer sits on the Byzantine throne. The Crusaders must now decide: Should they let this crime go unpunished and continue on to Jerusalem, or should they dare to attack the largest, richest, and most well-defended city in the Christian world? Students will play as Crusaders from one of four historical factions—the Northern French, Imperial, Venetian, or Clerical Crusaders—each with unique personal and faction goals. In the end they will reenact the moment that changed Crusading and the relationship between the Eastern and Western Christian worlds forever._
 
 {% hint style="info" %}
-Students will need to be familiar with their character sheet by the start of this class.&#x20;
+Students will need to be familiar with their character sheet by the start of this class. Some objectives are public and some characters will have private objectives, so be clear in advance how much you want to divulge to your faction or to others. DO NOT SHOW YOUR CHARACTER SHEET to other players even if they are on the same faction as you.&#x20;
 {% endhint %}
 
 ### Goals for this session (November 8th)
