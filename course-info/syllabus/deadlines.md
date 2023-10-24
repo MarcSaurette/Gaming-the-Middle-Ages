@@ -14,12 +14,12 @@ In this course students will sometimes be working together in small groups. When
 
 ### Important Dates for Fall Term
 
-| **Assignment**                                     | **Date due**                                                                 |
-| -------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Game Texts](coursework/reflections/game-texts.md) | Depends on your character, two assignments in the second half of Fall term.  |
-| [Exercises](coursework/assignments/)               | Generally 10am the Tuesday of the week after the exercise was begun          |
-| [Classnotes](coursework/reflections/classnotes.md) | Once a term, 10pm Sundays at the end of the week                             |
-| [Process Letter](coursework/process-letters.md)    | Last day of term (December 8th)                                              |
+| **Assignment**                                                | **Date due**                                                                 |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Game Texts](coursework/reflections/game-speeches-and-texts/) | Depends on your character, two assignments in the second half of Fall term.  |
+| [Exercises](coursework/assignments/)                          | Generally 10am the Tuesday of the week after the exercise was begun          |
+| [Classnotes](coursework/reflections/classnotes.md)            | Once a term, 10pm Sundays at the end of the week                             |
+| [Process Letter](coursework/process-letters.md)               | Last day of term (December 8th)                                              |
 
 ### Extensions and Accommodations
 
