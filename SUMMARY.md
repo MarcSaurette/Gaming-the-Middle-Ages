@@ -21,6 +21,8 @@
       * [Classnotes](course-info/syllabus/coursework/reflections/classnotes.md)
       * [Game Speeches and Texts\*](course-info/syllabus/coursework/reflections/game-speeches-and-texts/README.md)
         * [Reacting to the Past: Introduction](course-info/syllabus/coursework/reflections/game-speeches-and-texts/reacting-to-the-past-introduction.md)
+        * [RTTP Writing Rubric](course-info/syllabus/coursework/reflections/game-speeches-and-texts/rttp-writing-rubric.md)
+        * [RTTP Speaking Rubric](course-info/syllabus/coursework/reflections/game-speeches-and-texts/rttp-speaking-rubric.md)
       * [Game Design Project\*](course-info/syllabus/coursework/reflections/game-design-project.md)
     * [Peer Feedback](course-info/syllabus/coursework/peer-feedback.md)
     * [Process Letters](course-info/syllabus/coursework/process-letters.md)
