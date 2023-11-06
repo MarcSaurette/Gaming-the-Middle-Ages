@@ -1,5 +1,9 @@
 # Game Session 3: March Pact Debate
 
+{% hint style="info" %}
+November 15th, 2023
+{% endhint %}
+
 ### Context
 
 If the gathered crusaders have agreed to attack Constantinople, before the attack they must negotiate what their rule will be like in the event of their success. The March Pact was a sort of proto-constitution for crusader rule in Constantinople, laying out new political, religious and social structures. For the first of the three debates about the pact, the topics addressed are **leadership** and **land organization**.&#x20;

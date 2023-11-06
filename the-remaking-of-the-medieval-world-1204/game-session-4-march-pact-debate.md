@@ -12,7 +12,7 @@ If the gathered crusaders agree to attack Constantinople, before the attack they
 
 Marquis Boniface of Montferrat
 
-For this debate, Boniface may appoint a proxy moderator.
+For this debate, Boniface may appoint a proxy moderator. If so, he must announce the proxy moderator at the start of the debate.&#x20;
 
 ### Questions:&#x20;
 
