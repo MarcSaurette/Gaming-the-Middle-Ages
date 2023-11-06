@@ -10,7 +10,7 @@ Students will need to be familiar with their character sheet by the start of thi
 
 * The professor will offer any final context and answer questions about the game rules
 * Faction members will meet to discuss strategy and potential alliances for the game (based on their characters' **public objectives**,&#x20;
-* Students will need to coordinate speaking presentations and collaboration on research/notes
+* Students will need to [coordinate speaking presentations ](https://docs.google.com/spreadsheets/d/1dGJJVJNTRgS7qoLvDOmXIsl1hq0eW5ZBElUmlUsl8mw/edit?usp=sharing)and collaboration on research/notes
   * Students will need to choose on which topics they will formally present - each person will present at least twice during the game, and a minimum of one faction member will need to present in each debate.&#x20;
   * Each student will prepare written notes on one topic for each debate and send it to your faction members (or even others?) in advance to brief them for the debate.
 
