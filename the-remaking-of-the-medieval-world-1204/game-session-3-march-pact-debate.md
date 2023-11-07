@@ -8,6 +8,8 @@ November 15th, 2023
 
 If the gathered crusaders have agreed to attack Constantinople, before the attack they must negotiate what their rule will be like in the event of their success. The March Pact was a sort of proto-constitution for crusader rule in Constantinople, laying out new political, religious and social structures. For the first of the three debates about the pact, the topics addressed are **leadership** and **land organization**.&#x20;
 
+For background, you may wish to research the historical MARCH PACT agreed to in March, 1204.&#x20;
+
 ### Moderator:
 
 Marquis Boniface of Montferrat
