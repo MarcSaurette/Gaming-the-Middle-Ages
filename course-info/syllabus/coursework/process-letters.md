@@ -1,5 +1,9 @@
 # Process Letters
 
+{% hint style="info" %}
+Your first term process letter (i.e. self evaluation) is due December 6th, 2023. The form is linked here: [https://forms.office.com/r/0EwL2WeZ3m](https://forms.office.com/r/0EwL2WeZ3m)
+{% endhint %}
+
 At the end of the first and second terms, students will be asked to write a critical self-evaluation (_critical_ in the sense of "using logic and evidence to argue"), describing their learning and how their work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative (even work that you don't otherwise turn in).
 
 I will post a form on Teams for students to submit, but you may submit a long form written answer (an argument rather than answers to specific questions) if you prefer. &#x20;
