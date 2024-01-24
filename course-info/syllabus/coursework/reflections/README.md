@@ -16,5 +16,5 @@ In the first term, some of the first written work you will work on will be:
 2. Classnotes, summarizing the readings and lecture/discussion
 3. Game texts, in which you prepare a speech or write a letter in the style of a 13th century medieval persion (as part of the gameplay for the Fourth Crusade game).&#x20;
 
-In the Winter term, we will be working on a multi-stage [game design project](game-design-project.md).&#x20;
+In the Winter term, we will be working on a multi-stage [game design project](game-design-project/).&#x20;
 
